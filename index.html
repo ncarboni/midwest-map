@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Heartland Road Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;600;800&family=Overpass+Mono:wght@400;600&display=swap">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-dataset="data/midwest.json">
+  <div class="wrap">
+    <header class="sign">
+      <div class="sign-inner">
+        <div>
+          <h1 id="title">Heartland Road Atlas</h1>
+          <div class="from" id="from"></div>
+        </div>
+        <nav class="tabs" aria-label="Views">
+          <button type="button" data-view="map" aria-current="page">Map</button>
+          <button type="button" data-view="guides">Trip guides</button>
+          <button type="button" data-view="refs">References</button>
+          <a id="other" href="chicago.html">Chicago guide</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="layout" id="view-map">
+      <aside class="panel">
+        <details class="filters" id="filters" open>
+          <summary>Filters <span class="count" id="count"></span></summary>
+          <div class="fbody">
+            <input type="search" id="q" placeholder="Search names, towns, descriptions" aria-label="Search">
+            <div>
+              <div class="flabel">Topic <button type="button" id="cat-all">All</button></div>
+              <div class="chips" id="cats"></div>
+            </div>
+            <div>
+              <div class="flabel"><span id="area-label">State</span> <button type="button" id="area-all">All</button></div>
+              <div class="chips" id="areas"></div>
+            </div>
+            <div>
+              <div class="flabel"><span id="dist-label">Driving time</span> <span class="val" id="dist-val"></span></div>
+              <input type="range" id="dist" aria-label="Maximum driving time">
+            </div>
+            <div class="grid2">
+              <div>
+                <div class="flabel">Group by</div>
+                <select id="group" aria-label="Group by"></select>
+              </div>
+              <label class="check"><input type="checkbox" id="saved"> Saved only</label>
+            </div>
+          </div>
+        </details>
+        <div class="list" id="list"><div class="empty">Loading sites…</div></div>
+      </aside>
+      <div id="map" role="region" aria-label="Map of sites"></div>
+    </main>
+
+    <section class="page" id="view-guides" hidden></section>
+    <section class="page" id="view-refs" hidden></section>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
