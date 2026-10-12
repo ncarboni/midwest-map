@@ -1,0 +1,910 @@
+{
+ "state": "IL",
+ "name": "Illinois",
+ "regions": {
+  "Champaign-Urbana and East Central Illinois": "Start at home: two free university museums, Allerton's gardens on the Sangamon and Kickapoo's river valley make easy half days. Bloomington and the Amish towns of Arthur and Arcola round out a Saturday.",
+  "Great River Road": "The Mississippi bluffs between Nauvoo, Hannibal and Alton. Pair Elsah's stone village and Pere Marquette's lodge with Mark Twain's Hannibal across the river.",
+  "Northern Illinois and Galena": "A loop of modern architecture and river towns: Farnsworth House, Wright's Laurent House in Rockford, the John Deere and Reagan sites, then two nights in Galena for the bluffs and the Grant Home.",
+  "Route 66 and the Illinois River": "Follow old Route 66 north through Funks Grove and Pontiac to the Gemini Giant, then cut west to Starved Rock and Matthiessen for canyon hiking. Spring brings waterfalls, January brings eagles.",
+  "Southern Illinois and the Lower Ohio": "Sandstone country in the Shawnee National Forest, cypress swamps on the Cache River, then across the Ohio to Paducah's quilt museum and Land Between the Lakes. Best in October.",
+  "Springfield and Lincoln Country": "A classic weekend. Spend one day on Lincoln (the Home, the Presidential Museum, the Old State Capitol and the Tomb) and the next on the Dana-Thomas House and New Salem, with a Route 66 lunch at the Cozy Dog.",
+  "St. Louis Metro": "Plan at least two days. Forest Park alone holds the free art and history museums; add the Gateway Arch, the Wainwright Building, the Pulitzer and the City Museum, and drive to Cahokia Mounds on the Illinois side."
+ },
+ "sites": [
+  {
+   "name": "Krannert Art Museum",
+   "cat": "museum",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 40.102,
+   "lng": -88.2314,
+   "desc": "The University of Illinois art museum, free to all, with ancient Andean ceramics, African art, European paintings and contemporary work.",
+   "refs": [
+    "wpaIL",
+    "enjoyil"
+   ],
+   "url": "https://kam.illinois.edu",
+   "wiki": "Krannert Art Museum",
+   "img": "UIUC_Krannert_Art.JPG",
+   "drive_min": 5,
+   "drive_mi": 2
+  },
+  {
+   "name": "Spurlock Museum of World Cultures",
+   "cat": "museum",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 40.1073,
+   "lng": -88.2214,
+   "desc": "University museum of world cultures with galleries on Mesopotamia, Egypt, Europe, the Americas, Africa and Asia.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": "https://www.spurlock.illinois.edu",
+   "wiki": "Spurlock Museum",
+   "img": "Spurlock_6.jpg",
+   "drive_min": 5,
+   "drive_mi": 2
+  },
+  {
+   "name": "Krannert Center for the Performing Arts",
+   "cat": "arch",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 40.1078,
+   "lng": -88.2228,
+   "desc": "Max Abramovitz's 1969 complex of four theaters around a grand brick lobby, one of the major performing arts centers of the Midwest.",
+   "refs": [
+    "sah"
+   ],
+   "url": "https://krannertcenter.com",
+   "wiki": "Krannert Center for the Performing Arts",
+   "img": "UIUC_Krannert_Performing.JPG",
+   "drive_min": 5,
+   "drive_mi": 2
+  },
+  {
+   "name": "Museum of the Grand Prairie",
+   "cat": "museum",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 40.2054,
+   "lng": -88.394,
+   "desc": "Champaign County Forest Preserve museum in Mahomet on prairie life, Lincoln's circuit-riding years and local history.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Museum of the Grand Prairie",
+   "img": null,
+   "drive_min": 17,
+   "drive_mi": 12
+  },
+  {
+   "name": "Robert Allerton Park",
+   "cat": "nature",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 39.998,
+   "lng": -88.65,
+   "desc": "Robert Allerton's estate on the Sangamon River, given to the University of Illinois in 1946: formal gardens, the Fu Dog Garden and the Sun Singer within woods and prairie.",
+   "refs": [
+    "nhl",
+    "wpaIL"
+   ],
+   "url": "https://allerton.illinois.edu",
+   "wiki": "Robert Allerton Park",
+   "img": "Allerton_House_and_Pond_at_Allerton_Park.jpg",
+   "drive_min": 43,
+   "drive_mi": 26
+  },
+  {
+   "name": "Kickapoo State Recreation Area",
+   "cat": "nature",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 40.1167,
+   "lng": -87.7358,
+   "desc": "Former strip-mine land regrown into forest and ponds on the Middle Fork of the Vermilion, Illinois's only National Wild and Scenic River.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Kickapoo State Recreation Area",
+   "img": null,
+   "drive_min": 38,
+   "drive_mi": 28
+  },
+  {
+   "name": "Lincoln Log Cabin State Historic Site",
+   "cat": "culture",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 39.3806,
+   "lng": -88.2056,
+   "desc": "The farm of Thomas and Sarah Bush Lincoln, run as a living history farm of the 1840s near Charleston.",
+   "refs": [
+    "ildnr",
+    "donald"
+   ],
+   "url": null,
+   "wiki": "Lincoln Log Cabin State Historic Site",
+   "img": "Lincoln_Log_Cabin.jpg",
+   "drive_min": 88,
+   "drive_mi": 62
+  },
+  {
+   "name": "Big Things Small Town, Casey",
+   "cat": "culture",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 39.3022,
+   "lng": -87.9967,
+   "desc": "A small town that turned itself into a roadside attraction with a dozen record-setting giant objects, from a wind chime to a mailbox.",
+   "refs": [
+    "roadside",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Casey, Illinois",
+   "img": "City_Hall,_Casey,_IL,_US.jpg",
+   "drive_min": 111,
+   "drive_mi": 87
+  },
+  {
+   "name": "Arthur and Illinois Amish Country",
+   "cat": "culture",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 39.7144,
+   "lng": -88.4697,
+   "desc": "The center of the largest Amish settlement in Illinois, with farm shops, bakeries and buggies on the county roads.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Arthur, Illinois",
+   "img": "100_Block_South_Vine_street_looking_South_from_railroad..jpg",
+   "drive_min": 60,
+   "drive_mi": 38
+  },
+  {
+   "name": "David Davis Mansion",
+   "cat": "arch",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 40.4822,
+   "lng": -88.9797,
+   "desc": "The 1872 Italianate villa of Lincoln's friend and Supreme Court justice David Davis in Bloomington, a state historic site.",
+   "refs": [
+    "nhl",
+    "donald"
+   ],
+   "url": null,
+   "wiki": "David Davis Mansion",
+   "img": "Bloomington_Il_David_Davis_Mansion3.JPG",
+   "drive_min": 64,
+   "drive_mi": 52
+  },
+  {
+   "name": "McLean County Museum of History",
+   "cat": "museum",
+   "region": "Champaign-Urbana and East Central Illinois",
+   "lat": 40.4796,
+   "lng": -88.9937,
+   "desc": "A regional history museum in the domed 1903 courthouse on Bloomington's square.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "McLean County Museum of History",
+   "img": "McLean_County_Courthouse_and_Square_(7436726814).jpg",
+   "drive_min": 61,
+   "drive_mi": 50
+  },
+  {
+   "name": "Abraham Lincoln Presidential Library and Museum",
+   "cat": "museum",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.8032,
+   "lng": -89.6473,
+   "desc": "Immersive galleries on Lincoln's life and a major research library of Lincoln and Illinois history, opened in 2005.",
+   "refs": [
+    "donald",
+    "enjoyil"
+   ],
+   "url": "https://presidentlincoln.illinois.gov",
+   "wiki": "Abraham Lincoln Presidential Library and Museum",
+   "img": "LincMuseum051916B.jpg",
+   "drive_min": 98,
+   "drive_mi": 85
+  },
+  {
+   "name": "Lincoln Home National Historic Site",
+   "cat": "culture",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.7972,
+   "lng": -89.645,
+   "desc": "The only home Lincoln owned, where he lived from 1844 to 1861, in a restored four-block neighborhood.",
+   "refs": [
+    "nps",
+    "donald"
+   ],
+   "url": "https://www.nps.gov/liho",
+   "wiki": "Lincoln Home National Historic Site",
+   "img": "Lincoln_Home_1.jpg",
+   "drive_min": 99,
+   "drive_mi": 85
+  },
+  {
+   "name": "Dana-Thomas House",
+   "cat": "arch",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.7942,
+   "lng": -89.6514,
+   "desc": "Frank Lloyd Wright's Prairie house for Susan Lawrence Dana (1902 to 1904), with its original art glass and furniture.",
+   "refs": [
+    "storrer",
+    "wrightsites"
+   ],
+   "url": "https://www.dana-thomas.org",
+   "wiki": "Dana–Thomas House",
+   "img": "Dana-Thomas_House,_Lawrence_Avenue_and_4th_Street,_Springfield,_IL_-_53323246686.jpg",
+   "drive_min": 101,
+   "drive_mi": 86
+  },
+  {
+   "name": "Lincoln Tomb",
+   "cat": "culture",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.8233,
+   "lng": -89.6558,
+   "desc": "Burial place of Abraham Lincoln, Mary Lincoln and three of their sons in Oak Ridge Cemetery.",
+   "refs": [
+    "nhl",
+    "donald"
+   ],
+   "url": null,
+   "wiki": "Lincoln Tomb",
+   "img": "Abraham_Lincoln_Tomb_Springfield_Illiois.jpg",
+   "drive_min": 103,
+   "drive_mi": 87
+  },
+  {
+   "name": "Old State Capitol",
+   "cat": "culture",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.8011,
+   "lng": -89.6486,
+   "desc": "The Greek Revival capitol where Lincoln gave the House Divided speech in 1858.",
+   "refs": [
+    "nhl",
+    "donald"
+   ],
+   "url": null,
+   "wiki": "Old State Capitol State Historic Site",
+   "img": "OldStateCapitol051916a.jpg",
+   "drive_min": 99,
+   "drive_mi": 85
+  },
+  {
+   "name": "Illinois State Capitol",
+   "cat": "arch",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.7983,
+   "lng": -89.6547,
+   "desc": "The domed capitol completed in 1888, with free tours of its decorated chambers.",
+   "refs": [
+    "wpaIL"
+   ],
+   "url": null,
+   "wiki": "Illinois State Capitol",
+   "img": "Illinois_State_Capitol_pano.jpg",
+   "drive_min": 101,
+   "drive_mi": 86
+  },
+  {
+   "name": "Illinois State Museum",
+   "cat": "museum",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.7967,
+   "lng": -89.6554,
+   "desc": "Natural history, archaeology and art of Illinois, from mastodons to Native American life and Illinois artists.",
+   "refs": [
+    "wpaIL",
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Illinois State Museum",
+   "img": "Illinois_State_Museum_(7515765048).jpg",
+   "drive_min": 102,
+   "drive_mi": 86
+  },
+  {
+   "name": "Lincoln's New Salem",
+   "cat": "culture",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.9792,
+   "lng": -89.8436,
+   "desc": "Reconstruction of the village where young Lincoln lived from 1831 to 1837.",
+   "refs": [
+    "ildnr",
+    "donald"
+   ],
+   "url": null,
+   "wiki": "Lincoln's New Salem",
+   "img": "New_Salem_welcome_center.JPG",
+   "drive_min": 134,
+   "drive_mi": 103
+  },
+  {
+   "name": "Cozy Dog Drive In",
+   "cat": "culture",
+   "region": "Springfield and Lincoln Country",
+   "lat": 39.7624,
+   "lng": -89.6488,
+   "desc": "Route 66 diner in Springfield that claims the invention of the corn dog on a stick.",
+   "refs": [
+    "wallis",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Cozy Dog Drive In",
+   "img": "Historic_Route_66_-_Welcome_to_the_Cozy_Dog_Drive_In_-_NARA_-_7719434.jpg",
+   "drive_min": 103,
+   "drive_mi": 88
+  },
+  {
+   "name": "Illinois Route 66 Hall of Fame and Museum",
+   "cat": "culture",
+   "region": "Route 66 and the Illinois River",
+   "lat": 40.8806,
+   "lng": -88.6389,
+   "desc": "A Route 66 museum in Pontiac, surrounded by murals and memorabilia of the old highway.",
+   "refs": [
+    "wallis",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Pontiac, Illinois",
+   "img": "Pontiac_City_Hall_and_Fire_Station14.JPG",
+   "drive_min": 101,
+   "drive_mi": 82
+  },
+  {
+   "name": "Funks Grove Pure Maple Sirup",
+   "cat": "culture",
+   "region": "Route 66 and the Illinois River",
+   "lat": 40.3633,
+   "lng": -89.1118,
+   "desc": "Family maple syrup farm on old Route 66 near Shirley, still spelling sirup the old way.",
+   "refs": [
+    "wallis",
+    "jensen"
+   ],
+   "url": null,
+   "wiki": "Funk's Grove Township, McLean County, Illinois",
+   "img": "Map_highlighting_Funks_Grove_Township,_McLean_County,_Illinois.svg",
+   "drive_min": 66,
+   "drive_mi": 57
+  },
+  {
+   "name": "Gemini Giant",
+   "cat": "culture",
+   "region": "Route 66 and the Illinois River",
+   "lat": 41.3061,
+   "lng": -88.1497,
+   "desc": "A 1960s fiberglass Muffler Man astronaut standing on Route 66 in Wilmington.",
+   "refs": [
+    "roadside",
+    "wallis"
+   ],
+   "url": null,
+   "wiki": "Gemini Giant",
+   "img": "Gemini_Giant.jpg",
+   "drive_min": 122,
+   "drive_mi": 96
+  },
+  {
+   "name": "Midewin National Tallgrass Prairie",
+   "cat": "nature",
+   "region": "Route 66 and the Illinois River",
+   "lat": 41.3788,
+   "lng": -88.1113,
+   "desc": "Restored tallgrass prairie on a former army arsenal near Wilmington, grazed by a bison herd.",
+   "refs": [
+    "usfs"
+   ],
+   "url": "https://www.fs.usda.gov/midewin",
+   "wiki": "Midewin National Tallgrass Prairie",
+   "img": "Midewin3.JPG",
+   "drive_min": 141,
+   "drive_mi": 107
+  },
+  {
+   "name": "Starved Rock State Park",
+   "cat": "nature",
+   "region": "Route 66 and the Illinois River",
+   "lat": 41.3214,
+   "lng": -88.9903,
+   "desc": "Sandstone canyons on the Illinois River with spring waterfalls, winter bald eagles and a 1930s CCC lodge.",
+   "refs": [
+    "ildnr",
+    "wpaIL"
+   ],
+   "url": null,
+   "wiki": "Starved Rock State Park",
+   "img": "Starved_Rock_Illinois_on_Illinois_River.jpg",
+   "drive_min": 137,
+   "drive_mi": 116
+  },
+  {
+   "name": "Matthiessen State Park",
+   "cat": "nature",
+   "region": "Route 66 and the Illinois River",
+   "lat": 41.2956,
+   "lng": -89.0253,
+   "desc": "A quieter neighbor of Starved Rock with a deep dells canyon, stone bridges and falls.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Matthiessen State Park",
+   "img": "Matthiessen_State_Park_lower_dells_waterfall_(51274124131).jpg",
+   "drive_min": 137,
+   "drive_mi": 114
+  },
+  {
+   "name": "Peoria Riverfront Museum",
+   "cat": "museum",
+   "region": "Route 66 and the Illinois River",
+   "lat": 40.6894,
+   "lng": -89.5899,
+   "desc": "Art, history and science museum with a planetarium on the Peoria riverfront.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": "https://www.peoriariverfrontmuseum.org",
+   "wiki": "Peoria Riverfront Museum",
+   "img": "Riverfront_Museum_Peoria_20231019_1182.jpg",
+   "drive_min": 103,
+   "drive_mi": 90
+  },
+  {
+   "name": "Wildlife Prairie Park",
+   "cat": "nature",
+   "region": "Route 66 and the Illinois River",
+   "lat": 40.7333,
+   "lng": -89.7333,
+   "desc": "Park near Peoria with bison, elk, wolves and other native animals of Illinois in large habitats.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Wildlife Prairie Park",
+   "img": "Wildlife_Prairie_Park_2007-05-27_Bison_5.jpg",
+   "drive_min": 122,
+   "drive_mi": 103
+  },
+  {
+   "name": "Farnsworth House",
+   "cat": "arch",
+   "region": "Northern Illinois and Galena",
+   "lat": 41.635,
+   "lng": -88.5357,
+   "desc": "Mies van der Rohe's glass house on the Fox River at Plano (1951), a defining work of modern domestic architecture.",
+   "refs": [
+    "mies",
+    "nhl"
+   ],
+   "url": "https://edithfarnsworthhouse.org",
+   "wiki": "Farnsworth House",
+   "img": "Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg",
+   "drive_min": 171,
+   "drive_mi": 118
+  },
+  {
+   "name": "Illinois Railway Museum",
+   "cat": "museum",
+   "region": "Northern Illinois and Galena",
+   "lat": 42.2278,
+   "lng": -88.5286,
+   "desc": "One of the largest railway museums in the country, at Union, with operating trains on summer weekends.",
+   "refs": [
+    "enjoyil",
+    "atlas"
+   ],
+   "url": "https://www.irm.org",
+   "wiki": "Illinois Railway Museum",
+   "img": "Ilinois_Railway_Museum_Overhead.jpg",
+   "drive_min": 226,
+   "drive_mi": 187
+  },
+  {
+   "name": "Laurent House",
+   "cat": "arch",
+   "region": "Northern Illinois and Galena",
+   "lat": 42.2997,
+   "lng": -89.0244,
+   "desc": "Frank Lloyd Wright's Usonian house in Rockford for Kenneth Laurent, a wheelchair user, and an early example of accessible design.",
+   "refs": [
+    "storrer",
+    "wrightsites"
+   ],
+   "url": "https://laurenthouse.com",
+   "wiki": "Kenneth and Phyllis Laurent House",
+   "img": "Kenneth_and_Phyllis_Laurent_House.JPG",
+   "drive_min": 206,
+   "drive_mi": 184
+  },
+  {
+   "name": "Anderson Japanese Gardens",
+   "cat": "nature",
+   "region": "Northern Illinois and Galena",
+   "lat": 42.2901,
+   "lng": -89.0578,
+   "desc": "A celebrated Japanese garden in Rockford with ponds, waterfalls and a tea house.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Anderson Japanese Gardens",
+   "img": "Anderson_Gardens_0458.jpg",
+   "drive_min": 208,
+   "drive_mi": 184
+  },
+  {
+   "name": "Burpee Museum of Natural History",
+   "cat": "museum",
+   "region": "Northern Illinois and Galena",
+   "lat": 42.2773,
+   "lng": -89.0882,
+   "desc": "Rockford museum best known for Jane, a juvenile Tyrannosaurus skeleton.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Burpee Museum of Natural History",
+   "img": "Burpee_museum_rockford.JPG",
+   "drive_min": 208,
+   "drive_mi": 186
+  },
+  {
+   "name": "Ronald Reagan Boyhood Home",
+   "cat": "culture",
+   "region": "Northern Illinois and Galena",
+   "lat": 41.8361,
+   "lng": -89.4807,
+   "desc": "The Dixon house where Reagan lived as a boy in the 1920s.",
+   "refs": [
+    "nps"
+   ],
+   "url": null,
+   "wiki": "Ronald Reagan Boyhood Home",
+   "img": "Ronald_Reagan_Boyhood_Home_(8030104930).jpg",
+   "drive_min": 192,
+   "drive_mi": 161
+  },
+  {
+   "name": "John Deere Historic Site",
+   "cat": "culture",
+   "region": "Northern Illinois and Galena",
+   "lat": 41.8389,
+   "lng": -89.4794,
+   "desc": "Grand Detour, where John Deere built his self-scouring steel plow in 1837, with a working blacksmith shop.",
+   "refs": [
+    "nhl",
+    "wpaIL"
+   ],
+   "url": null,
+   "wiki": "John Deere House and Shop",
+   "img": "John_Deere_House11.jpg",
+   "drive_min": 191,
+   "drive_mi": 161
+  },
+  {
+   "name": "Galena Historic District",
+   "cat": "culture",
+   "region": "Northern Illinois and Galena",
+   "lat": 42.4219,
+   "lng": -90.4292,
+   "desc": "A 19th-century lead-mining boomtown of brick commercial streets in the hills above the Galena River.",
+   "refs": [
+    "chernow",
+    "nyt36"
+   ],
+   "url": "https://www.visitgalena.org",
+   "wiki": "Galena, Illinois",
+   "img": "Galena,_Illinois.jpg",
+   "drive_min": 311,
+   "drive_mi": 255
+  },
+  {
+   "name": "Ulysses S. Grant Home",
+   "cat": "culture",
+   "region": "Northern Illinois and Galena",
+   "lat": 42.4112,
+   "lng": -90.4246,
+   "desc": "The house Galena's citizens gave Grant on his return from the Civil War in 1865.",
+   "refs": [
+    "chernow",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Ulysses S. Grant Home",
+   "img": "Ulysses_S._Grant_Home.jpg",
+   "drive_min": 308,
+   "drive_mi": 254
+  },
+  {
+   "name": "Mississippi Palisades State Park",
+   "cat": "nature",
+   "region": "Northern Illinois and Galena",
+   "lat": 42.1384,
+   "lng": -90.159,
+   "desc": "Limestone bluffs and overlooks above the Mississippi near Savanna.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Mississippi Palisades State Park",
+   "img": "Mississippi_Palisades.jpg",
+   "drive_min": 274,
+   "drive_mi": 228
+  },
+  {
+   "name": "Bishop Hill",
+   "cat": "culture",
+   "region": "Northern Illinois and Galena",
+   "lat": 41.2003,
+   "lng": -90.1189,
+   "desc": "A Swedish Pietist colony founded in 1846, preserved as a village of colony buildings and museums.",
+   "refs": [
+    "nhl",
+    "wpaIL"
+   ],
+   "url": null,
+   "wiki": "Bishop Hill Colony",
+   "img": "Steeple_Building_2_Bishop_Hill_Colony.jpg",
+   "drive_min": 181,
+   "drive_mi": 148
+  },
+  {
+   "name": "Black Hawk State Historic Site",
+   "cat": "culture",
+   "region": "Northern Illinois and Galena",
+   "lat": 41.4673,
+   "lng": -90.5718,
+   "desc": "Wooded bluffs in Rock Island with a museum of the Sauk and Meskwaki nations.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Black Hawk State Historic Site",
+   "img": "Black_hawk_statue.jpg",
+   "drive_min": 206,
+   "drive_mi": 186
+  },
+  {
+   "name": "Nauvoo Historic District",
+   "cat": "culture",
+   "region": "Great River Road",
+   "lat": 40.548,
+   "lng": -91.382,
+   "desc": "Mississippi River town built by Latter-day Saints from 1839 to 1846, with many restored houses and shops.",
+   "refs": [
+    "nhl",
+    "wpaIL"
+   ],
+   "url": null,
+   "wiki": "Nauvoo Historic District",
+   "img": "Joseph_Smith_House,_Nauvoo_(Hancock_County,_Illinois).jpg",
+   "drive_min": 254,
+   "drive_mi": 214
+  },
+  {
+   "name": "Pere Marquette State Park",
+   "cat": "nature",
+   "region": "Great River Road",
+   "lat": 38.9992,
+   "lng": -90.5258,
+   "desc": "Bluffs at the meeting of the Illinois and Mississippi rivers, a CCC stone lodge and winter eagle watching.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Pere Marquette State Park",
+   "img": "Pere_Marquette_Park.jpg",
+   "drive_min": 237,
+   "drive_mi": 190
+  },
+  {
+   "name": "Elsah",
+   "cat": "arch",
+   "region": "Great River Road",
+   "lat": 38.9542,
+   "lng": -90.3553,
+   "desc": "A tiny 19th-century stone village tucked into a hollow of the Great River Road, entirely on the National Register.",
+   "refs": [
+    "sah",
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Elsah, Illinois",
+   "img": "Mill_and_Selma,_Elsah.jpg",
+   "drive_min": 216,
+   "drive_mi": 170
+  },
+  {
+   "name": "National Great Rivers Museum",
+   "cat": "museum",
+   "region": "Great River Road",
+   "lat": 38.8692,
+   "lng": -90.1536,
+   "desc": "Corps of Engineers museum at the Mel Price Locks and Dam, with lock tours.",
+   "refs": [
+    "enjoyil"
+   ],
+   "url": null,
+   "wiki": "Melvin Price Locks and Dam",
+   "img": "Mississippi_River_Lock_and_Dam_number_26.jpg",
+   "drive_min": 202,
+   "drive_mi": 158
+  },
+  {
+   "name": "Lewis and Clark State Historic Site",
+   "cat": "culture",
+   "region": "Great River Road",
+   "lat": 38.8023,
+   "lng": -90.1021,
+   "desc": "Camp River Dubois, where the Corps of Discovery wintered in 1803 to 1804 before heading west.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Lewis and Clark State Historic Site",
+   "img": "Camp_Dubois_reconstruction_034.jpg",
+   "drive_min": 194,
+   "drive_mi": 172
+  },
+  {
+   "name": "Cahokia Mounds",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.6539,
+   "lng": -90.0644,
+   "desc": "The largest pre-Columbian city north of Mexico, centered on Monks Mound. A UNESCO World Heritage Site.",
+   "refs": [
+    "pauketat",
+    "unesco"
+   ],
+   "url": "https://cahokiamounds.org",
+   "wiki": "Cahokia",
+   "img": "Monks_Mound_-_Summer_2024.jpg",
+   "drive_min": 195,
+   "drive_mi": 172
+  },
+  {
+   "name": "Chain of Rocks Bridge",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.7606,
+   "lng": -90.1764,
+   "desc": "The old Route 66 bridge over the Mississippi with its famous 22 degree bend, now open to walkers and cyclists.",
+   "refs": [
+    "wallis",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Chain of Rocks Bridge",
+   "img": "ChainOfRocksBridge_StLouisMO.jpg",
+   "drive_min": 195,
+   "drive_mi": 175
+  },
+  {
+   "name": "World's Largest Catsup Bottle",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.6629,
+   "lng": -89.9823,
+   "desc": "A 1949 water tower in Collinsville shaped like a giant catsup bottle.",
+   "refs": [
+    "roadside",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Brooks Catsup Bottle water tower",
+   "img": "World's_Largest_Catsup_Bottle,_Collinsville,_IL_-_close-up_2025-05-24.jpg",
+   "drive_min": 187,
+   "drive_mi": 167
+  },
+  {
+   "name": "Garden of the Gods",
+   "cat": "nature",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 37.6069,
+   "lng": -88.3947,
+   "desc": "Wind-carved sandstone formations in the Shawnee National Forest with wide views over the hills.",
+   "refs": [
+    "usfs"
+   ],
+   "url": "https://www.fs.usda.gov/shawnee",
+   "wiki": "Garden of the Gods Wilderness",
+   "img": "Garden_of_the_Gods_Sunset.jpg",
+   "drive_min": 277,
+   "drive_mi": 223
+  },
+  {
+   "name": "Giant City State Park",
+   "cat": "nature",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 37.605,
+   "lng": -89.1883,
+   "desc": "Sandstone streets of giant bluffs and a CCC lodge near Carbondale.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Giant City State Park",
+   "img": "Giant_City_State_Park.jpg",
+   "drive_min": 241,
+   "drive_mi": 209
+  },
+  {
+   "name": "Cache River State Natural Area",
+   "cat": "nature",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 37.3622,
+   "lng": -88.9556,
+   "desc": "Cypress and tupelo swamps, with some of the oldest trees east of the Mississippi.",
+   "refs": [
+    "ildnr"
+   ],
+   "url": null,
+   "wiki": "Cache River State Natural Area",
+   "img": "Heron_Pond_in_Cache_River_State_Natural_Area.jpg",
+   "drive_min": 251,
+   "drive_mi": 215
+  },
+  {
+   "name": "Cave-In-Rock State Park",
+   "cat": "nature",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 37.4686,
+   "lng": -88.1558,
+   "desc": "A river cave on the Ohio once used by outlaws and river pirates.",
+   "refs": [
+    "ildnr",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Cave-in-Rock State Park",
+   "img": "Cave-in-rock_IL.jpg",
+   "drive_min": 284,
+   "drive_mi": 207
+  },
+  {
+   "name": "Superman statue, Metropolis",
+   "cat": "culture",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 37.1469,
+   "lng": -88.6911,
+   "desc": "Metropolis embraces its name with a 15 foot Superman statue on the courthouse square.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Metropolis, Illinois",
+   "img": "Metropolis_city_hall.jpg",
+   "drive_min": 264,
+   "drive_mi": 234
+  },
+  {
+   "name": "Fort de Chartres",
+   "cat": "culture",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 38.0847,
+   "lng": -90.1583,
+   "desc": "A reconstructed 18th-century French stone fort in the American Bottom.",
+   "refs": [
+    "ildnr",
+    "wpaIL"
+   ],
+   "url": null,
+   "wiki": "Fort de Chartres",
+   "img": "Fort_de_Chartres_02Aug2007-32.jpg",
+   "drive_min": 275,
+   "drive_mi": 216
+  }
+ ]
+}

@@ -527,19 +527,92 @@ function showView(name, refId) {
 
 /* ---------- start ---------- */
 
+function slug(s) {
+  return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
+
+function airMiles(a, b) {
+  const R = 3958.8, rad = Math.PI / 180;
+  const dLat = (b[0] - a[0]) * rad, dLng = (b[1] - a[1]) * rad;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(a[0] * rad) * Math.cos(b[0] * rad) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+
+async function loadJson(path) {
+  const r = await fetch(path);
+  if (!r.ok) throw new Error(`${path}: ${r.status}`);
+  return r.json();
+}
+
+function buildGuides(intros) {
+  const byRegion = new Map();
+  SITES.forEach(s => {
+    if (!byRegion.has(s.region)) byRegion.set(s.region, []);
+    byRegion.get(s.region).push(s);
+  });
+  const guides = [...byRegion].map(([title, items]) => {
+    items.sort((a, b) => a.drive_min - b.drive_min);
+    const mins = items.map(s => s.drive_min);
+    const n = mins.length;
+    const median = Math.round((mins[(n - 1) >> 1] + mins[n >> 1]) / 2);
+    const band = CFG.bands.find(([, , lo, hi]) => median >= lo && median < hi)[0];
+    return {
+      id: "g-" + slug(title), band, title,
+      intro: intros[title] || "",
+      median_min: median, min_min: mins[0], max_min: mins[n - 1],
+      states: [...new Set(items.map(s => s.state))].sort(),
+      sites: items.map(s => s.id),
+    };
+  });
+  return guides.concat(CFG.extraGuides || []).sort((a, b) => a.median_min - b.median_min);
+}
+
 async function start() {
-  let data;
+  const main = document.body.dataset.dataset;
+  const dir = main.slice(0, main.lastIndexOf("/") + 1);
+  let data, parts, refs;
   try {
-    data = await fetch(document.body.dataset.dataset).then(r => r.json());
+    data = await loadJson(main);
+    CFG = data.config;
+    [parts, refs] = await Promise.all([
+      Promise.all((CFG.files || []).map(f => loadJson(dir + f))),
+      loadJson(dir + CFG.references),
+    ]);
   } catch (e) {
     const help = location.protocol === "file:"
-      ? "Browsers block reading the data file when a page is opened directly from disk. Serve the folder instead, for example run <code>python3 -m http.server</code> inside it and open http://localhost:8000."
-      : "The data file could not be loaded.";
+      ? "Browsers block reading the data files when a page is opened directly from disk. Serve the folder instead, for example run <code>python3 -m http.server</code> inside it and open http://localhost:8000."
+      : `A data file could not be loaded (${esc(e.message)}).`;
     $("list").innerHTML = `<div class="empty">${help}</div>`;
     return;
   }
-  ({ config: CFG, sites: SITES, guides: GUIDES, references: REFS } = data);
-  SITES.forEach(s => { byId[s.id] = s; });
+
+  SITES = data.sites || [];
+  const intros = {};
+  if (parts.length) {
+    CFG.areas = parts.map(p => [p.state, p.name]);
+    parts.forEach(p => {
+      Object.entries(p.regions || {}).forEach(([k, v]) => { if (!intros[k]) intros[k] = v; });
+      p.sites.forEach(s => SITES.push({ ...s, state: p.state, id: `${p.state}-${slug(s.name)}` }));
+    });
+  }
+  SITES.forEach(s => {
+    s.air_mi = Math.round(airMiles(CFG.origin, [s.lat, s.lng]) * 10) / 10;
+    if (CFG.mode === "drive" && s.drive_min == null) {
+      s.drive_mi = Math.round(s.air_mi * 1.2);
+      s.drive_min = Math.round(s.drive_mi / 55 * 60);
+    }
+    byId[s.id] = s;
+  });
+  GUIDES = data.guides || buildGuides(intros);
+  if (CFG.mode !== "drive") {
+    GUIDES.forEach(g => {
+      const d = g.sites.map(id => byId[id].air_mi);
+      g.min_mi = Math.min(...d);
+      g.max_mi = Math.max(...d);
+    });
+  }
+
+  REFS = refs.filter(r => r.id === "wiki" || SITES.some(s => s.refs.includes(r.id)));
   refById = Object.fromEntries(REFS.map(r => [r.id, r]));
   refNum = {};
   REFS.filter(r => r.id !== "wiki").forEach((r, i) => { refNum[r.id] = i + 1; });

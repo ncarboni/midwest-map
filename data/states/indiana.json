@@ -1,0 +1,886 @@
+{
+ "state": "IN",
+ "name": "Indiana",
+ "regions": {
+  "Columbus, Bloomington and Brown County": "Modern architecture in Columbus in the morning (book the Miller House tour ahead), then fall color in Brown County and Indiana University's museums in Bloomington.",
+  "Indianapolis": "An easy two hours east. Newfields and its 100 Acres park, the Eiteljorg and State Museum in White River State Park, the Speedway Museum and the monumental War Memorial Plaza.",
+  "Louisville and the Ohio River": "Museum Row on Main Street, the Speed, Churchill Downs and Old Louisville's Victorian streets, with Madison and Clifty Falls upriver on the Indiana side.",
+  "Muncie and East Central Indiana": "A quieter art trip: the David Owsley Museum and Minnetrista in Muncie, Richmond's art museum and jazz history, and the Levi Coffin House on the Underground Railroad.",
+  "Northern Indiana": "Dunes and cars. Combine Indiana Dunes with Notre Dame's new art museum and the Studebaker Museum in South Bend, or go east to Shipshewana and the Auburn Cord Duesenberg Museum.",
+  "Southern Indiana": "Hills, caves and utopias: New Harmony's Roofless Church and Atheneum, Lincoln's boyhood farm, the domed West Baden Springs Hotel and Spring Mill's pioneer village.",
+  "Wabash Valley": "The closest serious hiking to Champaign: Turkey Run and Shades canyons, Parke County's covered bridges (festival in October) and the Swope in Terre Haute."
+ },
+ "sites": [
+  {
+   "name": "Columbus modernist downtown",
+   "cat": "arch",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.214,
+   "lng": -85.9111,
+   "desc": "A small city where the Cummins Foundation paid architects' fees for public buildings by the Saarinens, I. M. Pei, Harry Weese and others. Tours leave from the visitors center.",
+   "refs": [
+    "merkel",
+    "sah"
+   ],
+   "url": "https://columbus.in.us",
+   "wiki": "Columbus, Indiana",
+   "img": "Stewart-bridge-1933328.jpg",
+   "drive_min": 190,
+   "drive_mi": 166
+  },
+  {
+   "name": "First Christian Church, Columbus",
+   "cat": "arch",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.2031,
+   "lng": -85.9189,
+   "desc": "Eliel Saarinen's 1942 church, one of the first modern churches in America.",
+   "refs": [
+    "nhl",
+    "sah"
+   ],
+   "url": null,
+   "wiki": "First Christian Church (Columbus, Indiana)",
+   "img": "FirstChristianChurch.jpg",
+   "drive_min": 191,
+   "drive_mi": 168
+  },
+  {
+   "name": "North Christian Church",
+   "cat": "arch",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.2297,
+   "lng": -85.9161,
+   "desc": "Eero Saarinen's last building (1964), a hexagon under a soaring spire.",
+   "refs": [
+    "merkel",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "North Christian Church",
+   "img": "NorthChristianChurch.jpg",
+   "drive_min": 189,
+   "drive_mi": 165
+  },
+  {
+   "name": "Miller House and Garden",
+   "cat": "arch",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.2273,
+   "lng": -85.923,
+   "desc": "Eero Saarinen's 1957 house for J. Irwin Miller, with interiors by Alexander Girard and a garden by Dan Kiley. Tours by reservation.",
+   "refs": [
+    "merkel",
+    "nhl"
+   ],
+   "url": "https://discovernewfields.org",
+   "wiki": "Miller House",
+   "img": null,
+   "drive_min": 187,
+   "drive_mi": 164
+  },
+  {
+   "name": "Eskenazi Museum of Art",
+   "cat": "museum",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.1691,
+   "lng": -86.5198,
+   "desc": "Indiana University's art museum in I. M. Pei's triangular building, with strong African, ancient and modern collections.",
+   "refs": [
+    "visitin"
+   ],
+   "url": "https://artmuseum.indiana.edu",
+   "wiki": "Eskenazi Museum of Art",
+   "img": "IU_Art_Museum.jpg",
+   "drive_min": 193,
+   "drive_mi": 167
+  },
+  {
+   "name": "Lilly Library",
+   "cat": "museum",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.1679,
+   "lng": -86.519,
+   "desc": "Indiana University's rare book library, with a Gutenberg Bible New Testament and changing exhibitions.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Lilly Library",
+   "img": "IUB_Lilly_Library_P1000231.jpg",
+   "drive_min": 191,
+   "drive_mi": 167
+  },
+  {
+   "name": "Brown County State Park",
+   "cat": "nature",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.1136,
+   "lng": -86.2647,
+   "desc": "Indiana's largest state park, forested hills at their best in October, near the art colony town of Nashville.",
+   "refs": [
+    "indnr",
+    "wpaIN"
+   ],
+   "url": null,
+   "wiki": "Brown County State Park",
+   "img": "HesitationPoint1.JPG",
+   "drive_min": 229,
+   "drive_mi": 191
+  },
+  {
+   "name": "T. C. Steele State Historic Site",
+   "cat": "museum",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.1306,
+   "lng": -86.3386,
+   "desc": "Home, studio and gardens of the Hoosier Group painter Theodore Clement Steele.",
+   "refs": [
+    "indnr",
+    "indylandm"
+   ],
+   "url": null,
+   "wiki": "T. C. Steele State Historic Site",
+   "img": "T.C._Steele_House.jpg",
+   "drive_min": 209,
+   "drive_mi": 179
+  },
+  {
+   "name": "McCormick's Creek State Park",
+   "cat": "nature",
+   "region": "Columbus, Bloomington and Brown County",
+   "lat": 39.2944,
+   "lng": -86.7278,
+   "desc": "Indiana's first state park, with a limestone canyon and waterfall.",
+   "refs": [
+    "indnr"
+   ],
+   "url": null,
+   "wiki": "McCormick's Creek State Park",
+   "img": "McCormick's_Creek_Waterfall.jpg",
+   "drive_min": 181,
+   "drive_mi": 137
+  },
+  {
+   "name": "Newfields (Indianapolis Museum of Art)",
+   "cat": "museum",
+   "region": "Indianapolis",
+   "lat": 39.8255,
+   "lng": -86.1851,
+   "desc": "A large encyclopedic art museum with gardens, the Lilly House and the 100 Acres art and nature park.",
+   "refs": [
+    "indyencyc",
+    "visitin"
+   ],
+   "url": "https://discovernewfields.org",
+   "wiki": "Newfield",
+   "img": null,
+   "drive_min": 138,
+   "drive_mi": 118
+  },
+  {
+   "name": "The Children's Museum of Indianapolis",
+   "cat": "museum",
+   "region": "Indianapolis",
+   "lat": 39.8108,
+   "lng": -86.1575,
+   "desc": "Often called the world's largest children's museum, with dinosaurs, a carousel and science galleries.",
+   "refs": [
+    "indyencyc"
+   ],
+   "url": "https://www.childrensmuseum.org",
+   "wiki": "The Children's Museum of Indianapolis",
+   "img": "The_Children's_Museum_of_Indianapolis_Logo_(2010).jpg",
+   "drive_min": 143,
+   "drive_mi": 121
+  },
+  {
+   "name": "Eiteljorg Museum",
+   "cat": "museum",
+   "region": "Indianapolis",
+   "lat": 39.7683,
+   "lng": -86.1678,
+   "desc": "Native American and Western art in White River State Park.",
+   "refs": [
+    "indyencyc",
+    "jensen"
+   ],
+   "url": "https://eiteljorg.org",
+   "wiki": "Eiteljorg Museum of American Indians and Western Art",
+   "img": "Eiteljorg_Museum_of_American_Indians_and_Western_Art_2024_jeh.jpg",
+   "drive_min": 142,
+   "drive_mi": 120
+  },
+  {
+   "name": "Indiana State Museum",
+   "cat": "museum",
+   "region": "Indianapolis",
+   "lat": 39.7686,
+   "lng": -86.1692,
+   "desc": "State museum of science, culture and history on the canal in White River State Park.",
+   "refs": [
+    "indyencyc"
+   ],
+   "url": null,
+   "wiki": "Indiana State Museum",
+   "img": "Indiana_State_Museum.jpg",
+   "drive_min": 143,
+   "drive_mi": 120
+  },
+  {
+   "name": "Kurt Vonnegut Museum and Library",
+   "cat": "museum",
+   "region": "Indianapolis",
+   "lat": 39.7756,
+   "lng": -86.1663,
+   "desc": "A small museum devoted to the Indianapolis-born novelist.",
+   "refs": [
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Kurt Vonnegut Museum and Library",
+   "img": "Kurt_Vonnegut_Museum_and_Library_Indianapolis_July_2022.jpg",
+   "drive_min": 141,
+   "drive_mi": 119
+  },
+  {
+   "name": "Indianapolis Motor Speedway Museum",
+   "cat": "culture",
+   "region": "Indianapolis",
+   "lat": 39.7903,
+   "lng": -86.2336,
+   "desc": "Race cars and history at the track of the Indianapolis 500.",
+   "refs": [
+    "jensen",
+    "nhl"
+   ],
+   "url": "https://www.imsmuseum.org",
+   "wiki": "Indianapolis Motor Speedway Museum",
+   "img": "Indianapolis_Motor_Speedway_May_2026_2_(Indianapolis_Motor_Speedway_Museum).jpg",
+   "drive_min": 133,
+   "drive_mi": 115
+  },
+  {
+   "name": "Indiana World War Memorial",
+   "cat": "arch",
+   "region": "Indianapolis",
+   "lat": 39.7736,
+   "lng": -86.1569,
+   "desc": "A five-block civic plaza with a monumental memorial and military museum, modeled on the Mausoleum of Halicarnassus.",
+   "refs": [
+    "nhl",
+    "indyencyc"
+   ],
+   "url": null,
+   "wiki": "Indiana World War Memorial Plaza",
+   "img": "Indiana_War_Memorial,_Michigan_Street,_Indianapolis,_IN_-_53384851239.jpg",
+   "drive_min": 144,
+   "drive_mi": 120
+  },
+  {
+   "name": "Scottish Rite Cathedral",
+   "cat": "arch",
+   "region": "Indianapolis",
+   "lat": 39.7761,
+   "lng": -86.158,
+   "desc": "A Tudor Gothic Masonic hall of 1929 with a carillon tower, open for tours.",
+   "refs": [
+    "indyencyc",
+    "sah"
+   ],
+   "url": null,
+   "wiki": "Scottish Rite Cathedral (Indianapolis)",
+   "img": "Catedral_de_tradición_escocesa,_Indianápolis,_Estados_Unidos,_2012-10-22,_DD_02.jpg",
+   "drive_min": 143,
+   "drive_mi": 119
+  },
+  {
+   "name": "Soldiers' and Sailors' Monument",
+   "cat": "arch",
+   "region": "Indianapolis",
+   "lat": 39.7683,
+   "lng": -86.1581,
+   "desc": "The neoclassical monument at the center of Monument Circle, with an observation deck.",
+   "refs": [
+    "indyencyc"
+   ],
+   "url": null,
+   "wiki": "Soldiers' and Sailors' Monument (Indianapolis)",
+   "img": "Monument_Circle,_Indianapolis,_Indiana,_USA.jpg",
+   "drive_min": 144,
+   "drive_mi": 120
+  },
+  {
+   "name": "Benjamin Harrison Presidential Site",
+   "cat": "culture",
+   "region": "Indianapolis",
+   "lat": 39.7841,
+   "lng": -86.1544,
+   "desc": "The Italianate home of the 23rd president.",
+   "refs": [
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Benjamin Harrison Presidential Site",
+   "img": "Benjamin_Harrison_Home.jpg",
+   "drive_min": 143,
+   "drive_mi": 119
+  },
+  {
+   "name": "Indiana Medical History Museum",
+   "cat": "museum",
+   "region": "Indianapolis",
+   "lat": 39.77,
+   "lng": -86.2133,
+   "desc": "The preserved 1896 pathology building of Central State Hospital.",
+   "refs": [
+    "atlas",
+    "indyencyc"
+   ],
+   "url": null,
+   "wiki": "Indiana Medical History Museum",
+   "img": "Indiana_Medical_History_Museum.png",
+   "drive_min": 136,
+   "drive_mi": 117
+  },
+  {
+   "name": "Crown Hill Cemetery",
+   "cat": "nature",
+   "region": "Indianapolis",
+   "lat": 39.8203,
+   "lng": -86.1706,
+   "desc": "One of the largest cemeteries in the country, a landscaped park with John Dillinger's grave and a city view from the Crown.",
+   "refs": [
+    "indyencyc"
+   ],
+   "url": null,
+   "wiki": "Crown Hill Cemetery",
+   "img": "Indianapoliscrownhillcemeteryentrance01.jpg",
+   "drive_min": 143,
+   "drive_mi": 120
+  },
+  {
+   "name": "Conner Prairie",
+   "cat": "museum",
+   "region": "Indianapolis",
+   "lat": 39.9845,
+   "lng": -86.0289,
+   "desc": "Living history museum in Fishers recreating Indiana life in the 1830s.",
+   "refs": [
+    "visitin"
+   ],
+   "url": "https://www.connerprairie.org",
+   "wiki": "Conner Prairie",
+   "img": "Conner_Prairie_Logo_2020.png",
+   "drive_min": 158,
+   "drive_mi": 127
+  },
+  {
+   "name": "David Owsley Museum of Art",
+   "cat": "museum",
+   "region": "Muncie and East Central Indiana",
+   "lat": 40.1999,
+   "lng": -85.4104,
+   "desc": "Ball State University's art museum, with a broad collection from antiquity to contemporary art in a 1936 building.",
+   "refs": [
+    "visitin"
+   ],
+   "url": "https://www.bsu.edu/web/domamuseum",
+   "wiki": "David Owsley Museum of Art",
+   "img": "David_Owsley_Museum_of_Art.jpg",
+   "drive_min": 206,
+   "drive_mi": 170
+  },
+  {
+   "name": "Minnetrista",
+   "cat": "museum",
+   "region": "Muncie and East Central Indiana",
+   "lat": 40.2051,
+   "lng": -85.3883,
+   "desc": "Museum and gardens on the former estates of the Ball brothers, makers of the Ball canning jar.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Minnetrista Museum & Gardens",
+   "img": "Minnetrista_Center_Building.jpg",
+   "drive_min": 208,
+   "drive_mi": 170
+  },
+  {
+   "name": "Richmond Art Museum",
+   "cat": "museum",
+   "region": "Muncie and East Central Indiana",
+   "lat": 39.8234,
+   "lng": -84.9016,
+   "desc": "American Impressionist and Hoosier Group paintings, housed inside a working high school.",
+   "refs": [
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Richmond Art Museum",
+   "img": "Chase_William_Merritt_Self_Portrait_1915.jpg",
+   "drive_min": 227,
+   "drive_mi": 190
+  },
+  {
+   "name": "Gennett Records Walk of Fame",
+   "cat": "culture",
+   "region": "Muncie and East Central Indiana",
+   "lat": 39.83,
+   "lng": -84.895,
+   "desc": "Richmond's tribute to the studio where Louis Armstrong, Jelly Roll Morton and Hoagy Carmichael made early jazz records.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Gennett Records",
+   "img": "Dancin'Dan.jpg",
+   "drive_min": 227,
+   "drive_mi": 189
+  },
+  {
+   "name": "Levi and Catharine Coffin House",
+   "cat": "culture",
+   "region": "Muncie and East Central Indiana",
+   "lat": 39.9562,
+   "lng": -84.9174,
+   "desc": "Fountain City home of Quaker abolitionists known as a station on the Underground Railroad.",
+   "refs": [
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Levi Coffin House",
+   "img": "Fountaincity,_Indiana.jpg",
+   "drive_min": 230,
+   "drive_mi": 194
+  },
+  {
+   "name": "Turkey Run State Park",
+   "cat": "nature",
+   "region": "Wabash Valley",
+   "lat": 39.885,
+   "lng": -87.2033,
+   "desc": "Sandstone ravines and ladders along Sugar Creek, among the most rugged hiking in Indiana.",
+   "refs": [
+    "indnr"
+   ],
+   "url": null,
+   "wiki": "Turkey Run State Park",
+   "img": "Sugar_Creek_Turkey_Run_SP,_IN_2.jpg",
+   "drive_min": 93,
+   "drive_mi": 73
+  },
+  {
+   "name": "Shades State Park",
+   "cat": "nature",
+   "region": "Wabash Valley",
+   "lat": 39.9417,
+   "lng": -87.0917,
+   "desc": "Quieter sandstone canyons and overlooks above Sugar Creek.",
+   "refs": [
+    "indnr"
+   ],
+   "url": null,
+   "wiki": "Shades State Park",
+   "img": "Deer_Mill_Covered_Bridge_Indiana_4.jpg",
+   "drive_min": 111,
+   "drive_mi": 80
+  },
+  {
+   "name": "Parke County covered bridges",
+   "cat": "culture",
+   "region": "Wabash Valley",
+   "lat": 39.78,
+   "lng": -87.21,
+   "desc": "More than 30 historic covered bridges around Rockville, with a large festival every October.",
+   "refs": [
+    "roadside",
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Parke County, Indiana",
+   "img": "Rockville,_IN.jpg",
+   "drive_min": 103,
+   "drive_mi": 78
+  },
+  {
+   "name": "Swope Art Museum",
+   "cat": "museum",
+   "region": "Wabash Valley",
+   "lat": 39.4657,
+   "lng": -87.4073,
+   "desc": "American art in an Art Deco interior in downtown Terre Haute, free.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Swope Art Museum",
+   "img": "Sheldon_Swope.jpg",
+   "drive_min": 114,
+   "drive_mi": 90
+  },
+  {
+   "name": "Tippecanoe Battlefield",
+   "cat": "culture",
+   "region": "Wabash Valley",
+   "lat": 40.5061,
+   "lng": -86.8447,
+   "desc": "Site of the 1811 battle near Lafayette, with a museum and a monument.",
+   "refs": [
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Tippecanoe Battlefield Park",
+   "img": "Tippecanoe_Battlefield_Moument.jpg",
+   "drive_min": 129,
+   "drive_mi": 99
+  },
+  {
+   "name": "Grissom Air Museum",
+   "cat": "museum",
+   "region": "Wabash Valley",
+   "lat": 40.6694,
+   "lng": -86.1302,
+   "desc": "Military aircraft displayed outdoors next to Grissom Air Reserve Base.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Grissom Air Museum",
+   "img": "Front_19-08-09_001.jpg",
+   "drive_min": 193,
+   "drive_mi": 151
+  },
+  {
+   "name": "New Harmony",
+   "cat": "arch",
+   "region": "Southern Indiana",
+   "lat": 38.1289,
+   "lng": -87.9303,
+   "desc": "Town of two 19th-century utopian experiments, with Philip Johnson's Roofless Church and Richard Meier's Atheneum.",
+   "refs": [
+    "nhl",
+    "sah"
+   ],
+   "url": null,
+   "wiki": "New Harmony, Indiana",
+   "img": "Downtown_new_harmony_indiana.jpg",
+   "drive_min": 221,
+   "drive_mi": 163
+  },
+  {
+   "name": "Lincoln Boyhood National Memorial",
+   "cat": "culture",
+   "region": "Southern Indiana",
+   "lat": 38.1183,
+   "lng": -86.9969,
+   "desc": "The farm where Lincoln lived from age 7 to 21 and the grave of his mother, Nancy Hanks Lincoln.",
+   "refs": [
+    "nps",
+    "donald"
+   ],
+   "url": "https://www.nps.gov/libo",
+   "wiki": "Lincoln Boyhood National Memorial",
+   "img": "Log_Cabin_at_the_Lincoln_Living_Historical_Farm.jpg",
+   "drive_min": 278,
+   "drive_mi": 215
+  },
+  {
+   "name": "West Baden Springs Hotel",
+   "cat": "arch",
+   "region": "Southern Indiana",
+   "lat": 38.5672,
+   "lng": -86.6181,
+   "desc": "A 1902 resort hotel whose atrium dome was long called the largest free-spanning dome in the world.",
+   "refs": [
+    "nhl",
+    "atlas"
+   ],
+   "url": "https://www.frenchlick.com",
+   "wiki": "West Baden Springs Hotel",
+   "img": "West_Baden_Springs_Hotel,_2024.jpg",
+   "drive_min": 263,
+   "drive_mi": 203
+  },
+  {
+   "name": "George Rogers Clark National Historical Park",
+   "cat": "arch",
+   "region": "Southern Indiana",
+   "lat": 38.6792,
+   "lng": -87.5356,
+   "desc": "A circular classical memorial on the Wabash in Vincennes, built 1931 to 1933.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/gero",
+   "wiki": "George Rogers Clark National Historical Park",
+   "img": "George_Rogers_Clark_Memorial.JPG",
+   "drive_min": 192,
+   "drive_mi": 148
+  },
+  {
+   "name": "Angel Mounds",
+   "cat": "culture",
+   "region": "Southern Indiana",
+   "lat": 37.9425,
+   "lng": -87.4572,
+   "desc": "A Mississippian town site on the Ohio near Evansville with large earthen mounds.",
+   "refs": [
+    "nhl",
+    "indnr"
+   ],
+   "url": null,
+   "wiki": "Angel Mounds",
+   "img": "Angel_mound_with_turret_HRoe_2008.jpg",
+   "drive_min": 260,
+   "drive_mi": 198
+  },
+  {
+   "name": "Spring Mill State Park",
+   "cat": "nature",
+   "region": "Southern Indiana",
+   "lat": 38.7333,
+   "lng": -86.42,
+   "desc": "Caves, old-growth forest and a restored pioneer village with a working gristmill.",
+   "refs": [
+    "indnr"
+   ],
+   "url": null,
+   "wiki": "Spring Mill State Park",
+   "img": "Spring_Mill_State_Park_settler_village_—_Antique_industrial.jpg",
+   "drive_min": 242,
+   "drive_mi": 204
+  },
+  {
+   "name": "Marengo Cave",
+   "cat": "nature",
+   "region": "Southern Indiana",
+   "lat": 38.3755,
+   "lng": -86.3399,
+   "desc": "A show cave discovered in 1883, among the most visited in the Midwest.",
+   "refs": [
+    "nhl",
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Marengo Cave",
+   "img": "Marengo_Cave_formations.JPG",
+   "drive_min": 286,
+   "drive_mi": 236
+  },
+  {
+   "name": "Holiday World",
+   "cat": "culture",
+   "region": "Southern Indiana",
+   "lat": 38.119,
+   "lng": -86.916,
+   "desc": "A family amusement park in the town of Santa Claus, known for its wooden roller coasters.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Holiday World & Splashin' Safari",
+   "img": null,
+   "drive_min": 283,
+   "drive_mi": 217
+  },
+  {
+   "name": "Indiana Dunes National Park",
+   "cat": "nature",
+   "region": "Northern Indiana",
+   "lat": 41.6481,
+   "lng": -87.1081,
+   "desc": "Dunes, beaches, bogs and oak savanna on the Lake Michigan shore, the birthplace of plant ecology research.",
+   "refs": [
+    "nps",
+    "nyt36"
+   ],
+   "url": "https://www.nps.gov/indu",
+   "wiki": "Indiana Dunes National Park",
+   "img": "Indiana_Dunes_National_Lakeshore,_Michigan_City,_Indiana,_Estados_Unidos,_2012-10-20,_DD_03.jpg",
+   "drive_min": 180,
+   "drive_mi": 148
+  },
+  {
+   "name": "Studebaker National Museum",
+   "cat": "museum",
+   "region": "Northern Indiana",
+   "lat": 41.6748,
+   "lng": -86.2619,
+   "desc": "Wagons, carriages and cars built by Studebaker in South Bend.",
+   "refs": [
+    "visitin"
+   ],
+   "url": "https://www.studebakermuseum.org",
+   "wiki": "Studebaker National Museum",
+   "img": "South-bend-studebaker-museum-new.jpg",
+   "drive_min": 229,
+   "drive_mi": 189
+  },
+  {
+   "name": "Raclin Murphy Museum of Art",
+   "cat": "museum",
+   "region": "Northern Indiana",
+   "lat": 41.6938,
+   "lng": -86.2351,
+   "desc": "The University of Notre Dame's new art museum, opened in 2023 at the campus gateway.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Raclin Murphy Museum of Art",
+   "img": "Raclin_Murphy_Museum_of_Art.jpg",
+   "drive_min": 230,
+   "drive_mi": 196
+  },
+  {
+   "name": "Basilica of the Sacred Heart",
+   "cat": "arch",
+   "region": "Northern Indiana",
+   "lat": 41.7026,
+   "lng": -86.2397,
+   "desc": "A Gothic Revival church on the Notre Dame campus with murals by Luigi Gregori.",
+   "refs": [
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Basilica of the Sacred Heart (Notre Dame)",
+   "img": "Basilica_of_the_Sacred_Heart,_ND_-_front_view.jpg",
+   "drive_min": 229,
+   "drive_mi": 195
+  },
+  {
+   "name": "RV/MH Hall of Fame",
+   "cat": "culture",
+   "region": "Northern Indiana",
+   "lat": 41.7291,
+   "lng": -85.8785,
+   "desc": "Elkhart museum of vintage campers and travel trailers in the capital of the RV industry.",
+   "refs": [
+    "roadside",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "RV/MH Hall of Fame",
+   "img": "RV-MH_Hall_of_Fame_entrance.jpeg",
+   "drive_min": 250,
+   "drive_mi": 215
+  },
+  {
+   "name": "Shipshewana",
+   "cat": "culture",
+   "region": "Northern Indiana",
+   "lat": 41.685,
+   "lng": -85.6064,
+   "desc": "Amish town known for its flea market, auctions and the Menno-Hof heritage center.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Shipshewana, Indiana",
+   "img": "Jrb_20071024_Mennonite_Amish_buggy_Shipshewana_Indiana.JPG",
+   "drive_min": 276,
+   "drive_mi": 233
+  },
+  {
+   "name": "Auburn Cord Duesenberg Automobile Museum",
+   "cat": "museum",
+   "region": "Northern Indiana",
+   "lat": 41.3558,
+   "lng": -85.0572,
+   "desc": "Classic cars displayed in the company's 1930 Art Deco showroom and headquarters.",
+   "refs": [
+    "nhl"
+   ],
+   "url": "https://www.automobilemuseum.org",
+   "wiki": "Auburn Cord Duesenberg Automobile Museum",
+   "img": "Auburn_Cord_Duesenberg_Museum_2004.jpg",
+   "drive_min": 288,
+   "drive_mi": 228
+  },
+  {
+   "name": "Fort Wayne Museum of Art",
+   "cat": "museum",
+   "region": "Northern Indiana",
+   "lat": 41.0814,
+   "lng": -85.1358,
+   "desc": "American art from the 19th century to today, with a strong print and glass collection.",
+   "refs": [
+    "visitin"
+   ],
+   "url": null,
+   "wiki": "Fort Wayne Museum of Art",
+   "img": "Fort_Wayne_Museum_of_Art,_Fort_Wayne,_Indiana.JPG",
+   "drive_min": 271,
+   "drive_mi": 208
+  },
+  {
+   "name": "Madison Historic District",
+   "cat": "arch",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.7422,
+   "lng": -85.3772,
+   "desc": "An Ohio River town with one of the largest historic districts in the country.",
+   "refs": [
+    "nhl",
+    "wpaIN"
+   ],
+   "url": null,
+   "wiki": "Madison Historic District (Madison, Indiana)",
+   "img": "Schofield_House.JPG",
+   "drive_min": 261,
+   "drive_mi": 211
+  },
+  {
+   "name": "Lanier Mansion",
+   "cat": "arch",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.7353,
+   "lng": -85.3859,
+   "desc": "Francis Costigan's 1844 Greek Revival mansion facing the Ohio River in Madison.",
+   "refs": [
+    "nhl",
+    "indnr"
+   ],
+   "url": null,
+   "wiki": "Lanier Mansion",
+   "img": "Lanier_Mansion_north_elevation.jpg",
+   "drive_min": 260,
+   "drive_mi": 211
+  },
+  {
+   "name": "Clifty Falls State Park",
+   "cat": "nature",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.7482,
+   "lng": -85.4152,
+   "desc": "Waterfalls and a rugged canyon above the Ohio River near Madison.",
+   "refs": [
+    "indnr"
+   ],
+   "url": null,
+   "wiki": "Clifty Falls State Park",
+   "img": "Clifty_Falls_at_Clifty_Falls_State_Park.JPG",
+   "drive_min": 266,
+   "drive_mi": 213
+  },
+  {
+   "name": "Falls of the Ohio State Park",
+   "cat": "nature",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2756,
+   "lng": -85.7636,
+   "desc": "Fossil beds of a 390 million year old coral reef exposed on the riverbank across from Louisville.",
+   "refs": [
+    "indnr",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Falls of the Ohio State Park",
+   "img": "2016WIK_FallsOfTheOhioSP.jpg",
+   "drive_min": 261,
+   "drive_mi": 233
+  }
+ ]
+}

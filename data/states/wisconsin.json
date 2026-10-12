@@ -1,0 +1,923 @@
+{
+ "state": "WI",
+ "name": "Wisconsin",
+ "regions": {
+  "Driftless and the Wisconsin River": "The richest weekend in Wisconsin: Taliesin and the House on the Rock near Spring Green, a play at American Players Theatre, Devil's Lake, Baraboo's Circus World and Leopold's shack.",
+  "Lake Superior": "Duluth's lift bridge and Glensheen, then the North Shore drive past Gooseberry, Split Rock and Tettegouche to Grand Portage. Add the Apostle Islands from Bayfield on the Wisconsin side.",
+  "Madison": "A walkable capital between two lakes: the Capitol, Wright's Monona Terrace and Meeting House, the free Chazen and MMoCA, and the Arboretum where prairie restoration began.",
+  "Milwaukee and the Lake Michigan shore": "Calatrava's art museum, the Harley-Davidson Museum and the Domes in Milwaukee, then Wright's Johnson Wax buildings and Wingspread in Racine and the Kohler Arts Center in Sheboygan.",
+  "Northeast Wisconsin and Door County": "Oshkosh's aviation museum and Lambeau Field on the way to Door County's lighthouses, bluffs and dark skies. Horicon Marsh is spectacular during fall migration."
+ },
+ "sites": [
+  {
+   "name": "Taliesin",
+   "cat": "arch",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.1411,
+   "lng": -90.0706,
+   "desc": "Frank Lloyd Wright's home, studio and estate near Spring Green, part of the UNESCO listing of his work.",
+   "refs": [
+    "storrer",
+    "unesco"
+   ],
+   "url": "https://www.taliesinpreservation.org",
+   "wiki": "Taliesin (studio)",
+   "img": "Taliesin_exterior_2024_(54225850259).jpg",
+   "drive_min": 343,
+   "drive_mi": 293
+  },
+  {
+   "name": "House on the Rock",
+   "cat": "culture",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.1,
+   "lng": -90.136,
+   "desc": "Alex Jordan's sprawling, eccentric house and collections, including the Infinity Room and a giant carousel.",
+   "refs": [
+    "atlas",
+    "moonwi"
+   ],
+   "url": "https://www.thehouseontherock.com",
+   "wiki": "House on the Rock",
+   "img": "House_on_the_Rock_2.jpg",
+   "drive_min": 350,
+   "drive_mi": 304
+  },
+  {
+   "name": "American Players Theatre",
+   "cat": "culture",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.1422,
+   "lng": -90.0383,
+   "desc": "Classical theater performed in an outdoor hilltop amphitheater at Spring Green, June to October.",
+   "refs": [
+    "moonwi",
+    "nyt36"
+   ],
+   "url": null,
+   "wiki": "American Players Theatre",
+   "img": "American_Players_Theater_stage_2026.jpg",
+   "drive_min": 344,
+   "drive_mi": 292
+  },
+  {
+   "name": "A. D. German Warehouse",
+   "cat": "arch",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.3333,
+   "lng": -90.3844,
+   "desc": "Wright's 1917 concrete warehouse in his birthplace of Richland Center, with a Mayan-style frieze.",
+   "refs": [
+    "storrer",
+    "weisiger"
+   ],
+   "url": null,
+   "wiki": "A. D. German Warehouse",
+   "img": "A._D._German_Warehouse_Richland_Center_Wisconsin-born_Frank_Lloyd_Wright.jpg",
+   "drive_min": 374,
+   "drive_mi": 315
+  },
+  {
+   "name": "Mineral Point and Pendarvis",
+   "cat": "culture",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 42.8639,
+   "lng": -90.1725,
+   "desc": "Stone cottages built by Cornish miners in the 1840s, now a state historic site in an arts town.",
+   "refs": [
+    "whs",
+    "weisiger"
+   ],
+   "url": "https://pendarvis.wisconsinhistory.org",
+   "wiki": "Pendarvis (Mineral Point, Wisconsin)",
+   "img": "Pendarvis_Wisconsin_Houses.jpg",
+   "drive_min": 330,
+   "drive_mi": 271
+  },
+  {
+   "name": "New Glarus",
+   "cat": "culture",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 42.8138,
+   "lng": -89.6354,
+   "desc": "A Swiss immigrant town with chalets, a Swiss museum village and a well-known brewery.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "New Glarus, Wisconsin",
+   "img": "New_Glarus_Village_Hall.JPG",
+   "drive_min": 291,
+   "drive_mi": 249
+  },
+  {
+   "name": "Cave of the Mounds",
+   "cat": "nature",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.018,
+   "lng": -89.816,
+   "desc": "A show cave of colorful formations near Blue Mounds.",
+   "refs": [
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Cave of the Mounds",
+   "img": "Cave_of_the_Mounds.jpg",
+   "drive_min": 315,
+   "drive_mi": 278
+  },
+  {
+   "name": "Dickeyville Grotto",
+   "cat": "culture",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 42.6272,
+   "lng": -90.5948,
+   "desc": "Father Mathias Wernerus's 1920s shrines built of stone, glass and shells.",
+   "refs": [
+    "roadside",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Dickeyville Grotto",
+   "img": "DickeyvilleGrottoSacredHeart.jpg",
+   "drive_min": 304,
+   "drive_mi": 269
+  },
+  {
+   "name": "Villa Louis",
+   "cat": "culture",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.0558,
+   "lng": -91.1592,
+   "desc": "The Dousman family's Victorian estate at Prairie du Chien on the Mississippi.",
+   "refs": [
+    "whs"
+   ],
+   "url": "https://villalouis.wisconsinhistory.org",
+   "wiki": "Villa Louis",
+   "img": "VillaLouisMansion.jpg",
+   "drive_min": 387,
+   "drive_mi": 322
+  },
+  {
+   "name": "Wyalusing State Park",
+   "cat": "nature",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 42.9797,
+   "lng": -91.1086,
+   "desc": "Bluffs 500 feet above the meeting of the Wisconsin and Mississippi rivers.",
+   "refs": [
+    "widnr"
+   ],
+   "url": null,
+   "wiki": "Wyalusing State Park",
+   "img": "WyalusingStateParkWisconsinRiverIntoMississippiRiver.jpg",
+   "drive_min": 386,
+   "drive_mi": 319
+  },
+  {
+   "name": "Devil's Lake State Park",
+   "cat": "nature",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.4147,
+   "lng": -89.7131,
+   "desc": "A lake below 500 foot quartzite bluffs in the Baraboo Hills, crossed by the Ice Age Trail.",
+   "refs": [
+    "widnr",
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Devil's Lake State Park (Wisconsin)",
+   "img": "East_Bluff.jpg",
+   "drive_min": 341,
+   "drive_mi": 296
+  },
+  {
+   "name": "Circus World",
+   "cat": "museum",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.4669,
+   "lng": -89.7353,
+   "desc": "At the Ringling Brothers' original winter quarters in Baraboo, with circus wagons and summer shows.",
+   "refs": [
+    "whs",
+    "nhl"
+   ],
+   "url": "https://circusworld.wisconsinhistory.org",
+   "wiki": "Circus World Museum",
+   "img": "CircusWorldWaterStreet.jpg",
+   "drive_min": 332,
+   "drive_mi": 295
+  },
+  {
+   "name": "Aldo Leopold Shack and Farm",
+   "cat": "nature",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.5628,
+   "lng": -89.6592,
+   "desc": "The farm where Leopold wrote A Sand County Almanac. Visit the Leopold Center; Shack tours by reservation.",
+   "refs": [
+    "leopold",
+    "nhl"
+   ],
+   "url": "https://www.aldoleopold.org",
+   "wiki": "Aldo Leopold Shack and Farm",
+   "img": "AldoLeopoldShack.jpg",
+   "drive_min": 336,
+   "drive_mi": 293
+  },
+  {
+   "name": "Dr. Evermor's Forevertron",
+   "cat": "culture",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.3639,
+   "lng": -89.7717,
+   "desc": "Tom Every's giant scrap-metal sculpture park near Baraboo.",
+   "refs": [
+    "atlas",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Forevertron",
+   "img": "HPIM8818_1.JPG",
+   "drive_min": 330,
+   "drive_mi": 291
+  },
+  {
+   "name": "Seth Peterson Cottage",
+   "cat": "arch",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.5631,
+   "lng": -89.825,
+   "desc": "One of Wright's last designs, a tiny stone cottage in Mirror Lake State Park that can be rented or toured.",
+   "refs": [
+    "storrer",
+    "wrightsites"
+   ],
+   "url": null,
+   "wiki": "Seth Peterson Cottage",
+   "img": "Seth_Peterson_Cottage_Exterior.jpg",
+   "drive_min": 337,
+   "drive_mi": 299
+  },
+  {
+   "name": "Dells of the Wisconsin River",
+   "cat": "nature",
+   "region": "Driftless and the Wisconsin River",
+   "lat": 43.6428,
+   "lng": -89.7885,
+   "desc": "Sandstone gorges on the Wisconsin River, best seen by boat, beside the resort strip of Wisconsin Dells.",
+   "refs": [
+    "moonwi",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Dells of the Wisconsin River",
+   "img": "Wisconsin_Dells,_Memorial_Day_Weekend_2014.jpg",
+   "drive_min": 334,
+   "drive_mi": 302
+  },
+  {
+   "name": "Wisconsin State Capitol",
+   "cat": "arch",
+   "region": "Madison",
+   "lat": 43.0747,
+   "lng": -89.3842,
+   "desc": "George B. Post's granite-domed capitol (1917) at the center of Madison's isthmus. Free tours.",
+   "refs": [
+    "weisiger",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Wisconsin State Capitol",
+   "img": "Wisconsin_State_Capitol_Building_6.jpg",
+   "drive_min": 287,
+   "drive_mi": 254
+  },
+  {
+   "name": "Monona Terrace",
+   "cat": "arch",
+   "region": "Madison",
+   "lat": 43.0717,
+   "lng": -89.3806,
+   "desc": "Convention center on Lake Monona built in 1997 to a Wright design first proposed in 1938, with a rooftop garden.",
+   "refs": [
+    "weisiger",
+    "wrightsites"
+   ],
+   "url": "https://www.mononaterrace.com",
+   "wiki": "Monona Terrace",
+   "img": "Monona_Terrace_from_Lake_Monona.jpg",
+   "drive_min": 286,
+   "drive_mi": 253
+  },
+  {
+   "name": "First Unitarian Society Meeting House",
+   "cat": "arch",
+   "region": "Madison",
+   "lat": 43.0759,
+   "lng": -89.4352,
+   "desc": "Wright's 1951 church with a prow-shaped roof, built in part by its congregation.",
+   "refs": [
+    "storrer",
+    "nhl"
+   ],
+   "url": "https://www.fusmadison.org",
+   "wiki": "First Unitarian Society of Madison",
+   "img": "First_Unitarian_Society_Meeting_House_(1).jpg",
+   "drive_min": 293,
+   "drive_mi": 256
+  },
+  {
+   "name": "Chazen Museum of Art",
+   "cat": "museum",
+   "region": "Madison",
+   "lat": 43.0739,
+   "lng": -89.3997,
+   "desc": "The University of Wisconsin's free art museum, one of the largest university collections in the country.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": "https://chazen.wisc.edu",
+   "wiki": "Chazen Museum of Art",
+   "img": "Chazen_Museum_of_Art_-_exterior.jpg",
+   "drive_min": 287,
+   "drive_mi": 254
+  },
+  {
+   "name": "Madison Museum of Contemporary Art",
+   "cat": "museum",
+   "region": "Madison",
+   "lat": 43.0746,
+   "lng": -89.3891,
+   "desc": "Free contemporary art museum in Cesar Pelli's Overture Center, with a rooftop sculpture garden.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Madison Museum of Contemporary Art",
+   "img": "Mmocaicon.jpg",
+   "drive_min": 286,
+   "drive_mi": 253
+  },
+  {
+   "name": "Wisconsin Historical Museum",
+   "cat": "museum",
+   "region": "Madison",
+   "lat": 43.0744,
+   "lng": -89.3867,
+   "desc": "The state history museum on the Capitol Square.",
+   "refs": [
+    "whs"
+   ],
+   "url": null,
+   "wiki": "Wisconsin Historical Museum",
+   "img": "The_State_Historical_Museum_of_Wisconsin_-_Madison,_WI_-_DSC02781.JPG",
+   "drive_min": 287,
+   "drive_mi": 254
+  },
+  {
+   "name": "Wisconsin Veterans Museum",
+   "cat": "museum",
+   "region": "Madison",
+   "lat": 43.075,
+   "lng": -89.3867,
+   "desc": "Free museum of Wisconsin's soldiers from the Civil War to today, on the Capitol Square.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Wisconsin Veterans Museum",
+   "img": "WVM_Logo.png",
+   "drive_min": 287,
+   "drive_mi": 254
+  },
+  {
+   "name": "Olbrich Botanical Gardens",
+   "cat": "nature",
+   "region": "Madison",
+   "lat": 43.0925,
+   "lng": -89.335,
+   "desc": "Gardens on Lake Monona with a gilded Thai pavilion and a tropical conservatory.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Olbrich Botanical Gardens",
+   "img": "Bolzconservatory_2.jpg",
+   "drive_min": 285,
+   "drive_mi": 254
+  },
+  {
+   "name": "University of Wisconsin Arboretum",
+   "cat": "nature",
+   "region": "Madison",
+   "lat": 43.0414,
+   "lng": -89.4307,
+   "desc": "Where Aldo Leopold and others pioneered prairie restoration in the 1930s.",
+   "refs": [
+    "leopold",
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "University of Wisconsin–Madison Arboretum",
+   "img": "Arboretum_Madison_Wisconsin_0585.jpg",
+   "drive_min": 293,
+   "drive_mi": 256
+  },
+  {
+   "name": "Milwaukee Art Museum",
+   "cat": "arch",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.04,
+   "lng": -87.8972,
+   "desc": "Santiago Calatrava's Quadracci Pavilion with its opening wings, attached to Eero Saarinen's 1957 War Memorial Center.",
+   "refs": [
+    "weisiger",
+    "nyt36"
+   ],
+   "url": "https://mam.org",
+   "wiki": "Milwaukee Art Museum",
+   "img": "Milwaukee_Art_Museum_Logo.png",
+   "drive_min": 263,
+   "drive_mi": 224
+  },
+  {
+   "name": "Harley-Davidson Museum",
+   "cat": "culture",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.031,
+   "lng": -87.916,
+   "desc": "The motorcycle maker's museum in its hometown.",
+   "refs": [
+    "jensen",
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Harley-Davidson Museum",
+   "img": "Harley-Davidson_Museum_0057.jpg",
+   "drive_min": 262,
+   "drive_mi": 223
+  },
+  {
+   "name": "Milwaukee Public Museum",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0407,
+   "lng": -87.9211,
+   "desc": "A natural and human history museum famous for its Streets of Old Milwaukee and walk-in dioramas.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Milwaukee Public Museum",
+   "img": "Milwaukee_Public_Museum.jpg",
+   "drive_min": 261,
+   "drive_mi": 223
+  },
+  {
+   "name": "Discovery World",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0369,
+   "lng": -87.8961,
+   "desc": "Science and technology museum and aquarium on the lakefront.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Discovery World",
+   "img": null,
+   "drive_min": 263,
+   "drive_mi": 224
+  },
+  {
+   "name": "Grohmann Museum",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0438,
+   "lng": -87.9079,
+   "desc": "Milwaukee School of Engineering's collection of art about human work, with a rooftop sculpture garden.",
+   "refs": [
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Grohmann Museum",
+   "img": "Milwaukee_August_2022_122_(Grohmann_Museum).jpg",
+   "drive_min": 263,
+   "drive_mi": 224
+  },
+  {
+   "name": "Haggerty Museum of Art",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0369,
+   "lng": -87.9278,
+   "desc": "Marquette University's free art museum.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Patrick and Beatrice Haggerty Museum of Art",
+   "img": "Haggarty_Museum_of_Art.jpg",
+   "drive_min": 261,
+   "drive_mi": 223
+  },
+  {
+   "name": "Villa Terrace Decorative Arts Museum",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0577,
+   "lng": -87.8807,
+   "desc": "A 1920s Italian Renaissance style villa with terraced gardens down to Lake Michigan.",
+   "refs": [
+    "weisiger"
+   ],
+   "url": null,
+   "wiki": "Villa Terrace Museum and Gardens",
+   "img": "Milwaukee_July_2022_007_(Villa_Terrace_Decorative_Arts_Museum).jpg",
+   "drive_min": 267,
+   "drive_mi": 226
+  },
+  {
+   "name": "Pabst Mansion",
+   "cat": "arch",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0393,
+   "lng": -87.938,
+   "desc": "The brewer's 1892 Flemish Renaissance Revival mansion.",
+   "refs": [
+    "weisiger"
+   ],
+   "url": null,
+   "wiki": "Pabst Mansion",
+   "img": "Milwaukee,_pabst_mansion_01.jpg",
+   "drive_min": 262,
+   "drive_mi": 224
+  },
+  {
+   "name": "Lynden Sculpture Garden",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.1769,
+   "lng": -87.9358,
+   "desc": "More than 50 sculptures across a 40 acre park and estate.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Lynden Sculpture Garden",
+   "img": "Orizzontale1964.JPG",
+   "drive_min": 276,
+   "drive_mi": 234
+  },
+  {
+   "name": "Mitchell Park Domes",
+   "cat": "nature",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0264,
+   "lng": -87.946,
+   "desc": "Three beehive-shaped glass domes of the 1960s with desert, tropical and seasonal gardens.",
+   "refs": [
+    "weisiger",
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Mitchell Park Horticultural Conservatory",
+   "img": "Mitchell_Park_Horticultural_Conservatory.jpg",
+   "drive_min": 263,
+   "drive_mi": 224
+  },
+  {
+   "name": "Burnham Block",
+   "cat": "arch",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0106,
+   "lng": -87.9486,
+   "desc": "A row of Wright's American System-Built Homes, affordable prefab designs of 1915 to 1917, with tours.",
+   "refs": [
+    "storrer",
+    "wrightsites"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 261,
+   "drive_mi": 221
+  },
+  {
+   "name": "Annunciation Greek Orthodox Church",
+   "cat": "arch",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.0989,
+   "lng": -88.0289,
+   "desc": "One of Wright's last works, a domed saucer of a church completed in 1961.",
+   "refs": [
+    "storrer",
+    "weisiger"
+   ],
+   "url": null,
+   "wiki": "Annunciation Greek Orthodox Church",
+   "img": "Annunciation_Greek_Orthodox_Church;_Wauwatosa,_Wisconsin;_June_6,_2012.JPG",
+   "drive_min": 276,
+   "drive_mi": 233
+  },
+  {
+   "name": "SC Johnson Administration Building and Research Tower",
+   "cat": "arch",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 42.7136,
+   "lng": -87.7908,
+   "desc": "Wright's 1939 office with its forest of dendriform columns and the 1950 Research Tower in Racine. Free tours by reservation.",
+   "refs": [
+    "storrer",
+    "nhl"
+   ],
+   "url": "https://www.scjohnson.com",
+   "wiki": "Johnson Wax Headquarters",
+   "img": "Racine_October_2023_102_(S._C._Johnson_and_Son_Administration_Building_and_Research_Tower).jpg",
+   "drive_min": 248,
+   "drive_mi": 207
+  },
+  {
+   "name": "Wingspread",
+   "cat": "arch",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 42.7803,
+   "lng": -87.7708,
+   "desc": "The largest of Wright's Prairie houses (1939), built for Herbert F. Johnson at Wind Point.",
+   "refs": [
+    "storrer",
+    "weisiger"
+   ],
+   "url": null,
+   "wiki": "Wingspread",
+   "img": "WingspreadFrankLloydWrightKenoshaWisconsin.jpg",
+   "drive_min": 257,
+   "drive_mi": 214
+  },
+  {
+   "name": "Racine Art Museum",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 42.7283,
+   "lng": -87.7826,
+   "desc": "A museum devoted to contemporary craft, with one of the largest such collections in North America.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Racine Art Museum",
+   "img": "Racine_October_2023_044_(Racine_Art_Museum).jpg",
+   "drive_min": 251,
+   "drive_mi": 210
+  },
+  {
+   "name": "Yerkes Observatory",
+   "cat": "arch",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 42.5703,
+   "lng": -88.5567,
+   "desc": "The 1897 observatory on Geneva Lake with the largest refracting telescope used for research, open for tours.",
+   "refs": [
+    "nhl",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Yerkes Observatory",
+   "img": "Yerkesobservatoryfromair.jpg",
+   "drive_min": 255,
+   "drive_mi": 221
+  },
+  {
+   "name": "Old World Wisconsin",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 42.8639,
+   "lng": -88.4878,
+   "desc": "Open-air museum of farmhouses and buildings from Wisconsin's immigrant communities.",
+   "refs": [
+    "whs"
+   ],
+   "url": "https://oldworldwisconsin.wisconsinhistory.org",
+   "wiki": "Old World Wisconsin",
+   "img": "Koepsell_House_2,_Old_World_Wisconsin.JPG",
+   "drive_min": 273,
+   "drive_mi": 227
+  },
+  {
+   "name": "Kettle Moraine State Forest",
+   "cat": "nature",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.5833,
+   "lng": -88.1833,
+   "desc": "Glacial hills, kettles and the Ice Age Trail in two large forest units.",
+   "refs": [
+    "widnr"
+   ],
+   "url": null,
+   "wiki": "Kettle Moraine State Forest",
+   "img": "ParnellTower2007.jpg",
+   "drive_min": 323,
+   "drive_mi": 271
+  },
+  {
+   "name": "John Michael Kohler Arts Center",
+   "cat": "museum",
+   "region": "Milwaukee and the Lake Michigan shore",
+   "lat": 43.7525,
+   "lng": -87.7106,
+   "desc": "Sheboygan arts center known for art environments by self-taught artists, with its Art Preserve outside town.",
+   "refs": [
+    "atlas",
+    "moonwi"
+   ],
+   "url": "https://www.jmkac.org",
+   "wiki": "John Michael Kohler Arts Center",
+   "img": "Sheboygan_June_2025_066_(John_Michael_Kohler_Arts_Center).jpg",
+   "drive_min": 325,
+   "drive_mi": 278
+  },
+  {
+   "name": "EAA Aviation Museum",
+   "cat": "museum",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 43.9842,
+   "lng": -88.5783,
+   "desc": "Oshkosh museum of homebuilt, vintage and experimental aircraft, home of the AirVenture fly-in.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "EAA Aviation Museum",
+   "img": "EAAAirAdventureMuseum.jpg",
+   "drive_min": 353,
+   "drive_mi": 304
+  },
+  {
+   "name": "Paine Art Center and Gardens",
+   "cat": "museum",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 44.0353,
+   "lng": -88.5583,
+   "desc": "A Tudor Revival mansion of the 1920s with art collections and formal gardens.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Paine Art Center and Gardens",
+   "img": "PaineArtCenterAndGardens.jpg",
+   "drive_min": 357,
+   "drive_mi": 308
+  },
+  {
+   "name": "Horicon Marsh",
+   "cat": "nature",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 43.5497,
+   "lng": -88.6559,
+   "desc": "The largest freshwater cattail marsh in the country, a major stop for migrating birds.",
+   "refs": [
+    "widnr",
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Horicon Marsh",
+   "img": "HoriconMarshBoardwalk.jpg",
+   "drive_min": 348,
+   "drive_mi": 282
+  },
+  {
+   "name": "Green Bay Packers Hall of Fame and Lambeau Field",
+   "cat": "culture",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 44.5014,
+   "lng": -88.0606,
+   "desc": "The community-owned team's museum and stadium tours, a pilgrimage of American football.",
+   "refs": [
+    "moonwi",
+    "jensen"
+   ],
+   "url": null,
+   "wiki": "Green Bay Packers Hall of Fame",
+   "img": null,
+   "drive_min": 393,
+   "drive_mi": 339
+  },
+  {
+   "name": "National Railroad Museum",
+   "cat": "museum",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 44.4833,
+   "lng": -88.048,
+   "desc": "Locomotives including a Big Boy and Eisenhower's command train.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "National Railroad Museum",
+   "img": "Victor_McCormick_Train_Pavilion_and_Frederick_J_Lenfestey_Center_at_National_Railroad_Museum.jpg",
+   "drive_min": 390,
+   "drive_mi": 337
+  },
+  {
+   "name": "Hamilton Wood Type and Printing Museum",
+   "cat": "museum",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 44.1426,
+   "lng": -87.5739,
+   "desc": "Two Rivers museum of the wood type that printed American posters, with working presses.",
+   "refs": [
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Hamilton Wood Type and Printing Museum",
+   "img": "Hamilton_Wood_Type_Entrance.jpg",
+   "drive_min": 362,
+   "drive_mi": 309
+  },
+  {
+   "name": "Peninsula State Park",
+   "cat": "nature",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 45.1511,
+   "lng": -87.2175,
+   "desc": "Limestone bluffs, beaches and Eagle Bluff Lighthouse on Green Bay in Door County.",
+   "refs": [
+    "widnr",
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Peninsula State Park",
+   "img": "Peninsula_State_Park,_Horseshoe_Island,_and_Fish_Creek,_town_of_Gibraltar,_Door_County,_Wisconsin_2020.png",
+   "drive_min": 477,
+   "drive_mi": 403
+  },
+  {
+   "name": "Cana Island Lighthouse",
+   "cat": "culture",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 45.0881,
+   "lng": -87.0476,
+   "desc": "An 1869 lighthouse reached by a rock causeway on the Lake Michigan side of Door County.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Cana Island Light",
+   "img": "Cana_Island_Lighthouse,_Door_County,_Wisconsin,_October_2016.jpg",
+   "drive_min": 488,
+   "drive_mi": 405
+  },
+  {
+   "name": "The Ridges Sanctuary",
+   "cat": "nature",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 45.0729,
+   "lng": -87.1187,
+   "desc": "Ridge and swale wetlands with rare orchids near Baileys Harbor.",
+   "refs": [
+    "nhl",
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "The Ridges Sanctuary",
+   "img": "TheRidgesBaileysHarbor.jpg",
+   "drive_min": 471,
+   "drive_mi": 399
+  },
+  {
+   "name": "Leigh Yawkey Woodson Art Museum",
+   "cat": "museum",
+   "region": "Northeast Wisconsin and Door County",
+   "lat": 44.962,
+   "lng": -89.613,
+   "desc": "Wausau museum known for bird art and its annual Birds in Art exhibition.",
+   "refs": [
+    "moonwi"
+   ],
+   "url": null,
+   "wiki": "Leigh Yawkey Woodson Art Museum",
+   "img": "Leigh_yawkey_woodson_logo.jpg",
+   "drive_min": 432,
+   "drive_mi": 390
+  },
+  {
+   "name": "Apostle Islands National Lakeshore",
+   "cat": "nature",
+   "region": "Lake Superior",
+   "lat": 46.9653,
+   "lng": -90.6642,
+   "desc": "Twenty-one islands with sandstone sea caves and lighthouses, reached by boat from Bayfield.",
+   "refs": [
+    "nps",
+    "moonwi"
+   ],
+   "url": "https://www.nps.gov/apis",
+   "wiki": "Apostle Islands National Lakeshore",
+   "img": "Big_waves_on_Devils_Island_shoreline_(e99f5cd1-548c-439d-962d-0c03204c2bf8).jpg",
+   "drive_min": 718,
+   "drive_mi": 586
+  }
+ ]
+}

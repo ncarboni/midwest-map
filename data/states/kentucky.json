@@ -1,0 +1,790 @@
+{
+ "state": "KY",
+ "name": "Kentucky",
+ "regions": {
+  "Bluegrass and Bourbon Country": "Horse farms, distilleries and Shakers: Lexington's Keeneland and Horse Park, Frankfort's capitol and Buffalo Trace, Bardstown, Lincoln's birthplace and a night at Shaker Village.",
+  "Cave Country": "Mammoth Cave deserves a full day of tours (book ahead); add the Corvette Museum and the boat ride at Lost River Cave in Bowling Green.",
+  "Eastern Kentucky Mountains": "Arches of the Red River Gorge and Natural Bridge, crafts in Berea, Cumberland Falls and the Wilderness Road at Cumberland Gap.",
+  "Louisville and the Ohio River": "Museum Row on Main Street, the Speed, Churchill Downs and Old Louisville's Victorian streets, with Madison and Clifty Falls upriver on the Indiana side.",
+  "Southern Illinois and the Lower Ohio": "Sandstone country in the Shawnee National Forest, cypress swamps on the Cache River, then across the Ohio to Paducah's quilt museum and Land Between the Lakes. Best in October."
+ },
+ "sites": [
+  {
+   "name": "Mammoth Cave National Park",
+   "cat": "nature",
+   "region": "Cave Country",
+   "lat": 37.1869,
+   "lng": -86.1011,
+   "desc": "The longest known cave system in the world, more than 400 miles surveyed. A UNESCO World Heritage Site.",
+   "refs": [
+    "brucker",
+    "nps"
+   ],
+   "url": "https://www.nps.gov/maca",
+   "wiki": "Mammoth Cave National Park",
+   "img": "Mammoth_Cave_Rotunda_(USGS_Lwt02830).jpg",
+   "drive_min": 370,
+   "drive_mi": 328
+  },
+  {
+   "name": "National Corvette Museum",
+   "cat": "culture",
+   "region": "Cave Country",
+   "lat": 37.0042,
+   "lng": -86.375,
+   "desc": "Next to the Bowling Green Corvette plant, known for the 2014 sinkhole that swallowed eight cars.",
+   "refs": [
+    "roadside",
+    "kytour"
+   ],
+   "url": "https://www.corvettemuseum.org",
+   "wiki": "National Corvette Museum",
+   "img": "National_Corvette_Museum_from_Above.jpg",
+   "drive_min": 382,
+   "drive_mi": 344
+  },
+  {
+   "name": "Lost River Cave",
+   "cat": "nature",
+   "region": "Cave Country",
+   "lat": 36.9528,
+   "lng": -86.4717,
+   "desc": "An underground boat tour on a cave river in Bowling Green.",
+   "refs": [
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "Lost River Cave",
+   "img": "Lost_River_Cave_entrance.jpg",
+   "drive_min": 376,
+   "drive_mi": 297
+  },
+  {
+   "name": "Shaker Museum at South Union",
+   "cat": "arch",
+   "region": "Cave Country",
+   "lat": 36.8847,
+   "lng": -86.6444,
+   "desc": "The westernmost Shaker community, with an 1824 dwelling house and museum.",
+   "refs": [
+    "kyencyc",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Shaker Museum at South Union",
+   "img": "South_Union_Shaker_Center_Dwelling_House.jpg",
+   "drive_min": 384,
+   "drive_mi": 305
+  },
+  {
+   "name": "Abraham Lincoln Birthplace National Historical Park",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.5311,
+   "lng": -85.7375,
+   "desc": "John Russell Pope's 1911 memorial temple encloses a symbolic cabin near Hodgenville.",
+   "refs": [
+    "donald",
+    "nps"
+   ],
+   "url": "https://www.nps.gov/abli",
+   "wiki": "Abraham Lincoln Birthplace National Historical Park",
+   "img": "Abraham_Lincoln_Birthplace_National_Historical_Park_side.jpg",
+   "drive_min": 329,
+   "drive_mi": 293
+  },
+  {
+   "name": "My Old Kentucky Home State Park",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.8064,
+   "lng": -85.4569,
+   "desc": "Federal Hill in Bardstown, associated with Stephen Foster's song.",
+   "refs": [
+    "kypark",
+    "wpaKY"
+   ],
+   "url": "https://parks.ky.gov",
+   "wiki": "My Old Kentucky Home State Park",
+   "img": "My_Old_Kentucky_Home_Mansion.png",
+   "drive_min": 316,
+   "drive_mi": 276
+  },
+  {
+   "name": "Oscar Getz Museum of Whiskey History",
+   "cat": "museum",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.8113,
+   "lng": -85.471,
+   "desc": "Bardstown museum of American whiskey from the colonial era through Prohibition.",
+   "refs": [
+    "minnick"
+   ],
+   "url": null,
+   "wiki": "Oscar Getz Museum of Whiskey History",
+   "img": "Bardstown_Whiskey_Museum.jpg",
+   "drive_min": 315,
+   "drive_mi": 275
+  },
+  {
+   "name": "Maker's Mark Distillery",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.6478,
+   "lng": -85.3489,
+   "desc": "A National Historic Landmark distillery in a Victorian campus at Loretto, with Chihuly glass in its cellars.",
+   "refs": [
+    "minnick",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Maker's Mark",
+   "img": null,
+   "drive_min": 350,
+   "drive_mi": 296
+  },
+  {
+   "name": "Abbey of Gethsemani",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.6642,
+   "lng": -85.5294,
+   "desc": "The Trappist monastery where Thomas Merton lived and wrote.",
+   "refs": [
+    "kyencyc"
+   ],
+   "url": null,
+   "wiki": "Abbey of Our Lady of Gethsemani",
+   "img": "The_Abbey_of_Our_Lady_of_Gethsemani.jpg",
+   "drive_min": 333,
+   "drive_mi": 287
+  },
+  {
+   "name": "Buffalo Trace Distillery",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.2175,
+   "lng": -84.8694,
+   "desc": "A National Historic Landmark distillery on the Kentucky River in Frankfort with free tours.",
+   "refs": [
+    "minnick",
+    "nhl"
+   ],
+   "url": "https://www.buffalotracedistillery.com",
+   "wiki": "Buffalo Trace Distillery",
+   "img": "Buffalo_Trace_Tower.jpg",
+   "drive_min": 323,
+   "drive_mi": 288
+  },
+  {
+   "name": "Woodford Reserve Distillery",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.1128,
+   "lng": -84.8119,
+   "desc": "Limestone distillery buildings of the 1830s among horse farms near Versailles.",
+   "refs": [
+    "minnick",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Woodford Reserve",
+   "img": "Woodford_Reserve_(3).jpg",
+   "drive_min": 329,
+   "drive_mi": 294
+  },
+  {
+   "name": "Kentucky State Capitol",
+   "cat": "arch",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.1867,
+   "lng": -84.8753,
+   "desc": "A 1910 Beaux-Arts capitol in Frankfort with a floral clock on its lawn.",
+   "refs": [
+    "kyencyc"
+   ],
+   "url": null,
+   "wiki": "Kentucky State Capitol",
+   "img": "U.S._Route_60_Frankfort,_KY_(23892062134).jpg",
+   "drive_min": 320,
+   "drive_mi": 285
+  },
+  {
+   "name": "Thomas D. Clark Center for Kentucky History",
+   "cat": "museum",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.199,
+   "lng": -84.8748,
+   "desc": "The Kentucky Historical Society's museum in Frankfort.",
+   "refs": [
+    "explky"
+   ],
+   "url": null,
+   "wiki": "Kentucky Historical Society",
+   "img": "The_façade_of_the_Thomas_D._Clark_Center_for_Kentucky_History_in_Frankfort,_Kentucky.jpg",
+   "drive_min": 321,
+   "drive_mi": 287
+  },
+  {
+   "name": "Shaker Village of Pleasant Hill",
+   "cat": "arch",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.818,
+   "lng": -84.7403,
+   "desc": "The largest restored Shaker community in the country, with more than 30 original buildings.",
+   "refs": [
+    "nhl",
+    "kyencyc"
+   ],
+   "url": "https://shakervillageky.org",
+   "wiki": "Pleasant Hill, Kentucky",
+   "img": "Shakertown_Trustees_House_2005-05-27.jpeg",
+   "drive_min": 353,
+   "drive_mi": 312
+  },
+  {
+   "name": "Old Fort Harrod State Park",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.7619,
+   "lng": -84.8489,
+   "desc": "A reconstruction of the first permanent settlement in Kentucky (1774) at Harrodsburg.",
+   "refs": [
+    "kypark"
+   ],
+   "url": null,
+   "wiki": "Old Fort Harrod State Park",
+   "img": "Old_Fort_Harrod_State_Park.jpg",
+   "drive_min": 345,
+   "drive_mi": 306
+  },
+  {
+   "name": "Perryville Battlefield",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.6753,
+   "lng": -84.9697,
+   "desc": "Site of the largest Civil War battle in Kentucky, fought in 1862.",
+   "refs": [
+    "kypark",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Perryville Battlefield State Historic Site",
+   "img": "Perryville_Parsons_Battery.jpg",
+   "drive_min": 358,
+   "drive_mi": 311
+  },
+  {
+   "name": "Camp Nelson National Monument",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 37.7878,
+   "lng": -84.5981,
+   "desc": "A Union supply depot that became a major recruiting center for Black soldiers and a refuge for their families.",
+   "refs": [
+    "nps",
+    "explky"
+   ],
+   "url": "https://www.nps.gov/came",
+   "wiki": "Camp Nelson National Monument",
+   "img": "Camp_Nelson_landscape.JPG",
+   "drive_min": 365,
+   "drive_mi": 320
+  },
+  {
+   "name": "Kentucky Horse Park",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.15,
+   "lng": -84.5167,
+   "desc": "Working horse farm and park in Lexington with the International Museum of the Horse.",
+   "refs": [
+    "kypark",
+    "kytour"
+   ],
+   "url": "https://kyhorsepark.com",
+   "wiki": "Kentucky Horse Park",
+   "img": "Khp.jpg",
+   "drive_min": 343,
+   "drive_mi": 306
+  },
+  {
+   "name": "Keeneland",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.0456,
+   "lng": -84.6106,
+   "desc": "Lexington's limestone racecourse; morning workouts are open to watch.",
+   "refs": [
+    "nhl",
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "Keeneland",
+   "img": "Keeneland_Race_Course.jpg",
+   "drive_min": 339,
+   "drive_mi": 303
+  },
+  {
+   "name": "Ashland, the Henry Clay Estate",
+   "cat": "arch",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.0286,
+   "lng": -84.48,
+   "desc": "The rebuilt Italianate home of statesman Henry Clay in Lexington.",
+   "refs": [
+    "nhl",
+    "kyencyc"
+   ],
+   "url": null,
+   "wiki": "Ashland (Henry Clay estate)",
+   "img": "Ashland_HC.JPG",
+   "drive_min": 351,
+   "drive_mi": 312
+  },
+  {
+   "name": "Mary Todd Lincoln House",
+   "cat": "culture",
+   "region": "Bluegrass and Bourbon Country",
+   "lat": 38.0514,
+   "lng": -84.5028,
+   "desc": "Mary Todd's girlhood home in Lexington, the first site restored to honor a first lady.",
+   "refs": [
+    "kyencyc"
+   ],
+   "url": null,
+   "wiki": "Mary Todd Lincoln House",
+   "img": "Mary_Todd_Lincoln_House,_Lexington_Kentucky_3.jpg",
+   "drive_min": 345,
+   "drive_mi": 310
+  },
+  {
+   "name": "Kentucky Derby Museum at Churchill Downs",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2053,
+   "lng": -85.7712,
+   "desc": "The museum of the Kentucky Derby, with track tours under the twin spires.",
+   "refs": [
+    "nhl",
+    "kytour"
+   ],
+   "url": "https://www.derbymuseum.org",
+   "wiki": "Kentucky Derby Museum",
+   "img": null,
+   "drive_min": 269,
+   "drive_mi": 239
+  },
+  {
+   "name": "Speed Art Museum",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2179,
+   "lng": -85.7609,
+   "desc": "Kentucky's oldest and largest art museum, founded in 1927.",
+   "refs": [
+    "kyencyc",
+    "nyt36"
+   ],
+   "url": "https://www.speedmuseum.org",
+   "wiki": "Speed Art Museum",
+   "img": "Speed_Art_Museum_Northwest_View_2016.jpg",
+   "drive_min": 267,
+   "drive_mi": 238
+  },
+  {
+   "name": "Muhammad Ali Center",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2582,
+   "lng": -85.7601,
+   "desc": "Riverfront museum on Ali's life, boxing career and principles.",
+   "refs": [
+    "jensen",
+    "kytour"
+   ],
+   "url": "https://alicenter.org",
+   "wiki": "Muhammad Ali Center",
+   "img": "AliCenter.jpg",
+   "drive_min": 262,
+   "drive_mi": 235
+  },
+  {
+   "name": "Frazier History Museum",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2577,
+   "lng": -85.7645,
+   "desc": "History museum on Museum Row, and the official starting point of the Kentucky Bourbon Trail.",
+   "refs": [
+    "kytour",
+    "minnick"
+   ],
+   "url": null,
+   "wiki": "Frazier History Museum",
+   "img": "FHM_2018.jpg",
+   "drive_min": 262,
+   "drive_mi": 235
+  },
+  {
+   "name": "Louisville Slugger Museum and Factory",
+   "cat": "culture",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2571,
+   "lng": -85.7636,
+   "desc": "Factory tour of the famous baseball bats, marked by a giant bat leaning on the building.",
+   "refs": [
+    "roadside",
+    "kytour"
+   ],
+   "url": "https://www.sluggermuseum.com",
+   "wiki": "Louisville Slugger Museum & Factory",
+   "img": "LouisvilleSluggerMusem.jpg",
+   "drive_min": 262,
+   "drive_mi": 235
+  },
+  {
+   "name": "KMAC Contemporary Art Museum",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2575,
+   "lng": -85.7623,
+   "desc": "Contemporary art and craft museum on Main Street.",
+   "refs": [
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "KMAC Museum",
+   "img": "KMAC_Museum_2.jpg",
+   "drive_min": 262,
+   "drive_mi": 235
+  },
+  {
+   "name": "21c Museum Hotel Louisville",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2568,
+   "lng": -85.7619,
+   "desc": "The original 21c, a hotel that doubles as a free contemporary art museum.",
+   "refs": [
+    "nyt36"
+   ],
+   "url": null,
+   "wiki": "21c Museum Hotels",
+   "img": "21c_Museum_Hotel_logo.svg",
+   "drive_min": 263,
+   "drive_mi": 235
+  },
+  {
+   "name": "Kentucky Science Center",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2576,
+   "lng": -85.7627,
+   "desc": "Hands-on science museum in a row of cast-iron facades.",
+   "refs": [
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "Kentucky Science Center",
+   "img": "Kentucky_Science_Center.jpg",
+   "drive_min": 262,
+   "drive_mi": 235
+  },
+  {
+   "name": "Big Four Bridge",
+   "cat": "arch",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2656,
+   "lng": -85.7389,
+   "desc": "A former railroad truss bridge turned walkway between Louisville and Jeffersonville.",
+   "refs": [
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "Big Four Bridge",
+   "img": "Big_Four_Bridge.jpg",
+   "drive_min": 264,
+   "drive_mi": 237
+  },
+  {
+   "name": "Belle of Louisville",
+   "cat": "culture",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2592,
+   "lng": -85.7556,
+   "desc": "The oldest operating Mississippi-style steamboat, with cruises on the Ohio.",
+   "refs": [
+    "nhl",
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "Belle of Louisville",
+   "img": "Belle_of_Louisville_2.jpg",
+   "drive_min": 261,
+   "drive_mi": 235
+  },
+  {
+   "name": "Old Louisville",
+   "cat": "arch",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.23,
+   "lng": -85.763,
+   "desc": "One of the largest Victorian residential neighborhoods in the country, best seen on foot around St. James Court.",
+   "refs": [
+    "sah",
+    "kyencyc"
+   ],
+   "url": null,
+   "wiki": "Old Louisville",
+   "img": "Werne's_Row_4th_and_Hill,_Old_Louisville.jpg",
+   "drive_min": 266,
+   "drive_mi": 237
+  },
+  {
+   "name": "Conrad-Caldwell House",
+   "cat": "arch",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2292,
+   "lng": -85.7637,
+   "desc": "A Richardsonian Romanesque mansion on St. James Court, open as a museum.",
+   "refs": [
+    "kyencyc"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 266,
+   "drive_mi": 237
+  },
+  {
+   "name": "Thomas Edison House",
+   "cat": "museum",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2555,
+   "lng": -85.7383,
+   "desc": "The shotgun cottage where young Edison boarded while a telegraph operator.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Thomas Edison House",
+   "img": "Thomas_Edison_House_Louisville_2.jpg",
+   "drive_min": 263,
+   "drive_mi": 236
+  },
+  {
+   "name": "Locust Grove",
+   "cat": "culture",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2871,
+   "lng": -85.6619,
+   "desc": "A Georgian farm house of the 1790s, the last home of George Rogers Clark.",
+   "refs": [
+    "nhl",
+    "kyencyc"
+   ],
+   "url": null,
+   "wiki": "Historic Locust Grove",
+   "img": "Locust_Grove,_Louisville.jpg",
+   "drive_min": 270,
+   "drive_mi": 240
+  },
+  {
+   "name": "Cave Hill Cemetery",
+   "cat": "nature",
+   "region": "Louisville and the Ohio River",
+   "lat": 38.2456,
+   "lng": -85.7161,
+   "desc": "A landscaped Victorian cemetery and arboretum, burial place of Colonel Sanders.",
+   "refs": [
+    "kyencyc",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Cave Hill Cemetery",
+   "img": "Cave_hill-rework.jpg",
+   "drive_min": 268,
+   "drive_mi": 238
+  },
+  {
+   "name": "Bernheim Arboretum and Research Forest",
+   "cat": "nature",
+   "region": "Louisville and the Ohio River",
+   "lat": 37.5547,
+   "lng": -85.391,
+   "desc": "Arboretum and forest south of Louisville, with Thomas Dambo's wooden Forest Giants and a canopy walk.",
+   "refs": [
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "Bernheim Arboretum and Research Forest",
+   "img": "Sulfur_Cinquefoil_-_Introduced_-_Bullitt_County,_KY_USA_(with_foliage).jpg",
+   "drive_min": 350,
+   "drive_mi": 297
+  },
+  {
+   "name": "Red River Gorge",
+   "cat": "nature",
+   "region": "Eastern Kentucky Mountains",
+   "lat": 37.8339,
+   "lng": -83.6078,
+   "desc": "Sandstone cliffs and more than a hundred natural arches in the Daniel Boone National Forest.",
+   "refs": [
+    "usfs",
+    "kytour"
+   ],
+   "url": "https://www.fs.usda.gov/dbnf",
+   "wiki": "Red River Gorge",
+   "img": "View_of_Chimney_Top_Rock.JPG",
+   "drive_min": 418,
+   "drive_mi": 370
+  },
+  {
+   "name": "Natural Bridge State Resort Park",
+   "cat": "nature",
+   "region": "Eastern Kentucky Mountains",
+   "lat": 37.7768,
+   "lng": -83.6833,
+   "desc": "A 78 foot sandstone arch with a skylift, next to the Red River Gorge.",
+   "refs": [
+    "kypark"
+   ],
+   "url": null,
+   "wiki": "Natural Bridge State Resort Park",
+   "img": "Natural_Bridge_KY-27527-3.jpg",
+   "drive_min": 401,
+   "drive_mi": 362
+  },
+  {
+   "name": "Kentucky Artisan Center, Berea",
+   "cat": "culture",
+   "region": "Eastern Kentucky Mountains",
+   "lat": 37.596,
+   "lng": -84.3121,
+   "desc": "Showcase of Kentucky crafts in Berea, the state's folk arts and crafts capital.",
+   "refs": [
+    "kytour"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 383,
+   "drive_mi": 345
+  },
+  {
+   "name": "Cumberland Falls State Resort Park",
+   "cat": "nature",
+   "region": "Eastern Kentucky Mountains",
+   "lat": 36.8408,
+   "lng": -84.3328,
+   "desc": "A wide waterfall known for its moonbow on clear nights near the full moon.",
+   "refs": [
+    "kypark"
+   ],
+   "url": "https://parks.ky.gov",
+   "wiki": "Cumberland Falls State Resort Park",
+   "img": "Cumberland_Falls_2009.jpg",
+   "drive_min": 454,
+   "drive_mi": 396
+  },
+  {
+   "name": "Cumberland Gap National Historical Park",
+   "cat": "nature",
+   "region": "Eastern Kentucky Mountains",
+   "lat": 36.6042,
+   "lng": -83.6872,
+   "desc": "The mountain pass of the Wilderness Road, with the Pinnacle Overlook over three states.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/cuga",
+   "wiki": "Cumberland Gap National Historical Park",
+   "img": "Pinnacle_overlook.jpg",
+   "drive_min": 488,
+   "drive_mi": 439
+  },
+  {
+   "name": "Kentucky Coal Mining Museum",
+   "cat": "museum",
+   "region": "Eastern Kentucky Mountains",
+   "lat": 36.9641,
+   "lng": -82.9511,
+   "desc": "Museum in a company commissary in Benham, with a walk-in mine nearby.",
+   "refs": [
+    "kytour"
+   ],
+   "url": null,
+   "wiki": "Kentucky Coal Museum",
+   "img": "KY_Coal_Mining_Museum.png",
+   "drive_min": 532,
+   "drive_mi": 460
+  },
+  {
+   "name": "Bluegrass Music Hall of Fame and Museum",
+   "cat": "museum",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 37.7753,
+   "lng": -87.1098,
+   "desc": "Owensboro museum of bluegrass, the music named for Kentucky.",
+   "refs": [
+    "malone",
+    "kytour"
+   ],
+   "url": "https://www.bluegrasshall.org",
+   "wiki": "International Bluegrass Music Museum",
+   "img": "Bluegrass_Music_Hall_of_Fame_&_Museum.jpg",
+   "drive_min": 293,
+   "drive_mi": 226
+  },
+  {
+   "name": "National Quilt Museum",
+   "cat": "museum",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 37.0894,
+   "lng": -88.5972,
+   "desc": "Contemporary and traditional quilts in Paducah, a UNESCO Creative City of Crafts and Folk Art.",
+   "refs": [
+    "kytour"
+   ],
+   "url": "https://quiltmuseum.org",
+   "wiki": "National Quilt Museum",
+   "img": "National_Quilt_Museum.jpg",
+   "drive_min": 269,
+   "drive_mi": 242
+  },
+  {
+   "name": "Land Between the Lakes",
+   "cat": "nature",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 36.8569,
+   "lng": -88.0747,
+   "desc": "A long peninsula between Kentucky Lake and Lake Barkley with an elk and bison prairie.",
+   "refs": [
+    "usfs"
+   ],
+   "url": "https://landbetweenthelakes.us",
+   "wiki": "Land Between the Lakes National Recreation Area",
+   "img": "Land_between_the_lakes.jpg",
+   "drive_min": 322,
+   "drive_mi": 282
+  },
+  {
+   "name": "Wickliffe Mounds",
+   "cat": "culture",
+   "region": "Southern Illinois and the Lower Ohio",
+   "lat": 36.971,
+   "lng": -89.0929,
+   "desc": "A Mississippian village site near the confluence of the Ohio and Mississippi.",
+   "refs": [
+    "kypark"
+   ],
+   "url": null,
+   "wiki": "Wickliffe Mounds",
+   "img": "Wickliffe_Mounds_Mound_A.jpg",
+   "drive_min": 278,
+   "drive_mi": 247
+  }
+ ]
+}

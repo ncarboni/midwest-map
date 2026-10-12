@@ -1,0 +1,1023 @@
+{
+ "state": "TN",
+ "name": "Tennessee",
+ "regions": {
+  "Chattanooga": "A compact river city: the Hunter Museum and Walnut Street Bridge, the Tennessee Aquarium, and Lookout Mountain's Incline, Ruby Falls and Point Park.",
+  "Cumberland Plateau": "Waterfall country: Fall Creek, Burgess and Cummins Falls, Sewanee's Gothic campus, Sergeant York's farm and the English utopia of Rugby by Big South Fork.",
+  "East Tennessee and the Smokies": "Knoxville's museums and Sunsphere, Oak Ridge's Manhattan Project history, the Museum of Appalachia, and the Great Smoky Mountains with Cades Cove.",
+  "Memphis": "Music and civil rights: Graceland, Sun and Stax, Beale Street and the Peabody ducks, and the National Civil Rights Museum at the Lorraine Motel.",
+  "Nashville and Middle Tennessee": "The Country Music Hall of Fame, the Ryman and Studio B, the new National Museum of African American Music, the Parthenon and the Frist, with the Hermitage and Franklin nearby.",
+  "West Tennessee": "Shiloh battlefield and Pinson Mounds, Tina Turner's school in Brownsville and Alex Haley's Henning, with eagles at Reelfoot Lake in winter."
+ },
+ "sites": [
+  {
+   "name": "Graceland",
+   "cat": "culture",
+   "region": "Memphis",
+   "lat": 35.0459,
+   "lng": -90.0229,
+   "desc": "Elvis Presley's home, preserved with its Jungle Room, and a large exhibition complex across the street.",
+   "refs": [
+    "guralnick",
+    "moontn"
+   ],
+   "url": "https://www.graceland.com",
+   "wiki": "Graceland",
+   "img": "USA_Tour_2019_P095_Graceland.jpg",
+   "drive_min": 443,
+   "drive_mi": 408
+  },
+  {
+   "name": "Sun Studio",
+   "cat": "culture",
+   "region": "Memphis",
+   "lat": 35.1392,
+   "lng": -90.0377,
+   "desc": "The small studio where Sam Phillips recorded Elvis, Johnny Cash and early rock and roll and blues.",
+   "refs": [
+    "guralnick",
+    "nhl"
+   ],
+   "url": "https://www.sunstudio.com",
+   "wiki": "Sun Studio",
+   "img": "Sun_studio_memphis.jpg",
+   "drive_min": 435,
+   "drive_mi": 402
+  },
+  {
+   "name": "Stax Museum of American Soul Music",
+   "cat": "museum",
+   "region": "Memphis",
+   "lat": 35.116,
+   "lng": -90.0315,
+   "desc": "On the site of Stax Records in Soulsville, home of Otis Redding, Isaac Hayes and Booker T. and the MGs.",
+   "refs": [
+    "gordon",
+    "moontn"
+   ],
+   "url": "https://staxmuseum.com",
+   "wiki": "Stax Museum of American Soul Music",
+   "img": "Stax_Museum_&_Satellite_Record_Shop.jpg",
+   "drive_min": 437,
+   "drive_mi": 403
+  },
+  {
+   "name": "National Civil Rights Museum",
+   "cat": "museum",
+   "region": "Memphis",
+   "lat": 35.1345,
+   "lng": -90.0576,
+   "desc": "Built around the Lorraine Motel, where Martin Luther King Jr. was killed in 1968.",
+   "refs": [
+    "sides",
+    "moontn"
+   ],
+   "url": "https://www.civilrightsmuseum.org",
+   "wiki": "National Civil Rights Museum",
+   "img": "National_Civil_Rights_Museum_2022a.jpg",
+   "drive_min": 435,
+   "drive_mi": 401
+  },
+  {
+   "name": "Memphis Rock 'n' Soul Museum",
+   "cat": "museum",
+   "region": "Memphis",
+   "lat": 35.1395,
+   "lng": -90.0517,
+   "desc": "A Smithsonian-developed museum of the music of Memphis.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Memphis Rock 'n' Soul Museum",
+   "img": "Rock_n_Soul_Museum_Memphis_TN_1.jpg",
+   "drive_min": 435,
+   "drive_mi": 402
+  },
+  {
+   "name": "Blues Hall of Fame",
+   "cat": "museum",
+   "region": "Memphis",
+   "lat": 35.1352,
+   "lng": -90.0615,
+   "desc": "The Blues Foundation's museum of inductees, near the Civil Rights Museum.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Blues Hall of Fame",
+   "img": "Blues_Hall_of_Fame,_Memphis_TN.jpg",
+   "drive_min": 435,
+   "drive_mi": 401
+  },
+  {
+   "name": "Beale Street",
+   "cat": "culture",
+   "region": "Memphis",
+   "lat": 35.1394,
+   "lng": -90.0519,
+   "desc": "The street where W. C. Handy and B. B. King played, now lined with blues clubs.",
+   "refs": [
+    "moontn",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Beale Street",
+   "img": "Beale_Street_060523.jpg",
+   "drive_min": 435,
+   "drive_mi": 402
+  },
+  {
+   "name": "The Peabody Ducks",
+   "cat": "culture",
+   "region": "Memphis",
+   "lat": 35.1422,
+   "lng": -90.0518,
+   "desc": "The grand 1925 hotel where ducks march to the lobby fountain every morning at 11.",
+   "refs": [
+    "moontn",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Peabody Hotel",
+   "img": "Memphis_IMG_2798_Peabody_Hotel,_Memphis.jpg",
+   "drive_min": 434,
+   "drive_mi": 401
+  },
+  {
+   "name": "Memphis Brooks Museum of Art",
+   "cat": "museum",
+   "region": "Memphis",
+   "lat": 35.1443,
+   "lng": -89.9952,
+   "desc": "Tennessee's oldest and largest art museum, with collections from antiquity to today.",
+   "refs": [
+    "tnencyc"
+   ],
+   "url": null,
+   "wiki": "Memphis Brooks Museum of Art",
+   "img": "Memphis_Brooks_Museum_of_Art_logo.svg",
+   "drive_min": 439,
+   "drive_mi": 404
+  },
+  {
+   "name": "Dixon Gallery and Gardens",
+   "cat": "museum",
+   "region": "Memphis",
+   "lat": 35.106,
+   "lng": -89.9176,
+   "desc": "French Impressionist paintings and gardens in a former Memphis estate.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Dixon Gallery and Gardens",
+   "img": "Dixon_Memphis_TN_building_2.jpg",
+   "drive_min": 449,
+   "drive_mi": 410
+  },
+  {
+   "name": "Metal Museum",
+   "cat": "museum",
+   "region": "Memphis",
+   "lat": 35.1233,
+   "lng": -90.075,
+   "desc": "Museum of fine metalwork on a Mississippi bluff, with a working foundry.",
+   "refs": [
+    "atlas",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Metal Museum",
+   "img": "Staff_Quarters_E_Memphis_Marine_Hospital_2022a.jpg",
+   "drive_min": 433,
+   "drive_mi": 401
+  },
+  {
+   "name": "Chucalissa",
+   "cat": "culture",
+   "region": "Memphis",
+   "lat": 35.0625,
+   "lng": -90.1289,
+   "desc": "A Mississippian mound site and museum run by the University of Memphis.",
+   "refs": [
+    "tnencyc"
+   ],
+   "url": null,
+   "wiki": "Chucalissa",
+   "img": "Chucalissa_Memphis_TN_2.jpg",
+   "drive_min": 446,
+   "drive_mi": 408
+  },
+  {
+   "name": "Shiloh National Military Park",
+   "cat": "culture",
+   "region": "West Tennessee",
+   "lat": 35.1367,
+   "lng": -88.3406,
+   "desc": "The battlefield of April 1862, with prehistoric mounds above the Tennessee River.",
+   "refs": [
+    "nps",
+    "chernow"
+   ],
+   "url": "https://www.nps.gov/shil",
+   "wiki": "Shiloh National Military Park",
+   "img": "Shiloh_Church.jpg",
+   "drive_min": 471,
+   "drive_mi": 400
+  },
+  {
+   "name": "Pinson Mounds",
+   "cat": "culture",
+   "region": "West Tennessee",
+   "lat": 35.4978,
+   "lng": -88.6825,
+   "desc": "Middle Woodland ceremonial mounds, including Sauls' Mound, one of the tallest in the country.",
+   "refs": [
+    "tnpark",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Pinson Mounds",
+   "img": "Pinson-mounds-sauls-mound.jpg",
+   "drive_min": 434,
+   "drive_mi": 374
+  },
+  {
+   "name": "Casey Jones Home and Railroad Museum",
+   "cat": "museum",
+   "region": "West Tennessee",
+   "lat": 35.6596,
+   "lng": -88.8572,
+   "desc": "The Jackson home of the engineer of ballad fame.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 405,
+   "drive_mi": 356
+  },
+  {
+   "name": "Tina Turner Museum at Flagg Grove School",
+   "cat": "museum",
+   "region": "West Tennessee",
+   "lat": 35.5411,
+   "lng": -89.246,
+   "desc": "The one-room school Tina Turner attended, moved to Brownsville and opened as a museum.",
+   "refs": [
+    "tnvac"
+   ],
+   "url": null,
+   "wiki": "Flagg Grove School",
+   "img": "Flagg_Grove_school_house_West_TN_Delta_Heritage_Center_Brownsville_TN_2013-09_001.jpg",
+   "drive_min": 430,
+   "drive_mi": 383
+  },
+  {
+   "name": "Alex Haley Museum",
+   "cat": "museum",
+   "region": "West Tennessee",
+   "lat": 35.6733,
+   "lng": -89.5764,
+   "desc": "The Henning boyhood home of the author of Roots.",
+   "refs": [
+    "tnencyc"
+   ],
+   "url": null,
+   "wiki": "Alex Haley House and Museum",
+   "img": "Henning_Alex_Haley_Home_and_Memorial.jpg",
+   "drive_min": 407,
+   "drive_mi": 365
+  },
+  {
+   "name": "Reelfoot Lake State Park",
+   "cat": "nature",
+   "region": "West Tennessee",
+   "lat": 36.363,
+   "lng": -89.4327,
+   "desc": "A cypress swamp lake formed by the New Madrid earthquakes of 1811 and 1812, with wintering bald eagles.",
+   "refs": [
+    "tnpark",
+    "tnencyc"
+   ],
+   "url": "https://tnstateparks.com",
+   "wiki": "Reelfoot Lake State Park",
+   "img": "Reelfoot_Lake.jpg",
+   "drive_min": 368,
+   "drive_mi": 323
+  },
+  {
+   "name": "Country Music Hall of Fame and Museum",
+   "cat": "museum",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1583,
+   "lng": -86.7761,
+   "desc": "The great museum of country music, with Hatch Show Print and tours to RCA Studio B.",
+   "refs": [
+    "malone",
+    "moontn"
+   ],
+   "url": "https://www.countrymusichalloffame.org",
+   "wiki": "Country Music Hall of Fame and Museum",
+   "img": "Country_Music_Hall_of_Fame_2022a.jpg",
+   "drive_min": 411,
+   "drive_mi": 376
+  },
+  {
+   "name": "Ryman Auditorium",
+   "cat": "culture",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1613,
+   "lng": -86.7785,
+   "desc": "Built in 1892 as a tabernacle and home of the Grand Ole Opry from 1943 to 1974.",
+   "refs": [
+    "malone",
+    "nhl"
+   ],
+   "url": "https://www.ryman.com",
+   "wiki": "Ryman Auditorium",
+   "img": "Ryman_Auditorium.jpg",
+   "drive_min": 411,
+   "drive_mi": 376
+  },
+  {
+   "name": "RCA Studio B",
+   "cat": "culture",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1499,
+   "lng": -86.7928,
+   "desc": "Where the Nashville Sound was recorded, from Elvis to Dolly Parton.",
+   "refs": [
+    "malone",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "RCA Studio B",
+   "img": "RCAStudioB_Console.jpg",
+   "drive_min": 413,
+   "drive_mi": 377
+  },
+  {
+   "name": "National Museum of African American Music",
+   "cat": "museum",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1606,
+   "lng": -86.7789,
+   "desc": "Opened in 2021, tracing more than 50 genres from spirituals to hip hop.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "National Museum of African American Music",
+   "img": "National_Museum_of_African_American_Music_(Nashville,_Tennessee)_logo.svg",
+   "drive_min": 411,
+   "drive_mi": 376
+  },
+  {
+   "name": "Johnny Cash Museum",
+   "cat": "museum",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1611,
+   "lng": -86.7758,
+   "desc": "The largest collection of Johnny Cash artifacts.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Johnny Cash Museum",
+   "img": "Johnny_Cash_Museum,_Nashville.JPG",
+   "drive_min": 411,
+   "drive_mi": 376
+  },
+  {
+   "name": "Musicians Hall of Fame and Museum",
+   "cat": "museum",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1583,
+   "lng": -86.7763,
+   "desc": "Honors session players behind famous records.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Musicians Hall of Fame and Museum",
+   "img": "Musicians_Hall_of_Fame_Logo.jpeg",
+   "drive_min": 411,
+   "drive_mi": 376
+  },
+  {
+   "name": "Frist Art Museum",
+   "cat": "museum",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1578,
+   "lng": -86.7839,
+   "desc": "Changing exhibitions in Nashville's 1934 Art Deco post office.",
+   "refs": [
+    "tnencyc",
+    "moontn"
+   ],
+   "url": "https://fristartmuseum.org",
+   "wiki": "Frist Art Museum",
+   "img": "Frist_Art_Museum.jpg",
+   "drive_min": 412,
+   "drive_mi": 376
+  },
+  {
+   "name": "Tennessee State Museum",
+   "cat": "museum",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1725,
+   "lng": -86.79,
+   "desc": "Free state history museum by the Bicentennial Capitol Mall.",
+   "refs": [
+    "tnencyc"
+   ],
+   "url": null,
+   "wiki": "Tennessee State Museum",
+   "img": "New_Tennessee_State_Museum.jpg",
+   "drive_min": 410,
+   "drive_mi": 375
+  },
+  {
+   "name": "The Parthenon, Centennial Park",
+   "cat": "arch",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1497,
+   "lng": -86.8133,
+   "desc": "A full-scale replica of the Athenian Parthenon from 1897, now an art museum with a 42 foot Athena.",
+   "refs": [
+    "tnencyc",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Parthenon (Nashville)",
+   "img": "Parthenon_Nashville.png",
+   "drive_min": 415,
+   "drive_mi": 378
+  },
+  {
+   "name": "Tennessee State Capitol",
+   "cat": "arch",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1658,
+   "lng": -86.7842,
+   "desc": "William Strickland's Greek Revival capitol (1859); the architect is entombed in its walls.",
+   "refs": [
+    "tnencyc",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Tennessee State Capitol",
+   "img": "Tennessee_State_Capitol,_Charlotte_Avenue,_Nashville,_TN_-_54385055916.jpg",
+   "drive_min": 413,
+   "drive_mi": 376
+  },
+  {
+   "name": "Belle Meade Historic Site",
+   "cat": "culture",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1056,
+   "lng": -86.865,
+   "desc": "A Greek Revival plantation house and thoroughbred farm, interpreted with the lives of the enslaved.",
+   "refs": [
+    "tnencyc",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Belle Meade Plantation",
+   "img": "Belle_Meade_Plantation.jpg",
+   "drive_min": 422,
+   "drive_mi": 382
+  },
+  {
+   "name": "Cheekwood",
+   "cat": "nature",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.0867,
+   "lng": -86.8739,
+   "desc": "A 1929 country estate with botanical gardens and an art museum.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Cheekwood Botanical Garden and Museum of Art",
+   "img": "WTN_PeepHoles_082.JPG",
+   "drive_min": 427,
+   "drive_mi": 384
+  },
+  {
+   "name": "Lane Motor Museum",
+   "cat": "museum",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.1403,
+   "lng": -86.7342,
+   "desc": "Quirky European cars, microcars and prototypes in a former bakery.",
+   "refs": [
+    "atlas",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Lane Motor Museum",
+   "img": "Lane_Motor_Museum.jpg",
+   "drive_min": 414,
+   "drive_mi": 378
+  },
+  {
+   "name": "Grand Ole Opry House",
+   "cat": "culture",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.2068,
+   "lng": -86.6923,
+   "desc": "The Opry's home since 1974, with a circle of wood from the Ryman stage.",
+   "refs": [
+    "malone",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Grand Ole Opry",
+   "img": "Grand_Ole_Opry_logo.svg",
+   "drive_min": 416,
+   "drive_mi": 378
+  },
+  {
+   "name": "The Hermitage",
+   "cat": "culture",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.215,
+   "lng": -86.613,
+   "desc": "Andrew Jackson's plantation, interpreted including the people enslaved there.",
+   "refs": [
+    "nhl",
+    "tnencyc"
+   ],
+   "url": "https://thehermitage.com",
+   "wiki": "The Hermitage (Nashville, Tennessee)",
+   "img": "The_Hermitage_by_Jim_Bowen.jpg",
+   "drive_min": 422,
+   "drive_mi": 380
+  },
+  {
+   "name": "Radnor Lake State Park",
+   "cat": "nature",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 36.0619,
+   "lng": -86.8075,
+   "desc": "A wildlife refuge with lake trails inside the city.",
+   "refs": [
+    "tnpark"
+   ],
+   "url": null,
+   "wiki": "Radnor Lake State Natural Area",
+   "img": "RadnorLakeApril2007.jpg",
+   "drive_min": 426,
+   "drive_mi": 384
+  },
+  {
+   "name": "Carter House, Franklin",
+   "cat": "culture",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 35.9036,
+   "lng": -86.8661,
+   "desc": "Farmhouse still marked by bullets from the 1864 Battle of Franklin.",
+   "refs": [
+    "nhl",
+    "tnencyc"
+   ],
+   "url": null,
+   "wiki": "Carter House (Franklin, Tennessee)",
+   "img": "Carter_House_Franklin_TN_front.jpg",
+   "drive_min": 440,
+   "drive_mi": 398
+  },
+  {
+   "name": "Natchez Trace Parkway",
+   "cat": "nature",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 35.83,
+   "lng": -87.04,
+   "desc": "A scenic parkway on an old trade route, with the Double Arch Bridge near its northern end.",
+   "refs": [
+    "nps",
+    "jensen"
+   ],
+   "url": "https://www.nps.gov/natr",
+   "wiki": "Natchez Trace Parkway",
+   "img": "Natchez_Trace_Parkway_Logo.gif",
+   "drive_min": 463,
+   "drive_mi": 412
+  },
+  {
+   "name": "Jack Daniel's Distillery",
+   "cat": "culture",
+   "region": "Nashville and Middle Tennessee",
+   "lat": 35.285,
+   "lng": -86.3681,
+   "desc": "The Tennessee whiskey distillery in Lynchburg, in a dry county.",
+   "refs": [
+    "tnencyc",
+    "moontn"
+   ],
+   "url": "https://www.jackdaniels.com",
+   "wiki": "Jack Daniel's",
+   "img": "Jack_Daniel_Distillery_Lynchburg_TN_001.JPG",
+   "drive_min": 498,
+   "drive_mi": 446
+  },
+  {
+   "name": "Fall Creek Falls State Park",
+   "cat": "nature",
+   "region": "Cumberland Plateau",
+   "lat": 35.6621,
+   "lng": -85.3498,
+   "desc": "Gorges and cascades led by a waterfall of about 256 feet.",
+   "refs": [
+    "tnpark",
+    "moontn"
+   ],
+   "url": "https://tnstateparks.com",
+   "wiki": "Fall Creek Falls State Park",
+   "img": "Fall_creek_falls_2003.jpg",
+   "drive_min": 533,
+   "drive_mi": 457
+  },
+  {
+   "name": "Burgess Falls State Park",
+   "cat": "nature",
+   "region": "Cumberland Plateau",
+   "lat": 36.0442,
+   "lng": -85.5942,
+   "desc": "A series of waterfalls on the Falling Water River.",
+   "refs": [
+    "tnpark"
+   ],
+   "url": null,
+   "wiki": "Burgess Falls State Park",
+   "img": "Burgess-falls-tennessee1.jpg",
+   "drive_min": 492,
+   "drive_mi": 428
+  },
+  {
+   "name": "Cummins Falls State Park",
+   "cat": "nature",
+   "region": "Cumberland Plateau",
+   "lat": 36.2536,
+   "lng": -85.5648,
+   "desc": "A swimming hole waterfall reached by wading up the gorge, permit required.",
+   "refs": [
+    "tnpark"
+   ],
+   "url": null,
+   "wiki": "Cummins Falls State Park",
+   "img": "Cummins_Falls_by_Brenton_Rogers_04.jpg",
+   "drive_min": 481,
+   "drive_mi": 411
+  },
+  {
+   "name": "University of the South, Sewanee",
+   "cat": "arch",
+   "region": "Cumberland Plateau",
+   "lat": 35.2031,
+   "lng": -85.9197,
+   "desc": "A Gothic Revival campus on the Cumberland Plateau, with All Saints' Chapel.",
+   "refs": [
+    "tnencyc",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Sewanee: The University of the South",
+   "img": null,
+   "drive_min": 514,
+   "drive_mi": 466
+  },
+  {
+   "name": "Sgt. Alvin C. York State Historic Park",
+   "cat": "culture",
+   "region": "Cumberland Plateau",
+   "lat": 36.5422,
+   "lng": -84.9603,
+   "desc": "The farm and mill of the World War I hero at Pall Mall.",
+   "refs": [
+    "tnpark"
+   ],
+   "url": null,
+   "wiki": "Sgt. Alvin C. York State Historic Park",
+   "img": "Sgt-york-house-tn1.jpg",
+   "drive_min": 460,
+   "drive_mi": 402
+  },
+  {
+   "name": "Historic Rugby",
+   "cat": "culture",
+   "region": "Cumberland Plateau",
+   "lat": 36.3611,
+   "lng": -84.7003,
+   "desc": "A Victorian village founded in 1880 by Thomas Hughes as an English utopian colony.",
+   "refs": [
+    "tnencyc",
+    "wpaTN"
+   ],
+   "url": "https://historicrugby.org",
+   "wiki": "Rugby, Tennessee",
+   "img": "Christ-church-episcopal-rugby-tn2.jpg",
+   "drive_min": 496,
+   "drive_mi": 431
+  },
+  {
+   "name": "Big South Fork National River and Recreation Area",
+   "cat": "nature",
+   "region": "Cumberland Plateau",
+   "lat": 36.4865,
+   "lng": -84.6985,
+   "desc": "Gorges, arches and river trails on the Tennessee and Kentucky border.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/biso",
+   "wiki": "Big South Fork National River and Recreation Area",
+   "img": "CumberlandRivInBigSouthForkNRA.jpg",
+   "drive_min": 492,
+   "drive_mi": 423
+  },
+  {
+   "name": "Hunter Museum of American Art",
+   "cat": "museum",
+   "region": "Chattanooga",
+   "lat": 35.0559,
+   "lng": -85.3064,
+   "desc": "American art set on a bluff above the Tennessee River.",
+   "refs": [
+    "tnencyc",
+    "moontn"
+   ],
+   "url": "https://www.huntermuseum.org",
+   "wiki": "Hunter Museum of American Art",
+   "img": "Hunter_Museum_entrance_2.jpg",
+   "drive_min": 558,
+   "drive_mi": 507
+  },
+  {
+   "name": "Tennessee Aquarium",
+   "cat": "nature",
+   "region": "Chattanooga",
+   "lat": 35.0557,
+   "lng": -85.3108,
+   "desc": "Freshwater and ocean aquariums on the riverfront, the anchor of Chattanooga's revival.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Tennessee Aquarium",
+   "img": "River_Journey_and_Ocean_Journey.jpg",
+   "drive_min": 558,
+   "drive_mi": 507
+  },
+  {
+   "name": "Walnut Street Bridge",
+   "cat": "arch",
+   "region": "Chattanooga",
+   "lat": 35.059,
+   "lng": -85.3072,
+   "desc": "An 1891 truss bridge turned pedestrian walkway, among the longest in the world.",
+   "refs": [
+    "tnencyc"
+   ],
+   "url": null,
+   "wiki": "Walnut Street Bridge",
+   "img": null,
+   "drive_min": 560,
+   "drive_mi": 508
+  },
+  {
+   "name": "Bessie Smith Cultural Center",
+   "cat": "museum",
+   "region": "Chattanooga",
+   "lat": 35.045,
+   "lng": -85.307,
+   "desc": "African American history and the legacy of the Empress of the Blues, born in Chattanooga.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 557,
+   "drive_mi": 506
+  },
+  {
+   "name": "Ruby Falls",
+   "cat": "nature",
+   "region": "Chattanooga",
+   "lat": 35.0192,
+   "lng": -85.3394,
+   "desc": "A 145 foot underground waterfall inside Lookout Mountain.",
+   "refs": [
+    "roadside",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Ruby Falls",
+   "img": "RubyExt2.JPG",
+   "drive_min": 554,
+   "drive_mi": 503
+  },
+  {
+   "name": "Lookout Mountain Incline Railway",
+   "cat": "culture",
+   "region": "Chattanooga",
+   "lat": 35.0078,
+   "lng": -85.3356,
+   "desc": "One of the steepest passenger railways in the world, running since 1895.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Lookout Mountain Incline Railway",
+   "img": "Inclinerailway.jpg",
+   "drive_min": 555,
+   "drive_mi": 504
+  },
+  {
+   "name": "Point Park, Lookout Mountain",
+   "cat": "culture",
+   "region": "Chattanooga",
+   "lat": 35.0114,
+   "lng": -85.3441,
+   "desc": "Civil War battlefield park at the top of Lookout Mountain with views over Chattanooga.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/chch",
+   "wiki": "Point Park",
+   "img": null,
+   "drive_min": 562,
+   "drive_mi": 506
+  },
+  {
+   "name": "Museum of Appalachia",
+   "cat": "museum",
+   "region": "East Tennessee and the Smokies",
+   "lat": 36.1817,
+   "lng": -84.0685,
+   "desc": "John Rice Irwin's farm village of log buildings and everyday objects of mountain life.",
+   "refs": [
+    "tnencyc",
+    "kephart"
+   ],
+   "url": "https://www.museumofappalachia.org",
+   "wiki": "Museum of Appalachia",
+   "img": "Museum_of_Appalachia_Entrance_Sign_01.jpg",
+   "drive_min": 510,
+   "drive_mi": 462
+  },
+  {
+   "name": "Norris Dam",
+   "cat": "arch",
+   "region": "East Tennessee and the Smokies",
+   "lat": 36.2242,
+   "lng": -84.0914,
+   "desc": "The TVA's first dam (1936), with modernist design by Roland Wank.",
+   "refs": [
+    "tnencyc",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Norris Dam",
+   "img": "Norris_Dam,_Norris,_TN_-_51441437384.jpg",
+   "drive_min": 513,
+   "drive_mi": 461
+  },
+  {
+   "name": "Manhattan Project National Historical Park, Oak Ridge",
+   "cat": "culture",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.9369,
+   "lng": -84.3944,
+   "desc": "The secret city built in 1942 to enrich uranium, with tours from the American Museum of Science and Energy.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/mapr",
+   "wiki": "Manhattan Project National Historical Park",
+   "img": "Hanford_High_School.jpg",
+   "drive_min": 539,
+   "drive_mi": 468
+  },
+  {
+   "name": "Knoxville Museum of Art",
+   "cat": "museum",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.9625,
+   "lng": -83.9253,
+   "desc": "Free museum with a monumental glass installation by Richard Jolley.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Knoxville Museum of Art",
+   "img": "Knoxville_Museum_of_Art_logo.png",
+   "drive_min": 534,
+   "drive_mi": 479
+  },
+  {
+   "name": "Sunsphere",
+   "cat": "arch",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.9617,
+   "lng": -83.9232,
+   "desc": "The gold glass sphere tower of the 1982 World's Fair, with a free observation deck.",
+   "refs": [
+    "atlas",
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Sunsphere",
+   "img": "Sunsphere_01.jpg",
+   "drive_min": 532,
+   "drive_mi": 479
+  },
+  {
+   "name": "McClung Museum",
+   "cat": "museum",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.952,
+   "lng": -83.9272,
+   "desc": "The University of Tennessee's museum of archaeology, natural history and decorative arts.",
+   "refs": [
+    "tnencyc"
+   ],
+   "url": null,
+   "wiki": "McClung Museum of Natural History and Culture",
+   "img": "McClung_Museum_of_Natural_History_&_Culture.jpg",
+   "drive_min": 535,
+   "drive_mi": 480
+  },
+  {
+   "name": "Blount Mansion",
+   "cat": "culture",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.9611,
+   "lng": -83.9152,
+   "desc": "The 1792 frame house of territorial governor William Blount.",
+   "refs": [
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "William Blount Mansion",
+   "img": "BlountMansion.jpg",
+   "drive_min": 533,
+   "drive_mi": 479
+  },
+  {
+   "name": "Dollywood",
+   "cat": "culture",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.8057,
+   "lng": -83.5288,
+   "desc": "Dolly Parton's theme park in Pigeon Forge, with Appalachian crafts and music.",
+   "refs": [
+    "moontn"
+   ],
+   "url": null,
+   "wiki": "Dollywood",
+   "img": null,
+   "drive_min": 575,
+   "drive_mi": 511
+  },
+  {
+   "name": "Cades Cove",
+   "cat": "nature",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.5942,
+   "lng": -83.8419,
+   "desc": "A mountain valley loop with log cabins, churches and wildlife in the Smokies.",
+   "refs": [
+    "nps",
+    "kephart"
+   ],
+   "url": null,
+   "wiki": "Cades Cove",
+   "img": "Another_view_of_the_Cades_Cove_area_IMG_5004.JPG",
+   "drive_min": 623,
+   "drive_mi": 526
+  },
+  {
+   "name": "Great Smoky Mountains National Park",
+   "cat": "nature",
+   "region": "East Tennessee and the Smokies",
+   "lat": 35.6111,
+   "lng": -83.425,
+   "desc": "The most visited national park in the country. A UNESCO World Heritage Site.",
+   "refs": [
+    "kephart",
+    "nps"
+   ],
+   "url": "https://www.nps.gov/grsm",
+   "wiki": "Great Smoky Mountains National Park",
+   "img": "View_atop_Cliff_Tops_on_Mount_LeConte,_GSMNP,_TN.jpg",
+   "drive_min": 620,
+   "drive_mi": 535
+  }
+ ]
+}

@@ -1,0 +1,694 @@
+[
+ {
+  "id": "aiachi",
+  "kind": "book",
+  "author": "Alice Sinkevitch and Laurie McGovern Petersen, eds.",
+  "title": "AIA Guide to Chicago",
+  "pub": "3rd ed. University of Illinois Press, 2014",
+  "url": "https://search.worldcat.org/search?q=AIA+Guide+to+Chicago+Sinkevitch"
+ },
+ {
+  "id": "schulze",
+  "kind": "book",
+  "author": "Franz Schulze and Kevin Harrington",
+  "title": "Chicago's Famous Buildings",
+  "pub": "5th ed. University of Chicago Press, 2003",
+  "url": "https://search.worldcat.org/search?q=Chicago's+Famous+Buildings+Schulze+Harrington"
+ },
+ {
+  "id": "moonchi",
+  "kind": "book",
+  "author": "Rebecca Holland",
+  "title": "Moon Chicago",
+  "pub": "Moon Travel Guides (Hachette)",
+  "url": "https://search.worldcat.org/search?q=Moon+Chicago+Rebecca+Holland"
+ },
+ {
+  "id": "dmiller",
+  "kind": "book",
+  "author": "Donald L. Miller",
+  "title": "City of the Century: The Epic of Chicago and the Making of America",
+  "pub": "Simon & Schuster, 1996",
+  "url": "https://search.worldcat.org/search?q=City+of+the+Century+Donald+Miller"
+ },
+ {
+  "id": "dyja",
+  "kind": "book",
+  "author": "Thomas Dyja",
+  "title": "The Third Coast: When Chicago Built the American Dream",
+  "pub": "Penguin Press, 2013",
+  "url": "https://search.worldcat.org/search?q=The+Third+Coast+Dyja"
+ },
+ {
+  "id": "larson",
+  "kind": "book",
+  "author": "Erik Larson",
+  "title": "The Devil in the White City",
+  "pub": "Crown, 2003",
+  "url": "https://search.worldcat.org/search?q=Devil+in+the+White+City+Larson"
+ },
+ {
+  "id": "addams",
+  "kind": "book",
+  "author": "Jane Addams",
+  "title": "Twenty Years at Hull-House",
+  "pub": "Macmillan, 1910",
+  "url": "https://search.worldcat.org/search?q=Twenty+Years+at+Hull-House+Addams"
+ },
+ {
+  "id": "storrer",
+  "kind": "book",
+  "author": "William Allin Storrer",
+  "title": "The Architecture of Frank Lloyd Wright: A Complete Catalog",
+  "pub": "4th ed. University of Chicago Press, 2017",
+  "url": "https://search.worldcat.org/search?q=Architecture+of+Frank+Lloyd+Wright+Complete+Catalog+Storrer",
+  "short": "Storrer, Wright Catalog"
+ },
+ {
+  "id": "wrightsites",
+  "kind": "book",
+  "author": "Frank Lloyd Wright Building Conservancy",
+  "title": "Wright Sites: A Guide to Frank Lloyd Wright Public Places",
+  "pub": "4th ed. Princeton Architectural Press, 2017",
+  "url": "https://search.worldcat.org/search?q=Wright+Sites+Guide+to+Frank+Lloyd+Wright+Public+Places",
+  "short": "Wright Sites"
+ },
+ {
+  "id": "mies",
+  "kind": "book",
+  "author": "Franz Schulze and Edward Windhorst",
+  "title": "Mies van der Rohe: A Critical Biography",
+  "pub": "New and revised ed. University of Chicago Press, 2012",
+  "url": "https://search.worldcat.org/search?q=Mies+van+der+Rohe+Critical+Biography+Schulze+Windhorst"
+ },
+ {
+  "id": "morrison",
+  "kind": "book",
+  "author": "Hugh Morrison",
+  "title": "Louis Sullivan: Prophet of Modern Architecture",
+  "pub": "1935; rev. ed. W. W. Norton, 1998",
+  "url": "https://search.worldcat.org/search?q=Louis+Sullivan+Prophet+of+Modern+Architecture+Morrison"
+ },
+ {
+  "id": "merkel",
+  "kind": "book",
+  "author": "Jayne Merkel",
+  "title": "Eero Saarinen",
+  "pub": "Phaidon, 2005",
+  "url": "https://search.worldcat.org/search?q=Eero+Saarinen+Jayne+Merkel"
+ },
+ {
+  "id": "campbell",
+  "kind": "book",
+  "author": "Tracy Campbell",
+  "title": "The Gateway Arch: A Biography",
+  "pub": "Yale University Press, 2013",
+  "url": "https://search.worldcat.org/search?q=Gateway+Arch+A+Biography+Tracy+Campbell"
+ },
+ {
+  "id": "young",
+  "kind": "book",
+  "author": "Victoria M. Young",
+  "title": "Saint John's Abbey Church: Marcel Breuer and the Creation of a Modern Sacred Space",
+  "pub": "University of Minnesota Press, 2014",
+  "url": "https://search.worldcat.org/search?q=Saint+John's+Abbey+Church+Marcel+Breuer+Victoria+Young"
+ },
+ {
+  "id": "millett",
+  "kind": "book",
+  "author": "Larry Millett",
+  "title": "AIA Guide to the Twin Cities",
+  "pub": "Minnesota Historical Society Press, 2007",
+  "url": "https://search.worldcat.org/search?q=AIA+Guide+to+the+Twin+Cities+Millett"
+ },
+ {
+  "id": "weisiger",
+  "kind": "book",
+  "author": "Marsha Weisiger and contributors",
+  "title": "Buildings of Wisconsin",
+  "pub": "Buildings of the United States series, University of Virginia Press, 2017",
+  "url": "https://search.worldcat.org/search?q=Buildings+of+Wisconsin+Weisiger"
+ },
+ {
+  "id": "overby",
+  "kind": "book",
+  "author": "Osmund Overby, Carol Grove and Cole Woodcox",
+  "title": "Buildings of Missouri",
+  "pub": "Buildings of the United States series, University of Virginia Press, 2025",
+  "url": "https://search.worldcat.org/search?q=Buildings+of+Missouri+Overby+Grove+Woodcox"
+ },
+ {
+  "id": "moonwi",
+  "kind": "book",
+  "author": "Thomas Huhti",
+  "title": "Moon Wisconsin",
+  "pub": "8th ed. Moon Travel Guides (Hachette)",
+  "url": "https://search.worldcat.org/search?q=Moon+Wisconsin+Thomas+Huhti"
+ },
+ {
+  "id": "moontn",
+  "kind": "book",
+  "author": "Margaret Littman",
+  "title": "Moon Tennessee: With the Smoky Mountains",
+  "pub": "10th ed. Moon Travel Guides (Hachette)",
+  "url": "https://search.worldcat.org/search?q=Moon+Tennessee+Margaret+Littman",
+  "short": "Moon Tennessee"
+ },
+ {
+  "id": "nyt36",
+  "kind": "book",
+  "author": "Barbara Ireland, ed.",
+  "title": "The New York Times 36 Hours USA & Canada: Midwest and Great Lakes",
+  "pub": "Taschen",
+  "url": "https://search.worldcat.org/search?q=36+Hours+USA+Canada+Midwest+Great+Lakes",
+  "short": "NYT 36 Hours: Midwest"
+ },
+ {
+  "id": "eckert",
+  "kind": "book",
+  "author": "Kathryn Bishop Eckert",
+  "title": "Buildings of Michigan",
+  "pub": "Rev. ed. Buildings of the United States series, University of Virginia Press, 2012",
+  "url": "https://search.worldcat.org/search?q=Buildings+of+Michigan+Kathryn+Bishop+Eckert"
+ },
+ {
+  "id": "moonmi",
+  "kind": "book",
+  "author": "Paul Vachon",
+  "title": "Moon Michigan",
+  "pub": "9th ed. Moon Travel Guides (Hachette)",
+  "url": "https://search.worldcat.org/search?q=Moon+Michigan+Paul+Vachon",
+  "short": "Moon Michigan"
+ },
+ {
+  "id": "downs",
+  "kind": "book",
+  "author": "Linda Bank Downs",
+  "title": "Diego Rivera: The Detroit Industry Murals",
+  "pub": "Detroit Institute of Arts and W. W. Norton, 1999",
+  "url": "https://search.worldcat.org/search?q=Diego+Rivera+Detroit+Industry+Murals+Linda+Downs"
+ },
+ {
+  "id": "rsmith",
+  "kind": "book",
+  "author": "Suzanne E. Smith",
+  "title": "Dancing in the Street: Motown and the Cultural Politics of Detroit",
+  "pub": "Harvard University Press, 1999",
+  "url": "https://search.worldcat.org/search?q=Dancing+in+the+Street+Motown+Cultural+Politics+Detroit+Suzanne+Smith"
+ },
+ {
+  "id": "watts",
+  "kind": "book",
+  "author": "Steven Watts",
+  "title": "The People's Tycoon: Henry Ford and the American Century",
+  "pub": "Alfred A. Knopf, 2005",
+  "url": "https://search.worldcat.org/search?q=The+People's+Tycoon+Henry+Ford+Steven+Watts"
+ },
+ {
+  "id": "kyencyc",
+  "kind": "book",
+  "author": "John E. Kleber, ed.",
+  "title": "The Kentucky Encyclopedia",
+  "pub": "University Press of Kentucky, 1992",
+  "url": "https://search.worldcat.org/search?q=The+Kentucky+Encyclopedia+Kleber"
+ },
+ {
+  "id": "pauketat",
+  "kind": "book",
+  "author": "Timothy R. Pauketat",
+  "title": "Cahokia: Ancient America's Great City on the Mississippi",
+  "pub": "Viking, 2009",
+  "url": "https://search.worldcat.org/search?q=Cahokia+Ancient+America's+Great+City+Pauketat"
+ },
+ {
+  "id": "wallis",
+  "kind": "book",
+  "author": "Michael Wallis",
+  "title": "Route 66: The Mother Road",
+  "pub": "St. Martin's Press, 1990; 75th anniversary ed. 2001",
+  "url": "https://search.worldcat.org/search?q=Route+66+The+Mother+Road+Wallis"
+ },
+ {
+  "id": "jensen",
+  "kind": "book",
+  "author": "Jamie Jensen",
+  "title": "Road Trip USA",
+  "pub": "Moon Travel Guides, latest edition",
+  "url": "https://search.worldcat.org/search?q=Road+Trip+USA+Jamie+Jensen"
+ },
+ {
+  "id": "donald",
+  "kind": "book",
+  "author": "David Herbert Donald",
+  "title": "Lincoln",
+  "pub": "Simon & Schuster, 1995",
+  "url": "https://search.worldcat.org/search?q=Lincoln+David+Herbert+Donald"
+ },
+ {
+  "id": "chernow",
+  "kind": "book",
+  "author": "Ron Chernow",
+  "title": "Grant",
+  "pub": "Penguin Press, 2017",
+  "url": "https://search.worldcat.org/search?q=Grant+Ron+Chernow"
+ },
+ {
+  "id": "mccullough",
+  "kind": "book",
+  "author": "David McCullough",
+  "title": "Truman",
+  "pub": "Simon & Schuster, 1992",
+  "url": "https://search.worldcat.org/search?q=Truman+David+McCullough"
+ },
+ {
+  "id": "fraser",
+  "kind": "book",
+  "author": "Caroline Fraser",
+  "title": "Prairie Fires: The American Dreams of Laura Ingalls Wilder",
+  "pub": "Metropolitan Books, 2017",
+  "url": "https://search.worldcat.org/search?q=Prairie+Fires+Caroline+Fraser"
+ },
+ {
+  "id": "twain",
+  "kind": "book",
+  "author": "Mark Twain",
+  "title": "Life on the Mississippi",
+  "pub": "James R. Osgood, 1883",
+  "url": "https://search.worldcat.org/search?q=Life+on+the+Mississippi+Twain"
+ },
+ {
+  "id": "leopold",
+  "kind": "book",
+  "author": "Aldo Leopold",
+  "title": "A Sand County Almanac",
+  "pub": "Oxford University Press, 1949",
+  "url": "https://search.worldcat.org/search?q=A+Sand+County+Almanac+Leopold"
+ },
+ {
+  "id": "olson",
+  "kind": "book",
+  "author": "Sigurd F. Olson",
+  "title": "The Singing Wilderness",
+  "pub": "Alfred A. Knopf, 1956",
+  "url": "https://search.worldcat.org/search?q=The+Singing+Wilderness+Sigurd+Olson"
+ },
+ {
+  "id": "kephart",
+  "kind": "book",
+  "author": "Horace Kephart",
+  "title": "Our Southern Highlanders",
+  "pub": "Outing Publishing, 1913",
+  "url": "https://search.worldcat.org/search?q=Our+Southern+Highlanders+Kephart"
+ },
+ {
+  "id": "brucker",
+  "kind": "book",
+  "author": "Roger W. Brucker and Richard A. Watson",
+  "title": "The Longest Cave",
+  "pub": "Alfred A. Knopf, 1976",
+  "url": "https://search.worldcat.org/search?q=The+Longest+Cave+Brucker+Watson"
+ },
+ {
+  "id": "guralnick",
+  "kind": "book",
+  "author": "Peter Guralnick",
+  "title": "Last Train to Memphis: The Rise of Elvis Presley",
+  "pub": "Little, Brown, 1994",
+  "url": "https://search.worldcat.org/search?q=Last+Train+to+Memphis+Guralnick"
+ },
+ {
+  "id": "gordon",
+  "kind": "book",
+  "author": "Robert Gordon",
+  "title": "Respect Yourself: Stax Records and the Soul Explosion",
+  "pub": "Bloomsbury, 2013",
+  "url": "https://search.worldcat.org/search?q=Respect+Yourself+Stax+Records+Robert+Gordon"
+ },
+ {
+  "id": "sides",
+  "kind": "book",
+  "author": "Hampton Sides",
+  "title": "Hellhound on His Trail",
+  "pub": "Doubleday, 2010",
+  "url": "https://search.worldcat.org/search?q=Hellhound+on+His+Trail+Hampton+Sides"
+ },
+ {
+  "id": "malone",
+  "kind": "book",
+  "author": "Bill C. Malone and Tracey E. W. Laird",
+  "title": "Country Music USA",
+  "pub": "50th anniversary ed. University of Texas Press, 2018",
+  "url": "https://search.worldcat.org/search?q=Country+Music+USA+Malone+Laird"
+ },
+ {
+  "id": "minnick",
+  "kind": "book",
+  "author": "Fred Minnick",
+  "title": "Bourbon: The Rise, Fall, and Rebirth of an American Whiskey",
+  "pub": "Voyageur Press, 2016",
+  "url": "https://search.worldcat.org/search?q=Bourbon+Rise+Fall+Rebirth+Minnick"
+ },
+ {
+  "id": "wpaIL",
+  "kind": "book",
+  "author": "Federal Writers' Project",
+  "title": "Illinois: A Descriptive and Historical Guide",
+  "pub": "American Guide Series, A. C. McClurg, 1939",
+  "url": "https://search.worldcat.org/search?q=Illinois+A+Descriptive+and+Historical+Guide+1939",
+  "short": "WPA Guide to Illinois"
+ },
+ {
+  "id": "wpaIN",
+  "kind": "book",
+  "author": "Federal Writers' Project",
+  "title": "Indiana: A Guide to the Hoosier State",
+  "pub": "American Guide Series, Oxford University Press, 1941",
+  "url": "https://search.worldcat.org/search?q=Indiana+A+Guide+to+the+Hoosier+State",
+  "short": "WPA Guide to Indiana"
+ },
+ {
+  "id": "wpaMN",
+  "kind": "book",
+  "author": "Federal Writers' Project",
+  "title": "Minnesota: A State Guide",
+  "pub": "American Guide Series, Viking Press, 1938",
+  "url": "https://search.worldcat.org/search?q=Minnesota+A+State+Guide+1938",
+  "short": "WPA Guide to Minnesota"
+ },
+ {
+  "id": "wpaWI",
+  "kind": "book",
+  "author": "Federal Writers' Project",
+  "title": "Wisconsin: A Guide to the Badger State",
+  "pub": "American Guide Series, Duell, Sloan and Pearce, 1941",
+  "url": "https://search.worldcat.org/search?q=Wisconsin+A+Guide+to+the+Badger+State",
+  "short": "WPA Guide to Wisconsin"
+ },
+ {
+  "id": "wpaMO",
+  "kind": "book",
+  "author": "Federal Writers' Project",
+  "title": "Missouri: A Guide to the \"Show Me\" State",
+  "pub": "American Guide Series, Duell, Sloan and Pearce, 1941",
+  "url": "https://search.worldcat.org/search?q=Missouri+A+Guide+to+the+Show+Me+State",
+  "short": "WPA Guide to Missouri"
+ },
+ {
+  "id": "wpaKY",
+  "kind": "book",
+  "author": "Federal Writers' Project",
+  "title": "Kentucky: A Guide to the Bluegrass State",
+  "pub": "American Guide Series, Harcourt, Brace, 1939",
+  "url": "https://search.worldcat.org/search?q=Kentucky+A+Guide+to+the+Bluegrass+State",
+  "short": "WPA Guide to Kentucky"
+ },
+ {
+  "id": "wpaTN",
+  "kind": "book",
+  "author": "Federal Writers' Project",
+  "title": "Tennessee: A Guide to the State",
+  "pub": "American Guide Series, Viking Press, 1939",
+  "url": "https://search.worldcat.org/search?q=Tennessee+A+Guide+to+the+State+1939",
+  "short": "WPA Guide to Tennessee"
+ },
+ {
+  "id": "nps",
+  "kind": "web",
+  "author": "National Park Service",
+  "title": "Park and site pages",
+  "pub": "nps.gov",
+  "url": "https://www.nps.gov"
+ },
+ {
+  "id": "nhl",
+  "kind": "web",
+  "author": "National Park Service",
+  "title": "National Historic Landmarks Program",
+  "pub": "nps.gov",
+  "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/index.htm"
+ },
+ {
+  "id": "unesco",
+  "kind": "web",
+  "author": "UNESCO",
+  "title": "World Heritage List",
+  "pub": "whc.unesco.org",
+  "url": "https://whc.unesco.org/en/list/"
+ },
+ {
+  "id": "sah",
+  "kind": "web",
+  "author": "Society of Architectural Historians",
+  "title": "SAH Archipedia",
+  "pub": "sah-archipedia.org",
+  "url": "https://sah-archipedia.org"
+ },
+ {
+  "id": "encychi",
+  "kind": "web",
+  "author": "Newberry Library and Chicago History Museum",
+  "title": "Encyclopedia of Chicago",
+  "pub": "encyclopedia.chicagohistory.org",
+  "url": "http://www.encyclopedia.chicagohistory.org"
+ },
+ {
+  "id": "cac",
+  "kind": "web",
+  "author": "Chicago Architecture Center",
+  "title": "Buildings of Chicago",
+  "pub": "architecture.org",
+  "url": "https://www.architecture.org"
+ },
+ {
+  "id": "flwt",
+  "kind": "web",
+  "author": "Frank Lloyd Wright Trust",
+  "title": "Wright sites in Chicago and Oak Park",
+  "pub": "flwright.org",
+  "url": "https://flwright.org"
+ },
+ {
+  "id": "choose",
+  "kind": "web",
+  "author": "Choose Chicago",
+  "title": "Official tourism guide to Chicago",
+  "pub": "choosechicago.com",
+  "url": "https://www.choosechicago.com"
+ },
+ {
+  "id": "enjoyil",
+  "kind": "web",
+  "author": "Illinois Office of Tourism",
+  "title": "Enjoy Illinois",
+  "pub": "enjoyillinois.com",
+  "url": "https://www.enjoyillinois.com"
+ },
+ {
+  "id": "visitin",
+  "kind": "web",
+  "author": "Indiana Destination Development Corporation",
+  "title": "Visit Indiana",
+  "pub": "visitindiana.com",
+  "url": "https://www.visitindiana.com"
+ },
+ {
+  "id": "explmn",
+  "kind": "web",
+  "author": "Explore Minnesota",
+  "title": "Official Minnesota tourism",
+  "pub": "exploreminnesota.com",
+  "url": "https://www.exploreminnesota.com"
+ },
+ {
+  "id": "travwi",
+  "kind": "web",
+  "author": "Wisconsin Department of Tourism",
+  "title": "Travel Wisconsin",
+  "pub": "travelwisconsin.com",
+  "url": "https://www.travelwisconsin.com"
+ },
+ {
+  "id": "visitmo",
+  "kind": "web",
+  "author": "Missouri Division of Tourism",
+  "title": "Visit Missouri",
+  "pub": "visitmo.com",
+  "url": "https://www.visitmo.com"
+ },
+ {
+  "id": "kytour",
+  "kind": "web",
+  "author": "Kentucky Department of Tourism",
+  "title": "Kentucky Tourism",
+  "pub": "kentuckytourism.com",
+  "url": "https://www.kentuckytourism.com"
+ },
+ {
+  "id": "tnvac",
+  "kind": "web",
+  "author": "Tennessee Department of Tourist Development",
+  "title": "Tennessee Vacation",
+  "pub": "tnvacation.com",
+  "url": "https://www.tnvacation.com"
+ },
+ {
+  "id": "dhs",
+  "kind": "web",
+  "author": "Detroit Historical Society",
+  "title": "Encyclopedia of Detroit",
+  "pub": "detroithistorical.org",
+  "url": "https://detroithistorical.org/learn/encyclopedia-of-detroit"
+ },
+ {
+  "id": "midnr",
+  "kind": "web",
+  "author": "Michigan Department of Natural Resources",
+  "title": "State parks and historic sites",
+  "pub": "michigan.gov/dnr",
+  "url": "https://www.michigan.gov/dnr/places/state-parks"
+ },
+ {
+  "id": "mnopedia",
+  "kind": "web",
+  "author": "Minnesota Historical Society",
+  "title": "MNopedia",
+  "pub": "mnopedia.org",
+  "url": "https://www.mnopedia.org"
+ },
+ {
+  "id": "whs",
+  "kind": "web",
+  "author": "Wisconsin Historical Society",
+  "title": "Historic sites and Dictionary of Wisconsin History",
+  "pub": "wisconsinhistory.org",
+  "url": "https://www.wisconsinhistory.org"
+ },
+ {
+  "id": "tnencyc",
+  "kind": "web",
+  "author": "Tennessee Historical Society",
+  "title": "Tennessee Encyclopedia",
+  "pub": "tennesseeencyclopedia.net",
+  "url": "https://tennesseeencyclopedia.net"
+ },
+ {
+  "id": "shsmo",
+  "kind": "web",
+  "author": "State Historical Society of Missouri",
+  "title": "Historic Missourians and collections",
+  "pub": "shsmo.org",
+  "url": "https://shsmo.org"
+ },
+ {
+  "id": "explky",
+  "kind": "web",
+  "author": "Kentucky Historical Society",
+  "title": "ExploreKYHistory",
+  "pub": "explorekyhistory.ky.gov",
+  "url": "https://explorekyhistory.ky.gov"
+ },
+ {
+  "id": "indylandm",
+  "kind": "web",
+  "author": "Indiana Landmarks",
+  "title": "Historic places of Indiana",
+  "pub": "indianalandmarks.org",
+  "url": "https://www.indianalandmarks.org"
+ },
+ {
+  "id": "indyencyc",
+  "kind": "web",
+  "author": "Polis Center, Indiana University Indianapolis",
+  "title": "Encyclopedia of Indianapolis",
+  "pub": "indyencyclopedia.org",
+  "url": "https://indyencyclopedia.org"
+ },
+ {
+  "id": "atlas",
+  "kind": "web",
+  "author": "Atlas Obscura",
+  "title": "Places",
+  "pub": "atlasobscura.com",
+  "url": "https://www.atlasobscura.com"
+ },
+ {
+  "id": "roadside",
+  "kind": "web",
+  "author": "Roadside America",
+  "title": "Guide to offbeat tourist attractions",
+  "pub": "roadsideamerica.com",
+  "url": "https://www.roadsideamerica.com"
+ },
+ {
+  "id": "usfs",
+  "kind": "web",
+  "author": "USDA Forest Service",
+  "title": "National Forests",
+  "pub": "fs.usda.gov",
+  "url": "https://www.fs.usda.gov"
+ },
+ {
+  "id": "ildnr",
+  "kind": "web",
+  "author": "Illinois Department of Natural Resources",
+  "title": "State parks and historic sites",
+  "pub": "dnr.illinois.gov",
+  "url": "https://dnr.illinois.gov"
+ },
+ {
+  "id": "indnr",
+  "kind": "web",
+  "author": "Indiana Department of Natural Resources",
+  "title": "State parks and historic sites",
+  "pub": "in.gov/dnr",
+  "url": "https://www.in.gov/dnr/state-parks/"
+ },
+ {
+  "id": "mndnr",
+  "kind": "web",
+  "author": "Minnesota Department of Natural Resources",
+  "title": "State parks",
+  "pub": "dnr.state.mn.us",
+  "url": "https://www.dnr.state.mn.us/state_parks/index.html"
+ },
+ {
+  "id": "widnr",
+  "kind": "web",
+  "author": "Wisconsin Department of Natural Resources",
+  "title": "State parks",
+  "pub": "dnr.wisconsin.gov",
+  "url": "https://dnr.wisconsin.gov/topic/parks"
+ },
+ {
+  "id": "mopark",
+  "kind": "web",
+  "author": "Missouri State Parks",
+  "title": "Parks and historic sites",
+  "pub": "mostateparks.com",
+  "url": "https://mostateparks.com"
+ },
+ {
+  "id": "kypark",
+  "kind": "web",
+  "author": "Kentucky State Parks",
+  "title": "Parks",
+  "pub": "parks.ky.gov",
+  "url": "https://parks.ky.gov"
+ },
+ {
+  "id": "tnpark",
+  "kind": "web",
+  "author": "Tennessee State Parks",
+  "title": "Parks",
+  "pub": "tnstateparks.com",
+  "url": "https://tnstateparks.com"
+ },
+ {
+  "id": "wiki",
+  "kind": "web",
+  "author": "Wikipedia contributors",
+  "title": "Wikipedia, The Free Encyclopedia",
+  "pub": "en.wikipedia.org",
+  "url": "https://en.wikipedia.org"
+ }
+]

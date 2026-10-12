@@ -1,0 +1,1057 @@
+{
+ "state": "MI",
+ "name": "Michigan",
+ "regions": {
+  "Ann Arbor, Lansing and Flint": "Pair with Detroit or do it on the way: the university museums of Ann Arbor, Zaha Hadid's Broad Art Museum and the restored capitol in Lansing, Flint's art museum and Bavarian Frankenmuth.",
+  "Detroit and Southeast Michigan": "Give Detroit two or three days. Rivera's murals at the DIA, the Art Deco Guardian and Fisher buildings, Motown's Studio A and Eastern Market on a Saturday, then a full day at The Henry Ford and Greenfield Village in Dearborn and an afternoon at Saarinen's Cranbrook.",
+  "Grand Rapids and the Lake Michigan shore": "Meijer Gardens and Wright's Meyer May House in Grand Rapids, the Ford Museum, then the lakeshore towns of Holland and Saugatuck and the dunes and lighthouse at Ludington.",
+  "Mackinac and the Upper Peninsula": "A long trip north. Cross the Mackinac Bridge, take the ferry to car-free Mackinac Island, watch freighters at the Soo Locks, then Tahquamenon Falls, Pictured Rocks by boat and the copper country of the Keweenaw.",
+  "Sleeping Bear and Traverse Bay": "Michigan's finest landscape: the Dune Climb and the Pierce Stocking drive at Sleeping Bear, Glen Haven and Leland's Fishtown, Point Betsie, and in October the Tunnel of Trees north of Harbor Springs.",
+  "Southwest Michigan": "The closest corner of Michigan: climb Warren Dunes, then the car and aviation collections and the art museum around Kalamazoo. An easy two-day loop."
+ },
+ "sites": [
+  {
+   "name": "Detroit Institute of Arts",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3594,
+   "lng": -83.0647,
+   "desc": "One of the great American art museums, with Diego Rivera's Detroit Industry murals (1932 to 1933) filling its central court.",
+   "refs": [
+    "downs",
+    "eckert"
+   ],
+   "url": "https://dia.org",
+   "wiki": "Detroit Institute of Arts",
+   "img": "Detroit_institute_of_arts,_esterno_01_(cropped).jpg",
+   "drive_min": 424,
+   "drive_mi": 381
+  },
+  {
+   "name": "Charles H. Wright Museum of African American History",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.359,
+   "lng": -83.061,
+   "desc": "One of the largest museums of African American history, in Midtown next to the DIA.",
+   "refs": [
+    "moonmi",
+    "dhs"
+   ],
+   "url": "https://www.thewright.org",
+   "wiki": "Charles H. Wright Museum of African American History",
+   "img": "Charles_Wright_African-American_Museum.jpg",
+   "drive_min": 425,
+   "drive_mi": 380
+  },
+  {
+   "name": "Detroit Historical Museum",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3596,
+   "lng": -83.0673,
+   "desc": "City history from fur trade to auto industry, with a reconstructed Streets of Old Detroit and an assembly line.",
+   "refs": [
+    "dhs"
+   ],
+   "url": "https://detroithistorical.org",
+   "wiki": "Detroit Historical Museum",
+   "img": null,
+   "drive_min": 424,
+   "drive_mi": 380
+  },
+  {
+   "name": "Museum of Contemporary Art Detroit",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3527,
+   "lng": -83.0607,
+   "desc": "A non-collecting contemporary art space in a former car dealership on Woodward Avenue.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Museum of Contemporary Art Detroit",
+   "img": "Detroit_December_2018_20_(Museum_of_Contemporary_Art_Detroit).jpg",
+   "drive_min": 425,
+   "drive_mi": 381
+  },
+  {
+   "name": "Motown Museum (Hitsville U.S.A.)",
+   "cat": "culture",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3642,
+   "lng": -83.0883,
+   "desc": "The house where Berry Gordy founded Motown in 1959, with Studio A where the Supremes and Marvin Gaye recorded.",
+   "refs": [
+    "rsmith",
+    "nyt36"
+   ],
+   "url": "https://www.motownmuseum.org",
+   "wiki": "Hitsville U.S.A.",
+   "img": "Hitsville_USA.jpg",
+   "drive_min": 423,
+   "drive_mi": 379
+  },
+  {
+   "name": "Guardian Building",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3297,
+   "lng": -83.0458,
+   "desc": "Wirt Rowland's 1929 Art Deco skyscraper with a banking hall of Pewabic and Rookwood tile, open to visitors.",
+   "refs": [
+    "eckert",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Guardian Building",
+   "img": "Guardian_Building_2025.jpg",
+   "drive_min": 426,
+   "drive_mi": 382
+  },
+  {
+   "name": "Fisher Building",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3693,
+   "lng": -83.0769,
+   "desc": "Albert Kahn's 1928 tower in New Center, with a painted barrel-vaulted arcade that Detroiters call the city's largest art object.",
+   "refs": [
+    "eckert",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Fisher Building",
+   "img": "Detroit_December_2021_12_(Fisher_Building).jpg",
+   "drive_min": 424,
+   "drive_mi": 380
+  },
+  {
+   "name": "Michigan Central Station",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3288,
+   "lng": -83.0777,
+   "desc": "The 1913 Beaux-Arts station, long a symbol of Detroit's decline, restored by Ford and reopened in 2024.",
+   "refs": [
+    "eckert",
+    "dhs"
+   ],
+   "url": null,
+   "wiki": "Michigan Central Station",
+   "img": "Michigan_Central_Station_2026.jpg",
+   "drive_min": 425,
+   "drive_mi": 380
+  },
+  {
+   "name": "Lafayette Park",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3394,
+   "lng": -83.0319,
+   "desc": "Mies van der Rohe's residential towers and townhouses (1958 to 1965) in a park by Ludwig Hilberseimer and Alfred Caldwell, the largest collection of Mies buildings anywhere.",
+   "refs": [
+    "mies",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Lafayette Park, Detroit",
+   "img": "Lafayette_Park_Detroit_redevelopment_over_Black_Bottom.jpg",
+   "drive_min": 428,
+   "drive_mi": 383
+  },
+  {
+   "name": "Fox Theatre",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3386,
+   "lng": -83.0522,
+   "desc": "C. Howard Crane's 1928 movie palace, an opulent fantasy of Asian and Egyptian motifs, still a working theater.",
+   "refs": [
+    "eckert",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Fox Theatre (Detroit)",
+   "img": "Fox_Theatre,_Detroit.jpg",
+   "drive_min": 425,
+   "drive_mi": 381
+  },
+  {
+   "name": "Heidelberg Project",
+   "cat": "culture",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3587,
+   "lng": -83.0214,
+   "desc": "Tyree Guyton's outdoor art environment of painted houses and found objects on the East Side.",
+   "refs": [
+    "atlas",
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Heidelberg Project",
+   "img": null,
+   "drive_min": 429,
+   "drive_mi": 383
+  },
+  {
+   "name": "Eastern Market",
+   "cat": "culture",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3456,
+   "lng": -83.0431,
+   "desc": "One of the largest historic public markets in the country, busiest on Saturday mornings, with murals all around.",
+   "refs": [
+    "moonmi",
+    "nyt36"
+   ],
+   "url": null,
+   "wiki": "Eastern Market, Detroit",
+   "img": "Detroit_December_2019_01_(Eastern_Market_Shed_2).jpg",
+   "drive_min": 427,
+   "drive_mi": 383
+  },
+  {
+   "name": "Pewabic Pottery",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3614,
+   "lng": -82.9817,
+   "desc": "The Arts and Crafts pottery founded in 1903 by Mary Chase Perry Stratton, still making its iridescent tile.",
+   "refs": [
+    "eckert",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Pewabic Pottery",
+   "img": "Pewabic_Pottery_Detroit_MI.jpg",
+   "drive_min": 435,
+   "drive_mi": 386
+  },
+  {
+   "name": "Belle Isle Park",
+   "cat": "nature",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3403,
+   "lng": -82.9867,
+   "desc": "An island park in the Detroit River planned by Olmsted, with the Anna Scripps Whitcomb Conservatory and the Dossin Great Lakes Museum.",
+   "refs": [
+    "midnr",
+    "dhs"
+   ],
+   "url": null,
+   "wiki": "Belle Isle Park",
+   "img": "Belle_Isle_Park.jpg",
+   "drive_min": 435,
+   "drive_mi": 386
+  },
+  {
+   "name": "Ford Piquette Avenue Plant",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3692,
+   "lng": -83.0656,
+   "desc": "The 1904 factory where the Model T was designed and first built, now a museum.",
+   "refs": [
+    "watts",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Ford Piquette Avenue Plant",
+   "img": "Ford_Piquette_Avenue_Plant_-_Front_Exterior.jpg",
+   "drive_min": 424,
+   "drive_mi": 380
+  },
+  {
+   "name": "Cranbrook",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.5676,
+   "lng": -83.2436,
+   "desc": "Eliel Saarinen's campus in Bloomfield Hills, with the Cranbrook Art Museum, Saarinen House and Carl Milles sculpture in the gardens.",
+   "refs": [
+    "eckert",
+    "merkel"
+   ],
+   "url": "https://cranbrook.edu",
+   "wiki": "Cranbrook Educational Community",
+   "img": "Cranbrook_Art_Museum_-_Bloomfield_Hills_(51362574052).jpg",
+   "drive_min": 433,
+   "drive_mi": 382
+  },
+  {
+   "name": "Edsel and Eleanor Ford House",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.4541,
+   "lng": -82.869,
+   "desc": "A Cotswold-style estate on Lake St. Clair by Albert Kahn, with grounds by Jens Jensen.",
+   "refs": [
+    "eckert",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Edsel and Eleanor Ford House",
+   "img": "Edsel_&_Eleanor_Ford_House_in_Spring.jpg",
+   "drive_min": 446,
+   "drive_mi": 394
+  },
+  {
+   "name": "Henry Ford Museum of American Innovation",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3036,
+   "lng": -83.2342,
+   "desc": "In Dearborn, with the Rosa Parks bus, the Kennedy limousine and a huge collection of American machines and design.",
+   "refs": [
+    "watts",
+    "nyt36"
+   ],
+   "url": "https://www.thehenryford.org",
+   "wiki": "The Henry Ford",
+   "img": "The_Henry_Ford_Museum_(53623974456).jpg",
+   "drive_min": 419,
+   "drive_mi": 373
+  },
+  {
+   "name": "Greenfield Village",
+   "cat": "culture",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3049,
+   "lng": -83.2296,
+   "desc": "Henry Ford's open-air museum of relocated American buildings, from Edison's Menlo Park lab to the Wright brothers' cycle shop.",
+   "refs": [
+    "watts",
+    "nhl"
+   ],
+   "url": "https://www.thehenryford.org",
+   "wiki": "The Henry Ford",
+   "img": null,
+   "drive_min": 423,
+   "drive_mi": 376
+  },
+  {
+   "name": "Ford Rouge Factory Tour",
+   "cat": "culture",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.305,
+   "lng": -83.165,
+   "desc": "Albert Kahn's vast River Rouge complex, where you can watch F-150 trucks being assembled.",
+   "refs": [
+    "watts",
+    "eckert"
+   ],
+   "url": "https://www.thehenryford.org",
+   "wiki": "Ford River Rouge complex",
+   "img": "Ford_Dearborn_Factory_Aerial_(45574999515).jpg",
+   "drive_min": 421,
+   "drive_mi": 375
+  },
+  {
+   "name": "Fair Lane",
+   "cat": "arch",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3142,
+   "lng": -83.2322,
+   "desc": "Henry and Clara Ford's 1915 estate on the Rouge River, with landscape by Jens Jensen.",
+   "refs": [
+    "watts",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Fair Lane",
+   "img": "Fair_Lane_(Clara_and_Henry_Ford_Mansion),_Fair_Lane_Drive,_Fairlane,_Dearborn,_MI_-_54273738503.jpg",
+   "drive_min": 422,
+   "drive_mi": 374
+  },
+  {
+   "name": "Arab American National Museum",
+   "cat": "museum",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 42.3221,
+   "lng": -83.1766,
+   "desc": "The first museum devoted to Arab American history and culture, in Dearborn.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Arab American National Museum",
+   "img": "Arab_American_National_Museum.jpg",
+   "drive_min": 420,
+   "drive_mi": 376
+  },
+  {
+   "name": "River Raisin National Battlefield Park",
+   "cat": "culture",
+   "region": "Detroit and Southeast Michigan",
+   "lat": 41.9136,
+   "lng": -83.3783,
+   "desc": "Site of the January 1813 battle of the War of 1812 at Monroe.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/rira",
+   "wiki": "River Raisin National Battlefield Park",
+   "img": "River_Raisin_National_Battlefield_Park.jpg",
+   "drive_min": 411,
+   "drive_mi": 329
+  },
+  {
+   "name": "University of Michigan Museum of Art",
+   "cat": "museum",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 42.2754,
+   "lng": -83.7397,
+   "desc": "A large free university art museum in Ann Arbor, with a strong Asian collection.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": "https://umma.umich.edu",
+   "wiki": "University of Michigan Museum of Art",
+   "img": "People_walking_in_front_of_the_University_of_Michigan_Museum_of_Art.jpg",
+   "drive_min": 384,
+   "drive_mi": 341
+  },
+  {
+   "name": "Kelsey Museum of Archaeology",
+   "cat": "museum",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 42.2769,
+   "lng": -83.7406,
+   "desc": "The University of Michigan's free museum of Egyptian, Greek, Roman and Near Eastern antiquities.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Kelsey Museum of Archaeology",
+   "img": "Newberry_Hall_(Kelsey_Museum_of_Archaeology),_University_of_Michigan,_State_Street,_Ann_Arbor,_MI.jpg",
+   "drive_min": 383,
+   "drive_mi": 341
+  },
+  {
+   "name": "Matthaei Botanical Gardens and Nichols Arboretum",
+   "cat": "nature",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 42.3012,
+   "lng": -83.664,
+   "desc": "The university's conservatory and gardens, and the Huron River valley arboretum with a famous peony garden.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Matthaei Botanical Gardens",
+   "img": "Matthaei_Botanical_Gardens_Gateway_Garden_of_New_World_Plants.JPG",
+   "drive_min": 389,
+   "drive_mi": 348
+  },
+  {
+   "name": "Michigan State Capitol",
+   "cat": "arch",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 42.7336,
+   "lng": -84.5556,
+   "desc": "Elijah Myers's 1879 capitol in Lansing, restored with its painted Victorian interiors and glass floor in the rotunda.",
+   "refs": [
+    "eckert",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Michigan State Capitol",
+   "img": "Michigan_State_Capitol_2024.jpg",
+   "drive_min": 358,
+   "drive_mi": 318
+  },
+  {
+   "name": "Eli and Edythe Broad Art Museum",
+   "cat": "arch",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 42.7327,
+   "lng": -84.4767,
+   "desc": "Zaha Hadid's angular steel and glass museum (2012) at Michigan State University, free.",
+   "refs": [
+    "eckert"
+   ],
+   "url": "https://broadmuseum.msu.edu",
+   "wiki": "Eli and Edythe Broad Art Museum",
+   "img": "MSU_Broad_Art_Museum_exterior_5.jpg",
+   "drive_min": 367,
+   "drive_mi": 322
+  },
+  {
+   "name": "R.E. Olds Transportation Museum",
+   "cat": "museum",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 42.7313,
+   "lng": -84.5481,
+   "desc": "Oldsmobiles and other Lansing-built vehicles, from the city where Ransom Olds started mass production.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "R. E. Olds Transportation Museum",
+   "img": "R_E_Olds_Transportation_Museum_Lansing.jpg",
+   "drive_min": 359,
+   "drive_mi": 318
+  },
+  {
+   "name": "Flint Institute of Arts",
+   "cat": "museum",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 43.0224,
+   "lng": -83.6778,
+   "desc": "One of the largest art museums in Michigan, with a notable glass collection.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Flint Institute of Arts",
+   "img": "Flint_fia.JPG",
+   "drive_min": 416,
+   "drive_mi": 374
+  },
+  {
+   "name": "Frankenmuth",
+   "cat": "culture",
+   "region": "Ann Arbor, Lansing and Flint",
+   "lat": 43.3322,
+   "lng": -83.7392,
+   "desc": "A Bavarian-style town famous for chicken dinners and Bronner's enormous Christmas store.",
+   "refs": [
+    "roadside",
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Frankenmuth, Michigan",
+   "img": "Main_Street,_Frankenmuth,_Michigan,_2014-01-11.jpg",
+   "drive_min": 445,
+   "drive_mi": 396
+  },
+  {
+   "name": "Warren Dunes State Park",
+   "cat": "nature",
+   "region": "Southwest Michigan",
+   "lat": 41.9053,
+   "lng": -86.5994,
+   "desc": "Dunes rising some 260 feet above Lake Michigan, the closest big Michigan dunes to Champaign.",
+   "refs": [
+    "midnr"
+   ],
+   "url": null,
+   "wiki": "Warren Dunes State Park",
+   "img": "Warren_Dunes.JPG",
+   "drive_min": 212,
+   "drive_mi": 181
+  },
+  {
+   "name": "Kalamazoo Institute of Arts",
+   "cat": "museum",
+   "region": "Southwest Michigan",
+   "lat": 42.2894,
+   "lng": -85.5879,
+   "desc": "A regional art museum with American art and a strong collection of works on paper.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Kalamazoo Institute of Arts",
+   "img": "KIArts-Aug-2012.jpg",
+   "drive_min": 282,
+   "drive_mi": 247
+  },
+  {
+   "name": "Air Zoo",
+   "cat": "museum",
+   "region": "Southwest Michigan",
+   "lat": 42.2275,
+   "lng": -85.5583,
+   "desc": "Aviation and space museum near Kalamazoo, with an SR-71 Blackbird.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Air Zoo",
+   "img": null,
+   "drive_min": 279,
+   "drive_mi": 245
+  },
+  {
+   "name": "Gilmore Car Museum",
+   "cat": "museum",
+   "region": "Southwest Michigan",
+   "lat": 42.4405,
+   "lng": -85.4216,
+   "desc": "Hundreds of cars displayed in historic barns and a recreated 1930s gas station at Hickory Corners.",
+   "refs": [
+    "roadside",
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Gilmore Car Museum",
+   "img": "Gilmore_Car_Museum_DSC04968_(34292877910).jpg",
+   "drive_min": 305,
+   "drive_mi": 262
+  },
+  {
+   "name": "Kellogg Biological Station Bird Sanctuary",
+   "cat": "nature",
+   "region": "Southwest Michigan",
+   "lat": 42.404,
+   "lng": -85.402,
+   "desc": "Michigan State University's wetland bird sanctuary on Wintergreen Lake, founded by W. K. Kellogg in 1927.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 307,
+   "drive_mi": 263
+  },
+  {
+   "name": "Gerald R. Ford Presidential Museum",
+   "cat": "museum",
+   "region": "Grand Rapids and the Lake Michigan shore",
+   "lat": 42.9683,
+   "lng": -85.6775,
+   "desc": "The museum of the 38th president on the Grand River, where he and Betty Ford are buried.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": "https://www.fordlibrarymuseum.gov",
+   "wiki": "Gerald R. Ford Presidential Museum",
+   "img": null,
+   "drive_min": 314,
+   "drive_mi": 278
+  },
+  {
+   "name": "Frederik Meijer Gardens and Sculpture Park",
+   "cat": "museum",
+   "region": "Grand Rapids and the Lake Michigan shore",
+   "lat": 42.981,
+   "lng": -85.591,
+   "desc": "Gardens and a major sculpture park, with works by Rodin, Moore, Calder and Kusama, and a large Japanese garden.",
+   "refs": [
+    "moonmi",
+    "nyt36"
+   ],
+   "url": "https://www.meijergardens.org",
+   "wiki": "Frederik Meijer Gardens & Sculpture Park",
+   "img": "Meijer_Gardens_Expansion_-_Photo_by_Michael_Moran_(1).jpg",
+   "drive_min": 318,
+   "drive_mi": 283
+  },
+  {
+   "name": "Grand Rapids Art Museum",
+   "cat": "museum",
+   "region": "Grand Rapids and the Lake Michigan shore",
+   "lat": 42.965,
+   "lng": -85.6714,
+   "desc": "An art museum in a LEED Gold building by wHY Architecture, host of the ArtPrize festival.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Grand Rapids Art Museum",
+   "img": "Grand_Rapids_Art_Museum.jpg",
+   "drive_min": 313,
+   "drive_mi": 277
+  },
+  {
+   "name": "Meyer May House",
+   "cat": "arch",
+   "region": "Grand Rapids and the Lake Michigan shore",
+   "lat": 42.9542,
+   "lng": -85.6592,
+   "desc": "Frank Lloyd Wright's 1909 Prairie house, restored by Steelcase with its original furniture and art glass. Free tours.",
+   "refs": [
+    "storrer",
+    "wrightsites"
+   ],
+   "url": null,
+   "wiki": "Meyer May House",
+   "img": "Meyer_May_House.jpg",
+   "drive_min": 315,
+   "drive_mi": 277
+  },
+  {
+   "name": "Windmill Island and De Zwaan",
+   "cat": "culture",
+   "region": "Grand Rapids and the Lake Michigan shore",
+   "lat": 42.7994,
+   "lng": -86.0958,
+   "desc": "An 18th-century Dutch windmill shipped from the Netherlands to Holland, Michigan, still grinding flour. Tulip Time is in May.",
+   "refs": [
+    "roadside",
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "De Zwaan (windmill)",
+   "img": "DeZwaanWindmill.JPG",
+   "drive_min": 290,
+   "drive_mi": 251
+  },
+  {
+   "name": "Saugatuck Dunes State Park",
+   "cat": "nature",
+   "region": "Grand Rapids and the Lake Michigan shore",
+   "lat": 42.7033,
+   "lng": -86.1997,
+   "desc": "Wooded dunes and a quiet beach near the art colony town of Saugatuck.",
+   "refs": [
+    "midnr",
+    "nyt36"
+   ],
+   "url": null,
+   "wiki": "Saugatuck Dunes State Park",
+   "img": "Water_and_Covered_Dune,_Looking_North,_Saugatuck_Dunes_State_Park,_Michigan.jpg",
+   "drive_min": 278,
+   "drive_mi": 244
+  },
+  {
+   "name": "Ludington State Park and Big Sable Point Lighthouse",
+   "cat": "nature",
+   "region": "Grand Rapids and the Lake Michigan shore",
+   "lat": 44.0303,
+   "lng": -86.5069,
+   "desc": "Dunes, a river and a walk to the black and white Big Sable Point Lighthouse.",
+   "refs": [
+    "midnr"
+   ],
+   "url": null,
+   "wiki": "Ludington State Park",
+   "img": "Big_Sable_Point_Lighthouse2.JPG",
+   "drive_min": 399,
+   "drive_mi": 349
+  },
+  {
+   "name": "Sleeping Bear Dunes National Lakeshore",
+   "cat": "nature",
+   "region": "Sleeping Bear and Traverse Bay",
+   "lat": 44.85,
+   "lng": -86.05,
+   "desc": "Bluffs 450 feet above Lake Michigan, the Dune Climb, the Pierce Stocking Scenic Drive and the Manitou Islands.",
+   "refs": [
+    "nps",
+    "moonmi"
+   ],
+   "url": "https://www.nps.gov/slbe",
+   "wiki": "Sleeping Bear Dunes National Lakeshore",
+   "img": "Dunes_and_fog_from_Platte_Point_(95c5ad13-5f8a-4a59-838f-50b9a644648c).jpg",
+   "drive_min": 504,
+   "drive_mi": 436
+  },
+  {
+   "name": "Glen Haven",
+   "cat": "culture",
+   "region": "Sleeping Bear and Traverse Bay",
+   "lat": 44.8989,
+   "lng": -86.0303,
+   "desc": "A restored lumber-era village with a maritime museum in an old Coast Guard station, inside Sleeping Bear.",
+   "refs": [
+    "nps"
+   ],
+   "url": null,
+   "wiki": "Glen Haven, Michigan",
+   "img": "Glen_Haven_Michigan_Historic_Village_Looking_north_M-209.jpg",
+   "drive_min": 503,
+   "drive_mi": 439
+  },
+  {
+   "name": "Fishtown, Leland",
+   "cat": "culture",
+   "region": "Sleeping Bear and Traverse Bay",
+   "lat": 45.0244,
+   "lng": -85.7625,
+   "desc": "Weathered fishing shanties on the Leland River, still a working commercial fishing village.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Leland, Michigan",
+   "img": "Fishtown_at_sunset,_on_Lake_Michigan_at_Leland,_MI_06-21-2019_006_(48117047808).jpg",
+   "drive_min": 507,
+   "drive_mi": 437
+  },
+  {
+   "name": "Point Betsie Lighthouse",
+   "cat": "culture",
+   "region": "Sleeping Bear and Traverse Bay",
+   "lat": 44.6913,
+   "lng": -86.2552,
+   "desc": "An 1858 lighthouse on the Lake Michigan shore, among the most photographed in the state.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Point Betsie Light",
+   "img": "Point_Betsie_Lighthouse_2.jpg",
+   "drive_min": 481,
+   "drive_mi": 403
+  },
+  {
+   "name": "Interlochen Center for the Arts",
+   "cat": "culture",
+   "region": "Sleeping Bear and Traverse Bay",
+   "lat": 44.6293,
+   "lng": -85.7682,
+   "desc": "The arts school and summer camp between two lakes, with summer concerts in its outdoor bowl.",
+   "refs": [
+    "moonmi"
+   ],
+   "url": null,
+   "wiki": "Interlochen Center for the Arts",
+   "img": null,
+   "drive_min": 462,
+   "drive_mi": 408
+  },
+  {
+   "name": "Tunnel of Trees",
+   "cat": "nature",
+   "region": "Sleeping Bear and Traverse Bay",
+   "lat": 45.57,
+   "lng": -85.1,
+   "desc": "A narrow shoreline road from Harbor Springs to Cross Village under a canopy of trees, glorious in October.",
+   "refs": [
+    "moonmi",
+    "jensen"
+   ],
+   "url": null,
+   "wiki": "M-119 (Michigan highway)",
+   "img": null,
+   "drive_min": 570,
+   "drive_mi": 485
+  },
+  {
+   "name": "Hartwick Pines State Park",
+   "cat": "nature",
+   "region": "Sleeping Bear and Traverse Bay",
+   "lat": 44.7358,
+   "lng": -84.6567,
+   "desc": "One of the last stands of old-growth white pine in the Lower Peninsula, with a logging museum.",
+   "refs": [
+    "midnr"
+   ],
+   "url": null,
+   "wiki": "Hartwick Pines State Park",
+   "img": "Hartwick_Pines_State_Park_logging_museum.jpg",
+   "drive_min": 486,
+   "drive_mi": 435
+  },
+  {
+   "name": "Mackinac Bridge",
+   "cat": "arch",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 45.8171,
+   "lng": -84.7278,
+   "desc": "David Steinman's five-mile suspension bridge (1957) linking Michigan's two peninsulas.",
+   "refs": [
+    "eckert"
+   ],
+   "url": null,
+   "wiki": "Mackinac Bridge",
+   "img": "Mackinac_Bridge_2022.jpg",
+   "drive_min": 577,
+   "drive_mi": 521
+  },
+  {
+   "name": "Colonial Michilimackinac",
+   "cat": "culture",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 45.7867,
+   "lng": -84.736,
+   "desc": "A reconstructed 18th-century French and British fur trading fort at Mackinaw City.",
+   "refs": [
+    "midnr",
+    "nhl"
+   ],
+   "url": "https://www.mackinacparks.com",
+   "wiki": "Fort Michilimackinac",
+   "img": "Fort_Michilimackinac_2022.jpg",
+   "drive_min": 563,
+   "drive_mi": 513
+  },
+  {
+   "name": "Mackinac Island and Fort Mackinac",
+   "cat": "culture",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 45.8611,
+   "lng": -84.6306,
+   "desc": "A car-free island reached by ferry, with horse carriages, Victorian cottages, the Grand Hotel and an 18th-century fort. Driving time is to the ferry at Mackinaw City.",
+   "refs": [
+    "midnr",
+    "nhl"
+   ],
+   "url": "https://www.mackinacparks.com",
+   "wiki": "Mackinac Island",
+   "img": null,
+   "drive_min": 564,
+   "drive_mi": 513
+  },
+  {
+   "name": "Grand Hotel",
+   "cat": "arch",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 45.8511,
+   "lng": -84.6258,
+   "desc": "The 1887 resort hotel with what is billed as the world's longest porch. Driving time is to the ferry at Mackinaw City.",
+   "refs": [
+    "eckert",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Grand Hotel (Mackinac Island)",
+   "img": "Grand_Hotel,_Mackinac_Island,_Michigan_-_53793790630.jpg",
+   "drive_min": 564,
+   "drive_mi": 513
+  },
+  {
+   "name": "Soo Locks",
+   "cat": "culture",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 46.5033,
+   "lng": -84.35,
+   "desc": "Watch thousand-foot lake freighters rise and fall between Lake Superior and Lake Huron at Sault Ste. Marie.",
+   "refs": [
+    "moonmi",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Soo Locks",
+   "img": "Soo_Locks-Sault-Ste_Marie.png",
+   "drive_min": 625,
+   "drive_mi": 570
+  },
+  {
+   "name": "Tahquamenon Falls State Park",
+   "cat": "nature",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 46.6036,
+   "lng": -85.2072,
+   "desc": "Wide amber falls tinted by the tannins of cedar swamps, the Upper Falls among the largest east of the Mississippi.",
+   "refs": [
+    "midnr"
+   ],
+   "url": null,
+   "wiki": "Tahquamenon Falls State Park",
+   "img": "Upper_Tahquamenon_Falls_(1).jpg",
+   "drive_min": 662,
+   "drive_mi": 592
+  },
+  {
+   "name": "Great Lakes Shipwreck Museum",
+   "cat": "museum",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 46.7706,
+   "lng": -84.9567,
+   "desc": "At Whitefish Point, displaying the bell of the Edmund Fitzgerald, lost nearby in 1975.",
+   "refs": [
+    "moonmi",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Great Lakes Shipwreck Museum",
+   "img": "Great_Lakes_Shipwreck_Museum.JPG",
+   "drive_min": 663,
+   "drive_mi": 592
+  },
+  {
+   "name": "Pictured Rocks National Lakeshore",
+   "cat": "nature",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 46.5622,
+   "lng": -86.3125,
+   "desc": "Mineral-streaked sandstone cliffs, arches and waterfalls on Lake Superior, best seen by boat or kayak from Munising.",
+   "refs": [
+    "nps",
+    "moonmi"
+   ],
+   "url": "https://www.nps.gov/piro",
+   "wiki": "Pictured Rocks National Lakeshore",
+   "img": "Pictured_Rocks_Bridalveil_Falls.jpg",
+   "drive_min": 676,
+   "drive_mi": 537
+  },
+  {
+   "name": "Kitch-iti-kipi",
+   "cat": "nature",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 46.0041,
+   "lng": -86.382,
+   "desc": "Michigan's largest freshwater spring, a clear green pool crossed on a hand-pulled raft.",
+   "refs": [
+    "midnr",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Kitch-iti-kipi",
+   "img": "Kitch-iti-kipi.jpg",
+   "drive_min": 591,
+   "drive_mi": 500
+  },
+  {
+   "name": "Fayette Historic State Park",
+   "cat": "culture",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 45.7172,
+   "lng": -86.6678,
+   "desc": "A 19th-century iron-smelting ghost town on a limestone harbor of the Garden Peninsula.",
+   "refs": [
+    "midnr"
+   ],
+   "url": null,
+   "wiki": "Fayette Historic State Park",
+   "img": "Fayette_Historic_Townsite.jpg",
+   "drive_min": 598,
+   "drive_mi": 503
+  },
+  {
+   "name": "Keweenaw National Historical Park",
+   "cat": "culture",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 47.1564,
+   "lng": -88.5636,
+   "desc": "The copper country of the Keweenaw Peninsula, with the Quincy Mine hoist and tours underground.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/kewe",
+   "wiki": "Keweenaw National Historical Park",
+   "img": "Keweenaw_National_Historical_Park_Headquarters.jpg",
+   "drive_min": 666,
+   "drive_mi": 553
+  },
+  {
+   "name": "Porcupine Mountains Wilderness State Park",
+   "cat": "nature",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 46.7542,
+   "lng": -89.79,
+   "desc": "Old-growth forest, waterfalls and the Lake of the Clouds overlook on Lake Superior.",
+   "refs": [
+    "midnr"
+   ],
+   "url": null,
+   "wiki": "Porcupine Mountains",
+   "img": "Porcupine_Mountains_Michigan.jpg",
+   "drive_min": 648,
+   "drive_mi": 536
+  },
+  {
+   "name": "Isle Royale National Park",
+   "cat": "nature",
+   "region": "Mackinac and the Upper Peninsula",
+   "lat": 48.01,
+   "lng": -88.85,
+   "desc": "A roadless wilderness island in Lake Superior known for its wolves and moose, reached by ferry or seaplane. Driving time is to the ferry at Houghton.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/isro",
+   "wiki": "Isle Royale National Park",
+   "img": "Edisen_Fishery_at_IRNP.jpg",
+   "drive_min": 659,
+   "drive_mi": 549
+  }
+ ]
+}

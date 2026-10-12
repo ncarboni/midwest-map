@@ -1,0 +1,957 @@
+{
+ "state": "MO",
+ "name": "Missouri",
+ "regions": {
+  "Eastern Ozarks and Ste. Genevieve": "French colonial Ste. Genevieve, then granite and springs: Elephant Rocks, Johnson's Shut-Ins, Onondaga Cave and a float on the Current River.",
+  "Great River Road": "The Mississippi bluffs between Nauvoo, Hannibal and Alton. Pair Elsah's stone village and Pere Marquette's lodge with Mark Twain's Hannibal across the river.",
+  "Kansas City and northwest Missouri": "The Nelson-Atkins and the WWI Museum, 18th and Vine for jazz and the Negro Leagues, Truman's Independence, and Disney's Marceline or St. Joseph on the way.",
+  "Missouri River and central Missouri": "Wine towns and river bluffs: Hermann, a stretch of the Katy Trail by bike, Benton's mural in the Jefferson City capitol, the Churchill Museum in Fulton and historic Arrow Rock.",
+  "Southwest Missouri Ozarks": "Ha Ha Tonka's castle ruins, the Wonders of Wildlife museum in Springfield, Laura Ingalls Wilder's farm and the Carver and Truman birthplaces.",
+  "St. Louis Metro": "Plan at least two days. Forest Park alone holds the free art and history museums; add the Gateway Arch, the Wainwright Building, the Pulitzer and the City Museum, and drive to Cahokia Mounds on the Illinois side."
+ },
+ "sites": [
+  {
+   "name": "Gateway Arch National Park",
+   "cat": "arch",
+   "region": "St. Louis Metro",
+   "lat": 38.6246,
+   "lng": -90.185,
+   "desc": "Eero Saarinen's 630 foot stainless steel arch (1965), with a museum of westward expansion beneath it.",
+   "refs": [
+    "campbell",
+    "overby"
+   ],
+   "url": "https://www.nps.gov/jeff",
+   "wiki": "Gateway Arch National Park",
+   "img": "Gateway_Arch,_St._Louis.jpg",
+   "drive_min": 199,
+   "drive_mi": 179
+  },
+  {
+   "name": "Saint Louis Art Museum",
+   "cat": "museum",
+   "region": "St. Louis Metro",
+   "lat": 38.6394,
+   "lng": -90.2944,
+   "desc": "Free museum in Cass Gilbert's Palace of Fine Arts from the 1904 World's Fair, with a David Chipperfield addition.",
+   "refs": [
+    "overby",
+    "nyt36"
+   ],
+   "url": "https://www.slam.org",
+   "wiki": "Saint Louis Art Museum",
+   "img": "StLouisArtMuseum.jpg",
+   "drive_min": 209,
+   "drive_mi": 185
+  },
+  {
+   "name": "City Museum",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.6337,
+   "lng": -90.2004,
+   "desc": "Bob Cassilly's climbable labyrinth of salvaged architecture inside a former shoe warehouse.",
+   "refs": [
+    "atlas",
+    "nyt36"
+   ],
+   "url": "https://www.citymuseum.org",
+   "wiki": "List of city museums",
+   "img": null,
+   "drive_min": 201,
+   "drive_mi": 179
+  },
+  {
+   "name": "Missouri Botanical Garden",
+   "cat": "nature",
+   "region": "St. Louis Metro",
+   "lat": 38.6125,
+   "lng": -90.2597,
+   "desc": "Founded by Henry Shaw in 1859, with the geodesic Climatron and a large Japanese garden.",
+   "refs": [
+    "nhl",
+    "overby"
+   ],
+   "url": "https://www.missouribotanicalgarden.org",
+   "wiki": "Missouri Botanical Garden",
+   "img": null,
+   "drive_min": 207,
+   "drive_mi": 183
+  },
+  {
+   "name": "Forest Park",
+   "cat": "nature",
+   "region": "St. Louis Metro",
+   "lat": 38.6389,
+   "lng": -90.2846,
+   "desc": "The 1,300 acre park of the 1904 World's Fair, home to the art museum, zoo and history museum, all free.",
+   "refs": [
+    "overby",
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Forest Park (St. Louis)",
+   "img": "Forest_Park,_St_Louis.jpg",
+   "drive_min": 209,
+   "drive_mi": 184
+  },
+  {
+   "name": "Missouri History Museum",
+   "cat": "museum",
+   "region": "St. Louis Metro",
+   "lat": 38.6453,
+   "lng": -90.2879,
+   "desc": "Free history museum in Forest Park, in the 1913 Jefferson Memorial building.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Missouri History Museum",
+   "img": "MissouriHistoryMuseum.png",
+   "drive_min": 210,
+   "drive_mi": 185
+  },
+  {
+   "name": "Wainwright Building",
+   "cat": "arch",
+   "region": "St. Louis Metro",
+   "lat": 38.6269,
+   "lng": -90.1922,
+   "desc": "Adler and Sullivan's 1891 office building, a founding example of the skyscraper as a tall, unified form.",
+   "refs": [
+    "morrison",
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Wainwright Building",
+   "img": "Wainwright_Building,_7th_Street_and_Chestnut_Street,_St._Louis,_MO_-_53051647915.jpg",
+   "drive_min": 201,
+   "drive_mi": 178
+  },
+  {
+   "name": "Cathedral Basilica of Saint Louis",
+   "cat": "arch",
+   "region": "St. Louis Metro",
+   "lat": 38.6425,
+   "lng": -90.2547,
+   "desc": "Home to one of the largest collections of mosaics in the world.",
+   "refs": [
+    "overby"
+   ],
+   "url": "https://cathedralstl.org",
+   "wiki": "Cathedral Basilica of Saint Louis",
+   "img": "Cathedral_Basilica_of_Saint_Louis_(St._Louis,_MO)_-_exterior,_quarter_view_2.jpg",
+   "drive_min": 207,
+   "drive_mi": 183
+  },
+  {
+   "name": "Pulitzer Arts Foundation",
+   "cat": "arch",
+   "region": "St. Louis Metro",
+   "lat": 38.6404,
+   "lng": -90.2344,
+   "desc": "Tadao Ando's concrete gallery (2001) with works by Richard Serra and Ellsworth Kelly. Free.",
+   "refs": [
+    "overby"
+   ],
+   "url": "https://pulitzerarts.org",
+   "wiki": "Pulitzer Arts Foundation",
+   "img": "Pulitzerfoundation.jpg",
+   "drive_min": 205,
+   "drive_mi": 181
+  },
+  {
+   "name": "Contemporary Art Museum St. Louis",
+   "cat": "museum",
+   "region": "St. Louis Metro",
+   "lat": 38.6405,
+   "lng": -90.235,
+   "desc": "Non-collecting contemporary art museum next to the Pulitzer, free.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Contemporary Art Museum St. Louis",
+   "img": "Contemporarystlouis-net.jpg",
+   "drive_min": 205,
+   "drive_mi": 182
+  },
+  {
+   "name": "Mildred Lane Kemper Art Museum",
+   "cat": "museum",
+   "region": "St. Louis Metro",
+   "lat": 38.6472,
+   "lng": -90.3026,
+   "desc": "Washington University's free art museum in a building by Fumihiko Maki.",
+   "refs": [
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Mildred Lane Kemper Art Museum",
+   "img": "Kemper_Art_Museum_at_Wash_U.jpg",
+   "drive_min": 210,
+   "drive_mi": 186
+  },
+  {
+   "name": "National Blues Museum",
+   "cat": "museum",
+   "region": "St. Louis Metro",
+   "lat": 38.6305,
+   "lng": -90.1898,
+   "desc": "Interactive museum of the blues on Washington Avenue.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "National Blues Museum",
+   "img": "National_Blues_Museum.jpg",
+   "drive_min": 200,
+   "drive_mi": 178
+  },
+  {
+   "name": "Bellefontaine Cemetery",
+   "cat": "arch",
+   "region": "St. Louis Metro",
+   "lat": 38.6974,
+   "lng": -90.2336,
+   "desc": "A rural cemetery and arboretum with Louis Sullivan's Wainwright Tomb.",
+   "refs": [
+    "morrison",
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Bellefontaine Cemetery",
+   "img": "Wainwright_Tomb_2013.jpg",
+   "drive_min": 208,
+   "drive_mi": 181
+  },
+  {
+   "name": "St. Louis Union Station",
+   "cat": "arch",
+   "region": "St. Louis Metro",
+   "lat": 38.6292,
+   "lng": -90.2076,
+   "desc": "The 1894 Romanesque terminal with its Grand Hall, now a hotel with an aquarium and a wheel.",
+   "refs": [
+    "nhl",
+    "overby"
+   ],
+   "url": null,
+   "wiki": "St. Louis Union Station",
+   "img": "St._Louis_Union_Station,_Market_Street,_St._Louis,_MO_-_53050963215.jpg",
+   "drive_min": 202,
+   "drive_mi": 180
+  },
+  {
+   "name": "Fabulous Fox Theatre",
+   "cat": "arch",
+   "region": "St. Louis Metro",
+   "lat": 38.6386,
+   "lng": -90.2317,
+   "desc": "A 1929 movie palace in an exotic Siamese Byzantine style, with tours.",
+   "refs": [
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Fox Theatre (St. Louis)",
+   "img": "Fox_Theatre_(St._Louis).jpg",
+   "drive_min": 204,
+   "drive_mi": 181
+  },
+  {
+   "name": "Anheuser-Busch Brewery",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.5975,
+   "lng": -90.2122,
+   "desc": "The historic Soulard brewery with Clydesdale stables and brewery tours.",
+   "refs": [
+    "nhl",
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Anheuser-Busch Brewery",
+   "img": "StLouisABPackaging_Plant.JPG",
+   "drive_min": 205,
+   "drive_mi": 181
+  },
+  {
+   "name": "Ted Drewes Frozen Custard",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.5894,
+   "lng": -90.3076,
+   "desc": "A Route 66 custard stand on Chippewa Street, famous for its concretes.",
+   "refs": [
+    "wallis",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Ted Drewes",
+   "img": "Ted_Drewes_Frozen_Custard_Oreo_Concrete.jpg",
+   "drive_min": 213,
+   "drive_mi": 187
+  },
+  {
+   "name": "Laumeier Sculpture Park",
+   "cat": "museum",
+   "region": "St. Louis Metro",
+   "lat": 38.551,
+   "lng": -90.412,
+   "desc": "Large-scale outdoor sculpture across 105 acres in suburban St. Louis.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Laumeier Sculpture Park",
+   "img": "Laumeier_Sculpture_Park_02.jpg",
+   "drive_min": 220,
+   "drive_mi": 193
+  },
+  {
+   "name": "Ulysses S. Grant National Historic Site",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.5511,
+   "lng": -90.3519,
+   "desc": "White Haven, the farm where Grant lived with Julia Dent's family before the war.",
+   "refs": [
+    "nps",
+    "chernow"
+   ],
+   "url": "https://www.nps.gov/ulsg",
+   "wiki": "Ulysses S. Grant National Historic Site",
+   "img": "White_Haven_-_U.S._Grant_Historic_Site-06.jpg",
+   "drive_min": 219,
+   "drive_mi": 190
+  },
+  {
+   "name": "Scott Joplin House",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.6371,
+   "lng": -90.2149,
+   "desc": "The flat where the King of Ragtime lived from 1901 to 1903.",
+   "refs": [
+    "mopark",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Scott Joplin House State Historic Site",
+   "img": "Scott_Joplin_House.jpg",
+   "drive_min": 203,
+   "drive_mi": 181
+  },
+  {
+   "name": "Historic Daniel Boone Home",
+   "cat": "culture",
+   "region": "St. Louis Metro",
+   "lat": 38.6517,
+   "lng": -90.8539,
+   "desc": "The stone house in Defiance associated with Daniel Boone's last years.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Daniel Boone Home",
+   "img": "Boone_Home_Defiance_MO-27.jpg",
+   "drive_min": 254,
+   "drive_mi": 217
+  },
+  {
+   "name": "Mark Twain Boyhood Home and Museum",
+   "cat": "culture",
+   "region": "Great River Road",
+   "lat": 39.712,
+   "lng": -91.3579,
+   "desc": "Samuel Clemens's childhood home in Hannibal, the model for St. Petersburg in Tom Sawyer.",
+   "refs": [
+    "twain",
+    "nhl"
+   ],
+   "url": "https://marktwainmuseum.org",
+   "wiki": "Mark Twain Boyhood Home & Museum",
+   "img": "TwainBoyhoodHomeMuseum.jpg",
+   "drive_min": 208,
+   "drive_mi": 187
+  },
+  {
+   "name": "Mark Twain Cave",
+   "cat": "nature",
+   "region": "Great River Road",
+   "lat": 39.6886,
+   "lng": -91.3315,
+   "desc": "The cave in Tom Sawyer, a show cave since 1886.",
+   "refs": [
+    "twain",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Mark Twain Cave",
+   "img": "MarkTwainCave.jpg",
+   "drive_min": 213,
+   "drive_mi": 190
+  },
+  {
+   "name": "Hermann",
+   "cat": "culture",
+   "region": "Missouri River and central Missouri",
+   "lat": 38.6992,
+   "lng": -91.4392,
+   "desc": "A German river town founded in 1837 with brick houses and historic wineries.",
+   "refs": [
+    "wpaMO",
+    "overby"
+   ],
+   "url": "https://visithermann.com",
+   "wiki": "Hermann, Missouri",
+   "img": "Hermann,_Missouri.jpg",
+   "drive_min": 303,
+   "drive_mi": 257
+  },
+  {
+   "name": "Katy Trail State Park",
+   "cat": "nature",
+   "region": "Missouri River and central Missouri",
+   "lat": 38.9035,
+   "lng": -90.3314,
+   "desc": "About 240 miles of rail trail along the Missouri River, with bluffs near Rocheport.",
+   "refs": [
+    "mopark"
+   ],
+   "url": "https://mostateparks.com",
+   "wiki": "Katy Trail State Park",
+   "img": "Katy9.jpg",
+   "drive_min": 218,
+   "drive_mi": 169
+  },
+  {
+   "name": "Missouri State Capitol",
+   "cat": "arch",
+   "region": "Missouri River and central Missouri",
+   "lat": 38.5792,
+   "lng": -92.1728,
+   "desc": "The capitol in Jefferson City holds Thomas Hart Benton's mural A Social History of the State of Missouri (1936).",
+   "refs": [
+    "overby",
+    "shsmo"
+   ],
+   "url": null,
+   "wiki": "Missouri State Capitol",
+   "img": "MissouriCapitol.jpg",
+   "drive_min": 331,
+   "drive_mi": 292
+  },
+  {
+   "name": "National Churchill Museum",
+   "cat": "museum",
+   "region": "Missouri River and central Missouri",
+   "lat": 38.85,
+   "lng": -91.9545,
+   "desc": "At Fulton, where Churchill gave the Iron Curtain speech, beneath a Christopher Wren church moved from London.",
+   "refs": [
+    "overby",
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "National Churchill Museum",
+   "img": "National_Churchill_Museum_from_S_1.JPG",
+   "drive_min": 307,
+   "drive_mi": 269
+  },
+  {
+   "name": "Museum of Art and Archaeology",
+   "cat": "museum",
+   "region": "Missouri River and central Missouri",
+   "lat": 38.9445,
+   "lng": -92.326,
+   "desc": "University of Missouri museum in Columbia with ancient, European and American collections.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Museum of Art and Archaeology",
+   "img": null,
+   "drive_min": 325,
+   "drive_mi": 285
+  },
+  {
+   "name": "Rock Bridge Memorial State Park",
+   "cat": "nature",
+   "region": "Missouri River and central Missouri",
+   "lat": 38.8725,
+   "lng": -92.3258,
+   "desc": "A natural rock bridge, caves and a sinkhole trail just outside Columbia.",
+   "refs": [
+    "mopark"
+   ],
+   "url": null,
+   "wiki": "Rock Bridge Memorial State Park",
+   "img": "Rock-bridge.jpg",
+   "drive_min": 332,
+   "drive_mi": 289
+  },
+  {
+   "name": "Arrow Rock",
+   "cat": "culture",
+   "region": "Missouri River and central Missouri",
+   "lat": 39.07,
+   "lng": -92.9472,
+   "desc": "A Santa Fe Trail village of 1820s and 1830s buildings, with a historic tavern and a summer theater.",
+   "refs": [
+    "nhl",
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Arrow Rock, Missouri",
+   "img": "Saline_County_Missouri_Incorporated_and_Unincorporated_areas_Arrow_Rock_Highlighted.svg",
+   "drive_min": 375,
+   "drive_mi": 325
+  },
+  {
+   "name": "Ste. Genevieve National Historical Park",
+   "cat": "arch",
+   "region": "Eastern Ozarks and Ste. Genevieve",
+   "lat": 37.977,
+   "lng": -90.0487,
+   "desc": "Rare French colonial vertical-log houses of the 18th century in Missouri's oldest town.",
+   "refs": [
+    "nps",
+    "overby"
+   ],
+   "url": "https://www.nps.gov/stge",
+   "wiki": "Ste. Genevieve National Historical Park",
+   "img": "Photograph_of_the_Location_of_the_Felix_Vallee_House_in_Ste_Genevieve_MO.jpg",
+   "drive_min": 276,
+   "drive_mi": 243
+  },
+  {
+   "name": "Elephant Rocks State Park",
+   "cat": "nature",
+   "region": "Eastern Ozarks and Ste. Genevieve",
+   "lat": 37.6544,
+   "lng": -90.6881,
+   "desc": "Giant pink granite boulders lined up like a circus parade.",
+   "refs": [
+    "mopark"
+   ],
+   "url": null,
+   "wiki": "Elephant Rocks State Park",
+   "img": "The_Elephant_Rocks.JPG",
+   "drive_min": 316,
+   "drive_mi": 263
+  },
+  {
+   "name": "Johnson's Shut-Ins State Park",
+   "cat": "nature",
+   "region": "Eastern Ozarks and Ste. Genevieve",
+   "lat": 37.5394,
+   "lng": -90.8381,
+   "desc": "A natural water park where the Black River pours through chutes of volcanic rock.",
+   "refs": [
+    "mopark"
+   ],
+   "url": "https://mostateparks.com",
+   "wiki": "Johnson's Shut-Ins State Park",
+   "img": "Johnsons_Shut-ins_20090815_1.jpg",
+   "drive_min": 334,
+   "drive_mi": 275
+  },
+  {
+   "name": "Onondaga Cave State Park",
+   "cat": "nature",
+   "region": "Eastern Ozarks and Ste. Genevieve",
+   "lat": 38.0597,
+   "lng": -91.2281,
+   "desc": "A show cave famous for its formations, near the Meramec River.",
+   "refs": [
+    "mopark",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Onondaga Cave State Park",
+   "img": "Onondaga_Cave_lily_pad_room_by_stannate.jpg",
+   "drive_min": 307,
+   "drive_mi": 263
+  },
+  {
+   "name": "Meramec Caverns",
+   "cat": "culture",
+   "region": "Eastern Ozarks and Ste. Genevieve",
+   "lat": 38.2413,
+   "lng": -91.0924,
+   "desc": "A show cave advertised on Route 66 barns for generations, with Jesse James legends.",
+   "refs": [
+    "wallis",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Meramec Caverns",
+   "img": "Brown_formation_in_cavern.jpg",
+   "drive_min": 281,
+   "drive_mi": 243
+  },
+  {
+   "name": "Ozark National Scenic Riverways",
+   "cat": "nature",
+   "region": "Eastern Ozarks and Ste. Genevieve",
+   "lat": 37.1907,
+   "lng": -91.2763,
+   "desc": "The first national park area created to protect a river system: the Current and Jacks Fork, with springs, caves and Alley Mill.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/ozar",
+   "wiki": "Ozark National Scenic Riverways",
+   "img": "MO_locator_ONSR_+_EP_NWSR.png",
+   "drive_min": 409,
+   "drive_mi": 325
+  },
+  {
+   "name": "Grand Gulf State Park",
+   "cat": "nature",
+   "region": "Eastern Ozarks and Ste. Genevieve",
+   "lat": 36.549,
+   "lng": -91.6516,
+   "desc": "A collapsed cave system often called the Little Grand Canyon of the Ozarks.",
+   "refs": [
+    "mopark"
+   ],
+   "url": null,
+   "wiki": "Grand Gulf State Park",
+   "img": null,
+   "drive_min": 477,
+   "drive_mi": 403
+  },
+  {
+   "name": "Ha Ha Tonka State Park",
+   "cat": "nature",
+   "region": "Southwest Missouri Ozarks",
+   "lat": 37.9742,
+   "lng": -92.7631,
+   "desc": "Castle ruins on a bluff above the Lake of the Ozarks, with sinkholes, a natural bridge and springs.",
+   "refs": [
+    "mopark"
+   ],
+   "url": "https://mostateparks.com",
+   "wiki": "Ha Ha Tonka State Park",
+   "img": "Ha_Ha_Tonka_State_Park.jpg",
+   "drive_min": 403,
+   "drive_mi": 354
+  },
+  {
+   "name": "Wonders of Wildlife",
+   "cat": "museum",
+   "region": "Southwest Missouri Ozarks",
+   "lat": 37.1814,
+   "lng": -93.2965,
+   "desc": "A large wildlife museum and aquarium next to the Bass Pro Shops flagship in Springfield.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Wonders of Wildlife Museum & Aquarium",
+   "img": "Wonders_of_Wildlife_Museum_(exterior).JPG",
+   "drive_min": 445,
+   "drive_mi": 396
+  },
+  {
+   "name": "Laura Ingalls Wilder Historic Home and Museum",
+   "cat": "culture",
+   "region": "Southwest Missouri Ozarks",
+   "lat": 37.0994,
+   "lng": -92.5561,
+   "desc": "Rocky Ridge Farm in Mansfield, where Wilder wrote the Little House books.",
+   "refs": [
+    "fraser",
+    "nhl"
+   ],
+   "url": "https://lauraingallswilderhome.com",
+   "wiki": "Laura Ingalls Wilder House",
+   "img": "LauraIngallsWilder-RockyRidgeFarm-MansfieldMO.JPG",
+   "drive_min": 437,
+   "drive_mi": 377
+  },
+  {
+   "name": "Silver Dollar City",
+   "cat": "culture",
+   "region": "Southwest Missouri Ozarks",
+   "lat": 36.6671,
+   "lng": -93.3389,
+   "desc": "An 1880s-themed theme park near Branson with Ozark crafts, music and coasters.",
+   "refs": [
+    "visitmo",
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Silver Dollar City",
+   "img": null,
+   "drive_min": 489,
+   "drive_mi": 435
+  },
+  {
+   "name": "George Washington Carver National Monument",
+   "cat": "culture",
+   "region": "Southwest Missouri Ozarks",
+   "lat": 36.9864,
+   "lng": -94.3542,
+   "desc": "The first national monument to an African American, at Carver's birthplace near Diamond.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/gwca",
+   "wiki": "George Washington Carver National Monument",
+   "img": "George_Washington_Carver_National_Monument_-_Visitor_Center.jpg",
+   "drive_min": 515,
+   "drive_mi": 460
+  },
+  {
+   "name": "Harry S Truman Birthplace",
+   "cat": "culture",
+   "region": "Southwest Missouri Ozarks",
+   "lat": 37.4937,
+   "lng": -94.2712,
+   "desc": "The small Lamar house where Truman was born in 1884.",
+   "refs": [
+    "mopark",
+    "mccullough"
+   ],
+   "url": null,
+   "wiki": "Harry S Truman Birthplace State Historic Site",
+   "img": "Harry_S_Truman_Birthplace_SHS_20150715-8218.jpg",
+   "drive_min": 526,
+   "drive_mi": 472
+  },
+  {
+   "name": "Nelson-Atkins Museum of Art",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0453,
+   "lng": -94.5808,
+   "desc": "A free encyclopedic museum with Steven Holl's Bloch Building and Oldenburg's Shuttlecocks.",
+   "refs": [
+    "overby",
+    "nyt36"
+   ],
+   "url": "https://www.nelson-atkins.org",
+   "wiki": "Nelson-Atkins Museum of Art",
+   "img": "Nelson_Atkins_Museum_logo.png",
+   "drive_min": 454,
+   "drive_mi": 399
+  },
+  {
+   "name": "National WWI Museum and Memorial",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0803,
+   "lng": -94.5861,
+   "desc": "The national museum of the First World War beneath the 1926 Liberty Memorial tower.",
+   "refs": [
+    "nhl",
+    "overby"
+   ],
+   "url": "https://www.theworldwar.org",
+   "wiki": "National World War I Museum and Memorial",
+   "img": "The_National_WWI_Museum_and_Memorial_2017_logo_(black).svg",
+   "drive_min": 451,
+   "drive_mi": 397
+  },
+  {
+   "name": "Negro Leagues Baseball Museum and 18th & Vine",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0914,
+   "lng": -94.5627,
+   "desc": "Museum of Black professional baseball in the 18th and Vine jazz district, sharing a building with the American Jazz Museum.",
+   "refs": [
+    "jensen",
+    "visitmo"
+   ],
+   "url": "https://nlbm.com",
+   "wiki": "Negro Leagues Baseball Museum",
+   "img": "Nlbmandjazz.jpg",
+   "drive_min": 447,
+   "drive_mi": 395
+  },
+  {
+   "name": "Kemper Museum of Contemporary Art",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0464,
+   "lng": -94.5853,
+   "desc": "Free contemporary art museum near the Kansas City Art Institute.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Kemper Museum of Contemporary Art",
+   "img": "Kemper_Museum_of_Contemporary_Art.jpg",
+   "drive_min": 455,
+   "drive_mi": 399
+  },
+  {
+   "name": "Arabia Steamboat Museum",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.1098,
+   "lng": -94.5815,
+   "desc": "Cargo of an 1856 steamboat excavated from a Kansas cornfield, perfectly preserved in mud.",
+   "refs": [
+    "atlas",
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Arabia Steamboat Museum",
+   "img": null,
+   "drive_min": 446,
+   "drive_mi": 395
+  },
+  {
+   "name": "Kansas City Union Station",
+   "cat": "arch",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0848,
+   "lng": -94.5853,
+   "desc": "Jarvis Hunt's 1914 Beaux-Arts station with its Grand Hall, now a science center.",
+   "refs": [
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Kansas City Union Station",
+   "img": "KCUnionStation.jpg",
+   "drive_min": 451,
+   "drive_mi": 397
+  },
+  {
+   "name": "Country Club Plaza",
+   "cat": "arch",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0413,
+   "lng": -94.5918,
+   "desc": "J. C. Nichols's 1920s Spanish-inspired shopping district, among the first designed for the car.",
+   "refs": [
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Country Club Plaza",
+   "img": "Country_Club_Plaza_1_Kansas_City_MO.jpg",
+   "drive_min": 455,
+   "drive_mi": 401
+  },
+  {
+   "name": "Kauffman Center for the Performing Arts",
+   "cat": "arch",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0937,
+   "lng": -94.5868,
+   "desc": "Moshe Safdie's 2011 concert hall with a glass and steel shell facing downtown.",
+   "refs": [
+    "overby"
+   ],
+   "url": null,
+   "wiki": "Kauffman Center for the Performing Arts",
+   "img": "Kauffman_Center_for_Performing_Arts_2.jpg",
+   "drive_min": 448,
+   "drive_mi": 396
+  },
+  {
+   "name": "Thomas Hart Benton Home and Studio",
+   "cat": "culture",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0622,
+   "lng": -94.5978,
+   "desc": "The painter's house and studio, kept as he left it in 1975.",
+   "refs": [
+    "mopark",
+    "shsmo"
+   ],
+   "url": null,
+   "wiki": "Thomas Hart Benton Home and Studio State Historic Site",
+   "img": "BentexteriorHoriz.JPG",
+   "drive_min": 452,
+   "drive_mi": 399
+  },
+  {
+   "name": "Truman Library and Museum",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.1033,
+   "lng": -94.4208,
+   "desc": "Truman's presidential library in Independence.",
+   "refs": [
+    "mccullough"
+   ],
+   "url": "https://www.trumanlibrary.gov",
+   "wiki": "Harry S. Truman Presidential Library and Museum",
+   "img": "Harry_S._Truman_Presidential_Library_and_Museum_July_2007.jpg",
+   "drive_min": 451,
+   "drive_mi": 393
+  },
+  {
+   "name": "Harry S Truman National Historic Site",
+   "cat": "culture",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.0933,
+   "lng": -94.4231,
+   "desc": "Truman's modest Independence home, kept as he and Bess left it.",
+   "refs": [
+    "nps",
+    "mccullough"
+   ],
+   "url": "https://www.nps.gov/hstr",
+   "wiki": "Harry S. Truman National Historic Site",
+   "img": "Trumanhist.JPG",
+   "drive_min": 451,
+   "drive_mi": 397
+  },
+  {
+   "name": "Walt Disney Hometown Museum",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.7159,
+   "lng": -92.9476,
+   "desc": "Marceline's museum of Disney's childhood in the town that inspired Main Street, U.S.A.",
+   "refs": [
+    "roadside",
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Walt Disney Hometown Museum",
+   "img": "Marceline_Station_-_February_2017.jpg",
+   "drive_min": 312,
+   "drive_mi": 277
+  },
+  {
+   "name": "Pony Express National Museum",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.7561,
+   "lng": -94.8492,
+   "desc": "In the St. Joseph stables where the Pony Express began in 1860.",
+   "refs": [
+    "visitmo"
+   ],
+   "url": null,
+   "wiki": "Pony Express Museum",
+   "img": "Pony-express-joseph.jpg",
+   "drive_min": 429,
+   "drive_mi": 378
+  },
+  {
+   "name": "Glore Psychiatric Museum",
+   "cat": "museum",
+   "region": "Kansas City and northwest Missouri",
+   "lat": 39.7761,
+   "lng": -94.8083,
+   "desc": "History of psychiatric treatment in a former state hospital building in St. Joseph.",
+   "refs": [
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Glore Psychiatric Museum",
+   "img": "Glore_Psychiatric_Museum_Tranquility_Chair.jpg",
+   "drive_min": 428,
+   "drive_mi": 377
+  }
+ ]
+}

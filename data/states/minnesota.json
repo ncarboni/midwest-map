@@ -1,0 +1,934 @@
+{
+ "state": "MN",
+ "name": "Minnesota",
+ "regions": {
+  "Central Minnesota": "Breuer's abbey church at Collegeville, Lindbergh's and Sinclair Lewis's boyhood homes and, at the end of the road, the Mississippi headwaters at Itasca.",
+  "Lake Superior": "Duluth's lift bridge and Glensheen, then the North Shore drive past Gooseberry, Split Rock and Tettegouche to Grand Portage. Add the Apostle Islands from Bayfield on the Wisconsin side.",
+  "Northwoods": "Canoe country and the Iron Range: Ely's Wolf Center and the Boundary Waters, the Soudan mine, Hibbing's open pit and Voyageurs on the border.",
+  "Southern Minnesota": "Sullivan's jewel box bank in Owatonna, the Mayo Clinic's Plummer Building, the Marine Art Museum in Winona and, farther west, the prairie sites of Pipestone and Jeffers.",
+  "Twin Cities": "A long weekend at least: the Walker, Mia and Weisman, the riverfront from Mill City to the Stone Arch Bridge, Summit Avenue and the capitol in St. Paul, and Saarinen's Christ Church."
+ },
+ "sites": [
+  {
+   "name": "Walker Art Center and Sculpture Garden",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.9681,
+   "lng": -93.2886,
+   "desc": "A leading museum of contemporary art, expanded by Herzog and de Meuron, beside the garden of Spoonbridge and Cherry.",
+   "refs": [
+    "millett",
+    "explmn"
+   ],
+   "url": "https://walkerart.org",
+   "wiki": "Walker Art Center",
+   "img": "Walker_Art_Center_03.jpg",
+   "drive_min": 567,
+   "drive_mi": 516
+  },
+  {
+   "name": "Minneapolis Institute of Art",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.9586,
+   "lng": -93.2742,
+   "desc": "A free encyclopedic museum with strong Asian, American and decorative arts collections in a McKim, Mead and White building.",
+   "refs": [
+    "millett",
+    "explmn"
+   ],
+   "url": "https://artsmia.org",
+   "wiki": "Minneapolis Institute of Art",
+   "img": "Mia_minneapolis_logo.svg",
+   "drive_min": 569,
+   "drive_mi": 516
+  },
+  {
+   "name": "Weisman Art Museum",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9728,
+   "lng": -93.2381,
+   "desc": "Frank Gehry's stainless steel museum (1993) on the river bluff of the University of Minnesota.",
+   "refs": [
+    "millett",
+    "sah"
+   ],
+   "url": "https://wam.umn.edu",
+   "wiki": "Weisman Art Museum",
+   "img": "Weisman_Art_Museum_2015.jpg",
+   "drive_min": 565,
+   "drive_mi": 514
+  },
+  {
+   "name": "Mill City Museum",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.9794,
+   "lng": -93.2571,
+   "desc": "Built in the ruins of the Washburn A Mill, telling how flour milling made Minneapolis.",
+   "refs": [
+    "mnopedia",
+    "millett"
+   ],
+   "url": "https://www.mnhs.org/millcity",
+   "wiki": "Mill City Museum",
+   "img": "Mill_City_Museum_logo_2color.svg",
+   "drive_min": 568,
+   "drive_mi": 515
+  },
+  {
+   "name": "Guthrie Theater",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9781,
+   "lng": -93.2553,
+   "desc": "Jean Nouvel's dark blue theater (2006) with its cantilevered Endless Bridge over the river.",
+   "refs": [
+    "millett"
+   ],
+   "url": "https://www.guthrietheater.org",
+   "wiki": "Guthrie Theater",
+   "img": "Guthrie_Theater-night-2007-03-12.jpg",
+   "drive_min": 567,
+   "drive_mi": 515
+  },
+  {
+   "name": "Stone Arch Bridge",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9808,
+   "lng": -93.2536,
+   "desc": "James J. Hill's 1883 curved granite railroad bridge, now a walkway over St. Anthony Falls.",
+   "refs": [
+    "millett",
+    "mnopedia"
+   ],
+   "url": null,
+   "wiki": "Stone Arch Bridge (Minneapolis)",
+   "img": "Mill_City_Museum_20_view_of_Stone_Arch_bridge.jpg",
+   "drive_min": 569,
+   "drive_mi": 515
+  },
+  {
+   "name": "American Swedish Institute",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.955,
+   "lng": -93.2658,
+   "desc": "Swedish American culture in the 1908 Turnblad Mansion, a castle-like house with tile stoves.",
+   "refs": [
+    "millett",
+    "explmn"
+   ],
+   "url": "https://www.asimn.org",
+   "wiki": "American Swedish Institute",
+   "img": "American_Swedish_Institute_2015.jpg",
+   "drive_min": 569,
+   "drive_mi": 516
+  },
+  {
+   "name": "The Museum of Russian Art",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.9035,
+   "lng": -93.2761,
+   "desc": "A museum of Russian and Soviet-era art in a former church in south Minneapolis.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Museum of Russian Art",
+   "img": null,
+   "drive_min": 571,
+   "drive_mi": 519
+  },
+  {
+   "name": "Bell Museum",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.9912,
+   "lng": -93.1881,
+   "desc": "Minnesota's natural history museum and planetarium, known for its wildlife dioramas.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Bell Museum",
+   "img": null,
+   "drive_min": 565,
+   "drive_mi": 514
+  },
+  {
+   "name": "Purcell-Cutts House",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9593,
+   "lng": -93.3005,
+   "desc": "A 1913 Prairie School house by Purcell and Elmslie, owned by Mia and open for tours.",
+   "refs": [
+    "millett",
+    "sah"
+   ],
+   "url": null,
+   "wiki": "Edna S. Purcell House",
+   "img": "Purcell_and_Elmslie_Purcell-Cutts_House_MIA_9092.jpg",
+   "drive_min": 569,
+   "drive_mi": 517
+  },
+  {
+   "name": "Christ Church Lutheran",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9436,
+   "lng": -93.2233,
+   "desc": "Eliel Saarinen's last major work (1949), with an education wing by Eero Saarinen.",
+   "refs": [
+    "millett",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Christ Church Lutheran (Minneapolis, Minnesota)",
+   "img": "Christ_Church_Lutheran_NE.jpg",
+   "drive_min": 567,
+   "drive_mi": 513
+  },
+  {
+   "name": "Foshay Tower",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9744,
+   "lng": -93.2715,
+   "desc": "A 1929 obelisk skyscraper modeled on the Washington Monument, with a museum and observation deck.",
+   "refs": [
+    "millett"
+   ],
+   "url": null,
+   "wiki": "Foshay Tower",
+   "img": "Foshay_elevator_doors-Minneapolis-20050927.jpg",
+   "drive_min": 567,
+   "drive_mi": 516
+  },
+  {
+   "name": "Minnehaha Falls",
+   "cat": "nature",
+   "region": "Twin Cities",
+   "lat": 44.915,
+   "lng": -93.21,
+   "desc": "A 53 foot waterfall in a city park, made famous by Longfellow's Song of Hiawatha.",
+   "refs": [
+    "explmn",
+    "mnopedia"
+   ],
+   "url": null,
+   "wiki": "Minnehaha Park (Minneapolis)",
+   "img": "Minnehaha_Falls,_Minneapolis.jpg",
+   "drive_min": 569,
+   "drive_mi": 516
+  },
+  {
+   "name": "Minnesota State Capitol",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9553,
+   "lng": -93.1022,
+   "desc": "Cass Gilbert's marble capitol completed in 1905, with free tours.",
+   "refs": [
+    "millett",
+    "mnopedia"
+   ],
+   "url": "https://www.mnhs.org/capitol",
+   "wiki": "Minnesota State Capitol",
+   "img": "State_Capitol_with_new_Minnesota_State_Flag_11.jpg",
+   "drive_min": 555,
+   "drive_mi": 507
+  },
+  {
+   "name": "Cathedral of Saint Paul",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9469,
+   "lng": -93.1089,
+   "desc": "Emmanuel Masqueray's Beaux-Arts cathedral with one of the largest domes in North America.",
+   "refs": [
+    "millett"
+   ],
+   "url": null,
+   "wiki": "Cathedral of Saint Paul (Minnesota)",
+   "img": "St_Paul_Cathedral_2012.jpg",
+   "drive_min": 555,
+   "drive_mi": 507
+  },
+  {
+   "name": "James J. Hill House",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.945,
+   "lng": -93.1089,
+   "desc": "The railroad baron's 1891 Richardsonian Romanesque mansion on Summit Avenue.",
+   "refs": [
+    "millett",
+    "nhl"
+   ],
+   "url": "https://www.mnhs.org/hillhouse",
+   "wiki": "James J. Hill House",
+   "img": "James_J._Hill_House_2013.jpg",
+   "drive_min": 556,
+   "drive_mi": 507
+  },
+  {
+   "name": "Minnesota History Center",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.9497,
+   "lng": -93.1056,
+   "desc": "The Minnesota Historical Society's museum, with exhibits on the state's people, weather and industries.",
+   "refs": [
+    "mnopedia"
+   ],
+   "url": "https://www.mnhs.org/historycenter",
+   "wiki": "Minnesota History Center",
+   "img": "MN_History_Center01.jpg",
+   "drive_min": 555,
+   "drive_mi": 507
+  },
+  {
+   "name": "Science Museum of Minnesota",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.9425,
+   "lng": -93.0986,
+   "desc": "Large science museum on the Mississippi bluff in St. Paul, with dinosaurs and an omnitheater.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Science Museum of Minnesota",
+   "img": "Science_Museum_of_Minnesota_front.jpg",
+   "drive_min": 556,
+   "drive_mi": 506
+  },
+  {
+   "name": "Landmark Center",
+   "cat": "arch",
+   "region": "Twin Cities",
+   "lat": 44.9457,
+   "lng": -93.0971,
+   "desc": "St. Paul's 1902 Romanesque federal courthouse with a soaring skylit court.",
+   "refs": [
+    "millett"
+   ],
+   "url": null,
+   "wiki": "Landmark Center",
+   "img": null,
+   "drive_min": 555,
+   "drive_mi": 506
+  },
+  {
+   "name": "Como Park Zoo and Conservatory",
+   "cat": "nature",
+   "region": "Twin Cities",
+   "lat": 44.9814,
+   "lng": -93.1508,
+   "desc": "A free zoo and the 1915 Marjorie McNeely Conservatory glasshouse in St. Paul.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Como Park Zoo and Conservatory",
+   "img": "Como_Park_Zoo_and_Conservatory-2006.jpg",
+   "drive_min": 563,
+   "drive_mi": 511
+  },
+  {
+   "name": "Historic Fort Snelling",
+   "cat": "culture",
+   "region": "Twin Cities",
+   "lat": 44.8928,
+   "lng": -93.1806,
+   "desc": "The 1820s stone fort above the meeting of the Mississippi and Minnesota rivers, interpreted with Dakota history.",
+   "refs": [
+    "mnopedia",
+    "nhl"
+   ],
+   "url": "https://www.mnhs.org/fortsnelling",
+   "wiki": "Fort Snelling",
+   "img": "FortSnellingTower.jpg",
+   "drive_min": 564,
+   "drive_mi": 514
+  },
+  {
+   "name": "First Avenue",
+   "cat": "culture",
+   "region": "Twin Cities",
+   "lat": 44.9783,
+   "lng": -93.2761,
+   "desc": "The Minneapolis club with its wall of stars, forever tied to Prince and Purple Rain.",
+   "refs": [
+    "mnopedia"
+   ],
+   "url": null,
+   "wiki": "First Avenue (nightclub)",
+   "img": "FirstAvenue.jpg",
+   "drive_min": 568,
+   "drive_mi": 516
+  },
+  {
+   "name": "Paisley Park",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 44.8615,
+   "lng": -93.5606,
+   "desc": "Prince's home and recording complex in Chanhassen, open for tours.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Paisley Park",
+   "img": "20150502-PaisleyParkStudio.jpg",
+   "drive_min": 589,
+   "drive_mi": 533
+  },
+  {
+   "name": "Minnesota Landscape Arboretum",
+   "cat": "nature",
+   "region": "Twin Cities",
+   "lat": 44.8619,
+   "lng": -93.6152,
+   "desc": "The University of Minnesota's large arboretum in Chaska, with gardens, prairie and woodland drives.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "University of Minnesota Landscape Arboretum",
+   "img": "Minnesota_Landscape_Arboretum_Annual_Garden.jpg",
+   "drive_min": 592,
+   "drive_mi": 536
+  },
+  {
+   "name": "Franconia Sculpture Park",
+   "cat": "museum",
+   "region": "Twin Cities",
+   "lat": 45.3814,
+   "lng": -92.7056,
+   "desc": "An open-air park of large contemporary sculpture in farm country, free and open year-round.",
+   "refs": [
+    "atlas",
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Franconia Sculpture Park",
+   "img": "Franconia_Sculpture_Park_visitor_center.jpg",
+   "drive_min": 580,
+   "drive_mi": 517
+  },
+  {
+   "name": "Interstate State Park",
+   "cat": "nature",
+   "region": "Twin Cities",
+   "lat": 45.3917,
+   "lng": -92.6653,
+   "desc": "Basalt cliffs and glacial potholes on the St. Croix River at Taylors Falls.",
+   "refs": [
+    "mndnr"
+   ],
+   "url": null,
+   "wiki": "Interstate Park",
+   "img": "Dalles_Of_St_Croix.jpg",
+   "drive_min": 582,
+   "drive_mi": 515
+  },
+  {
+   "name": "National Farmers' Bank, Owatonna",
+   "cat": "arch",
+   "region": "Southern Minnesota",
+   "lat": 44.085,
+   "lng": -93.2258,
+   "desc": "Louis Sullivan's 1908 bank, the first and grandest of his jewel box banks, with ornament by George Elmslie.",
+   "refs": [
+    "morrison",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "National Farmers' Bank of Owatonna",
+   "img": "OwatonnaBank.JPG",
+   "drive_min": 536,
+   "drive_mi": 481
+  },
+  {
+   "name": "SPAM Museum",
+   "cat": "culture",
+   "region": "Southern Minnesota",
+   "lat": 43.6693,
+   "lng": -92.9746,
+   "desc": "Hormel's free museum in Austin devoted to the famous canned meat.",
+   "refs": [
+    "roadside",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Spam Museum",
+   "img": "Spam_Museum.jpg",
+   "drive_min": 496,
+   "drive_mi": 428
+  },
+  {
+   "name": "Plummer Building, Mayo Clinic",
+   "cat": "arch",
+   "region": "Southern Minnesota",
+   "lat": 44.0217,
+   "lng": -92.4656,
+   "desc": "A 1928 tower with a carillon, the historic heart of the Mayo Clinic in Rochester.",
+   "refs": [
+    "nhl",
+    "mnopedia"
+   ],
+   "url": null,
+   "wiki": "Plummer Building",
+   "img": "Plummer-building.jpg",
+   "drive_min": 500,
+   "drive_mi": 455
+  },
+  {
+   "name": "Mayowood",
+   "cat": "arch",
+   "region": "Southern Minnesota",
+   "lat": 43.9965,
+   "lng": -92.5133,
+   "desc": "The country home of Charles H. Mayo outside Rochester, open for tours.",
+   "refs": [
+    "mnopedia"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 501,
+   "drive_mi": 456
+  },
+  {
+   "name": "Minnesota Marine Art Museum",
+   "cat": "museum",
+   "region": "Southern Minnesota",
+   "lat": 44.059,
+   "lng": -91.657,
+   "desc": "Winona museum of art inspired by water, from Hudson River painters to Monet and Van Gogh.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Minnesota Marine Art Museum",
+   "img": "Minnesota_Marine_Art_Museum_2017.jpg",
+   "drive_min": 456,
+   "drive_mi": 413
+  },
+  {
+   "name": "Niagara Cave",
+   "cat": "nature",
+   "region": "Southern Minnesota",
+   "lat": 43.514,
+   "lng": -92.0551,
+   "desc": "A show cave with an underground waterfall in Minnesota's bluff country.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Niagara Cave",
+   "img": "Passageway_in_Niagara_Cave.jpg",
+   "drive_min": 469,
+   "drive_mi": 381
+  },
+  {
+   "name": "Pipestone National Monument",
+   "cat": "nature",
+   "region": "Southern Minnesota",
+   "lat": 44.0133,
+   "lng": -96.325,
+   "desc": "Quarries of red pipestone still worked by Native Americans, set in tallgrass prairie.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/pipe",
+   "wiki": "Pipestone National Monument",
+   "img": "QuarryPipestoneMN.jpg",
+   "drive_min": 705,
+   "drive_mi": 627
+  },
+  {
+   "name": "Jeffers Petroglyphs",
+   "cat": "culture",
+   "region": "Southern Minnesota",
+   "lat": 44.0919,
+   "lng": -95.0536,
+   "desc": "Thousands of carvings on a red quartzite outcrop in the prairie, sacred to the Dakota.",
+   "refs": [
+    "mnopedia"
+   ],
+   "url": "https://www.mnhs.org/jefferspetroglyphs",
+   "wiki": "Jeffers Petroglyphs",
+   "img": "JeffersPetroglyphs.jpg",
+   "drive_min": 650,
+   "drive_mi": 570
+  },
+  {
+   "name": "Jolly Green Giant",
+   "cat": "culture",
+   "region": "Southern Minnesota",
+   "lat": 43.6506,
+   "lng": -94.0961,
+   "desc": "A 55 foot statue of the vegetable mascot in Blue Earth.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Green Giant",
+   "img": null,
+   "drive_min": 548,
+   "drive_mi": 492
+  },
+  {
+   "name": "Saint John's Abbey Church",
+   "cat": "arch",
+   "region": "Central Minnesota",
+   "lat": 45.5803,
+   "lng": -94.3922,
+   "desc": "Marcel Breuer's concrete abbey church (1961) fronted by its great bell banner.",
+   "refs": [
+    "young",
+    "sah"
+   ],
+   "url": "https://www.saintjohnsabbey.org",
+   "wiki": "Saint John's Abbey, Collegeville",
+   "img": "2009-0522-MN-SJU-abbeychurch.jpg",
+   "drive_min": 650,
+   "drive_mi": 592
+  },
+  {
+   "name": "Charles A. Lindbergh House",
+   "cat": "culture",
+   "region": "Central Minnesota",
+   "lat": 45.958,
+   "lng": -94.389,
+   "desc": "Boyhood farm of the aviator on the Mississippi at Little Falls.",
+   "refs": [
+    "nhl",
+    "mnopedia"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 684,
+   "drive_mi": 613
+  },
+  {
+   "name": "Sinclair Lewis Boyhood Home",
+   "cat": "culture",
+   "region": "Central Minnesota",
+   "lat": 45.7372,
+   "lng": -94.9574,
+   "desc": "Sauk Centre home of the author of Main Street, the first American to win the Nobel Prize in literature.",
+   "refs": [
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Sinclair Lewis Boyhood Home",
+   "img": "Sinclair_Lewis_Boyhood_Home.jpg",
+   "drive_min": 681,
+   "drive_mi": 621
+  },
+  {
+   "name": "Mille Lacs Indian Museum",
+   "cat": "museum",
+   "region": "Central Minnesota",
+   "lat": 46.1767,
+   "lng": -93.7558,
+   "desc": "Museum of the Mille Lacs Band of Ojibwe, created with the band.",
+   "refs": [
+    "mnopedia"
+   ],
+   "url": null,
+   "wiki": "Mille Lacs Indian Museum and Trading Post",
+   "img": "Mille_Lacs_Indian_Museum.jpg",
+   "drive_min": 671,
+   "drive_mi": 608
+  },
+  {
+   "name": "Itasca State Park",
+   "cat": "nature",
+   "region": "Central Minnesota",
+   "lat": 47.2397,
+   "lng": -95.2075,
+   "desc": "Minnesota's oldest state park, where you can walk across the headwaters of the Mississippi.",
+   "refs": [
+    "mndnr",
+    "wpaMN"
+   ],
+   "url": null,
+   "wiki": "Itasca State Park",
+   "img": "Mississippi_River_at_Itasca.jpg",
+   "drive_min": 834,
+   "drive_mi": 733
+  },
+  {
+   "name": "Paul Bunyan and Babe the Blue Ox",
+   "cat": "culture",
+   "region": "Central Minnesota",
+   "lat": 47.4704,
+   "lng": -94.8789,
+   "desc": "The 1937 statues on the Bemidji lakeshore, among the most photographed roadside giants in America.",
+   "refs": [
+    "roadside",
+    "jensen"
+   ],
+   "url": null,
+   "wiki": "Paul Bunyan and Babe the Blue Ox",
+   "img": "Paul_Bunyan_and_Babe_the_Blue_Ox.jpg",
+   "drive_min": 826,
+   "drive_mi": 730
+  },
+  {
+   "name": "Glensheen",
+   "cat": "arch",
+   "region": "Lake Superior",
+   "lat": 46.8152,
+   "lng": -92.0518,
+   "desc": "The Congdon family's 1908 estate on the Duluth shore, run by the University of Minnesota Duluth.",
+   "refs": [
+    "mnopedia"
+   ],
+   "url": "https://glensheen.org",
+   "wiki": "Glensheen Historic Estate",
+   "img": "Glensheen.JPG",
+   "drive_min": 648,
+   "drive_mi": 579
+  },
+  {
+   "name": "Aerial Lift Bridge",
+   "cat": "arch",
+   "region": "Lake Superior",
+   "lat": 46.779,
+   "lng": -92.0929,
+   "desc": "Duluth's lift bridge over the ship canal, best seen when a lake freighter passes.",
+   "refs": [
+    "mnopedia",
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Aerial Lift Bridge",
+   "img": "Aerial_lift_bridge_duluth_mn.jpg",
+   "drive_min": 645,
+   "drive_mi": 575
+  },
+  {
+   "name": "Tweed Museum of Art",
+   "cat": "museum",
+   "region": "Lake Superior",
+   "lat": 46.8186,
+   "lng": -92.0844,
+   "desc": "The University of Minnesota Duluth's art museum, free.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Tweed Museum of Art",
+   "img": "Tweed_Museum_of_Art.jpg",
+   "drive_min": 649,
+   "drive_mi": 579
+  },
+  {
+   "name": "Lake Superior Railroad Museum",
+   "cat": "museum",
+   "region": "Lake Superior",
+   "lat": 46.7814,
+   "lng": -92.1039,
+   "desc": "Locomotives inside Duluth's 1892 Union Depot, with excursion trains along the North Shore.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "Lake Superior Railroad Museum",
+   "img": "Duluth_Depot.jpg",
+   "drive_min": 642,
+   "drive_mi": 575
+  },
+  {
+   "name": "Split Rock Lighthouse",
+   "cat": "culture",
+   "region": "Lake Superior",
+   "lat": 47.2,
+   "lng": -91.3669,
+   "desc": "A 1910 lighthouse on a cliff above Lake Superior, run by the Minnesota Historical Society.",
+   "refs": [
+    "mnopedia",
+    "wpaMN"
+   ],
+   "url": "https://www.mnhs.org/splitrock",
+   "wiki": "Split Rock Lighthouse",
+   "img": "Spit_Rock_Lighthouse_2012.jpg",
+   "drive_min": 710,
+   "drive_mi": 623
+  },
+  {
+   "name": "Gooseberry Falls State Park",
+   "cat": "nature",
+   "region": "Lake Superior",
+   "lat": 47.1469,
+   "lng": -91.4633,
+   "desc": "Waterfalls cascading toward Lake Superior, with CCC-era stone buildings.",
+   "refs": [
+    "mndnr"
+   ],
+   "url": null,
+   "wiki": "Gooseberry Falls State Park",
+   "img": "GooseberryFalls_Oct2005.JPG",
+   "drive_min": 700,
+   "drive_mi": 616
+  },
+  {
+   "name": "Tettegouche State Park",
+   "cat": "nature",
+   "region": "Lake Superior",
+   "lat": 47.3358,
+   "lng": -91.1994,
+   "desc": "Cliffs, sea stacks and the High Falls of the Baptism River on the North Shore.",
+   "refs": [
+    "mndnr"
+   ],
+   "url": null,
+   "wiki": "Tettegouche State Park",
+   "img": "Northern_MN_Spring_2005_099.jpg",
+   "drive_min": 726,
+   "drive_mi": 635
+  },
+  {
+   "name": "Grand Portage National Monument",
+   "cat": "culture",
+   "region": "Lake Superior",
+   "lat": 47.9964,
+   "lng": -89.7342,
+   "desc": "A reconstructed fur trade depot at the start of the 8.5 mile portage, with the Grand Portage Band of Lake Superior Chippewa.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/grpo",
+   "wiki": "Grand Portage National Monument",
+   "img": "050820_GrandPortageNationalMonument.jpg",
+   "drive_min": 855,
+   "drive_mi": 722
+  },
+  {
+   "name": "Boundary Waters Canoe Area Wilderness",
+   "cat": "nature",
+   "region": "Northwoods",
+   "lat": 48,
+   "lng": -91,
+   "desc": "More than a million acres of lakes and portages in the Superior National Forest, best entered from Ely.",
+   "refs": [
+    "olson",
+    "usfs"
+   ],
+   "url": "https://www.fs.usda.gov/superior",
+   "wiki": "Boundary Waters Canoe Area Wilderness",
+   "img": "Pose_lake_Minnesota.jpg",
+   "drive_min": 877,
+   "drive_mi": 733
+  },
+  {
+   "name": "International Wolf Center",
+   "cat": "nature",
+   "region": "Northwoods",
+   "lat": 47.9058,
+   "lng": -91.8278,
+   "desc": "Ely center with a resident wolf pack and exhibits on wolf ecology.",
+   "refs": [
+    "explmn"
+   ],
+   "url": null,
+   "wiki": "International Wolf Center",
+   "img": "Northern_MN_-_098.jpg",
+   "drive_min": 791,
+   "drive_mi": 689
+  },
+  {
+   "name": "Soudan Underground Mine",
+   "cat": "culture",
+   "region": "Northwoods",
+   "lat": 47.8233,
+   "lng": -92.2372,
+   "desc": "Ride a cage half a mile down into Minnesota's oldest iron mine.",
+   "refs": [
+    "mndnr",
+    "nhl"
+   ],
+   "url": null,
+   "wiki": "Lake Vermilion-Soudan Underground Mine State Park",
+   "img": "SoudanMine_arf.JPG",
+   "drive_min": 761,
+   "drive_mi": 668
+  },
+  {
+   "name": "Hull-Rust-Mahoning Open Pit Iron Mine",
+   "cat": "culture",
+   "region": "Northwoods",
+   "lat": 47.4583,
+   "lng": -92.95,
+   "desc": "An overlook into one of the largest open pit iron mines in the world, at Hibbing.",
+   "refs": [
+    "nhl",
+    "atlas"
+   ],
+   "url": null,
+   "wiki": "Hull–Rust–Mahoning Open Pit Iron Mine",
+   "img": "Hull–Rust–Mahoning_Open_Pit_Iron_Mine.jpg",
+   "drive_min": 764,
+   "drive_mi": 661
+  },
+  {
+   "name": "Greyhound Bus Museum",
+   "cat": "museum",
+   "region": "Northwoods",
+   "lat": 47.4383,
+   "lng": -92.9394,
+   "desc": "Hibbing museum of the bus line that began here in 1914.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": "Greyhound Bus Museum",
+   "img": "Greyhound_Bus_Museum.JPG",
+   "drive_min": 736,
+   "drive_mi": 650
+  },
+  {
+   "name": "Judy Garland Museum",
+   "cat": "museum",
+   "region": "Northwoods",
+   "lat": 47.2064,
+   "lng": -93.5298,
+   "desc": "Grand Rapids museum at Garland's restored childhood home.",
+   "refs": [
+    "roadside"
+   ],
+   "url": null,
+   "wiki": null,
+   "img": null,
+   "drive_min": 738,
+   "drive_mi": 655
+  },
+  {
+   "name": "Voyageurs National Park",
+   "cat": "nature",
+   "region": "Northwoods",
+   "lat": 48.5,
+   "lng": -92.8833,
+   "desc": "A water-based park of interconnected lakes on the Canadian border, explored by boat.",
+   "refs": [
+    "nps"
+   ],
+   "url": "https://www.nps.gov/voya",
+   "wiki": "Voyageurs National Park",
+   "img": "Voyageurs_National_Park.jpg",
+   "drive_min": 832,
+   "drive_mi": 721
+  }
+ ]
+}
